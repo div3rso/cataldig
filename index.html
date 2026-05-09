@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo Oficial</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f8f9fa; margin: 0; padding: 20px; }
+        .encabezado { text-align: center; margin-bottom: 40px; padding: 20px; background: white; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .encabezado img { max-width: 250px; height: auto; } 
+        .cuadricula-productos { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 25px; max-width: 1200px; margin: 0 auto; }
+        .tarjeta-producto { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s; }
+        .tarjeta-producto:hover { transform: translateY(-5px); }
+        .tarjeta-producto img { max-width: 100%; height: 180px; object-fit: contain; margin-bottom: 15px; }
+        .tarjeta-producto h3 { color: #333; font-size: 1.1em; margin: 0; line-height: 1.4; }
+        .btn-consultar { background: #2c3e50; color: white; border: none; padding: 12px; width: 100%; border-radius: 6px; cursor: pointer; margin-top: 15px; font-weight: bold; text-decoration: none; display: inline-block; box-sizing: border-box; }
+        .btn-consultar:hover { background: #1a252f; }
+        .estado { text-align: center; color: #666; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+    <div class="encabezado">
+        <img src="https://via.placeholder.com/250x100?text=TU+LOGOTIPO" alt="Logotipo">
+        <h2 style="color: #666; font-weight: normal;">Catálogo de Productos</h2>
+    </div>
+
+    <div id="mensaje-estado" class="estado">Cargando catálogo actualizado...</div>
+    <div id="galeria" class="cuadricula-productos"></div>
+
+    <script>
+        // Esta función lee el archivo que genera el robot en la nube
+        async function cargarCatalogo() {
+            try {
+                // Buscamos el archivo JSON que tiene los productos actualizados
+                const respuesta = await fetch('productos.json');
+                const productos = await respuesta.json();
+                
+                const galeria = document.getElementById('galeria');
+                document.getElementById('mensaje-estado').style.display = 'none';
+                
+                productos.forEach(producto => {
+                    const tarjeta = `
+                        <div class="tarjeta-producto">
+                            <img src="${producto.imagen}" alt="${producto.nombre}">
+                            <h3>${producto.nombre}</h3>
+                            <!-- El botón puede llevar a tu WhatsApp, por ejemplo -->
+                            <a href="https://wa.me/TUNUMERO?text=Hola, quiero consultar sobre: ${producto.nombre}" target="_blank" class="btn-consultar">Consultar por WhatsApp</a>
+                        </div>
+                    `;
+                    galeria.innerHTML += tarjeta;
+                });
+            } catch (error) {
+                document.getElementById('mensaje-estado').innerText = "Hubo un error al cargar los productos. Intenta más tarde.";
+                console.error("Error cargando productos:", error);
+            }
+        }
+
+        cargarCatalogo();
+    </script>
+</body>
+</html>
