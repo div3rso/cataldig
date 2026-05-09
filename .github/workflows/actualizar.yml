@@ -1,0 +1,35 @@
+name: Actualizar Catálogo Automáticamente
+
+on:
+  schedule:
+    # Se ejecuta todos los días a la medianoche (Hora UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente con un botón
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Clonar el repositorio
+      uses: actions/checkout@v3
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Instalar herramientas
+      run: |
+        pip install requests beautifulsoup4
+
+    - name: Ejecutar el Robot (Scraper)
+      run: python scraper.py
+
+    - name: Guardar los cambios (Commit y Push)
+      run: |
+        git config --global user.name "Robot del Catálogo"
+        git config --global user.email "robot@tucatalogo.com"
+        git add productos.json
+        git commit -m "Actualización automática de productos" || echo "No hay cambios nuevos"
+        git push
