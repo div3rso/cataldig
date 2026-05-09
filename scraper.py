@@ -60,7 +60,7 @@ def obtener_productos():
                 
                 # Corrección de URL de imagen si es relativa
                 if imagen and not imagen.startswith(('http://', 'https://')):
-                    # La url de Digicorp es https://digicorp.com.bo/
+                    # La url de Digicorp es https://digicorp.com.bo/marcas
                     base_url = url.split("//")[1].split("/")[0]
                     imagen = f"https://{base_url}{imagen}" if not imagen.startswith('/') else f"https://{base_url}/{imagen}"
 
