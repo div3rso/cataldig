@@ -18,27 +18,65 @@ def obtener_productos():
         
         productos = []
         
-        # NOTA: Estas etiquetas (div, class) pueden variar dependiendo de cómo 
-        # esté construida exactamente la web de Digicorp por dentro.
-        # Este es un bloque genérico de búsqueda.
-        tarjetas = sopa.find_all('div', class_='product-card') # Ajustar según el código real de la web
+        # --- BÚSQUEDA ROBUSTA DE PRODUCTOS ---
+        # Buscaremos primero por patrones comunes de productos en tiendas online.
         
+        # Intentamos encontrar los "items" del catálogo directamente por clases comunes
+        # de elementos que *contienen* información del producto.
+        tarjetas = (
+            sopa.find_all('div', class_=lambda x: x and 'product' in x and ('item' in x or 'block' in x or 'grid' in x))
+            or sopa.find_all('li', class_=lambda x: x and 'product' in x and ('item' in x or 'block' in x or 'grid' in x))
+        )
+        
+        # Si la búsqueda robusta no encuentra nada, volvemos a la simple por si acaso.
+        if not tarjetas:
+            print("Intento con selectores robusos falló. Intentando con selectores simples.")
+            tarjetas = sopa.find_all('div', class_='product-item') or sopa.find_all('div', class_='product-grid-item')
+            
+        print(f"Número de tarjetas de producto encontradas: {len(tarjetas)}")
+
         for tarjeta in tarjetas:
-            # Extraemos nombre e imagen. Ignoramos el precio.
-            nombre_elem = tarjeta.find('h3')
-            img_elem = tarjeta.find('img')
+            # Extraemos nombre de forma robusta
+            nombre_elem = (
+                tarjeta.find('a', class_=lambda x: x and 'product' in x and 'name' in x)
+                or tarjeta.find(['h3', 'h4'], class_=lambda x: x and 'product' in x and 'name' in x)
+                or tarjeta.find('a', class_='product-item-link')
+            )
+            
+            # Extraemos imagen de forma robusta
+            img_elem = (
+                tarjeta.find('img', class_=lambda x: x and 'product' in x and 'image' in x)
+                or tarjeta.find('img', class_='product-item-image')
+                or tarjeta.find('img')
+            )
             
             if nombre_elem and img_elem:
-                productos.append({
-                    "nombre": nombre_elem.text.strip(),
-                    "imagen": img_elem.get('src', 'https://via.placeholder.com/200?text=Sin+Imagen')
-                })
+                nombre = nombre_elem.text.strip()
+                # Limpieza de nombre en caso de que sea un enlace
+                if len(nombre) > 150:
+                    nombre = nombre[:147] + "..."
+                    
+                imagen = img_elem.get('src', 'https://via.placeholder.com/200?text=Sin+Imagen')
+                
+                # Corrección de URL de imagen si es relativa
+                if imagen and not imagen.startswith(('http://', 'https://')):
+                    # La url de Digicorp es https://digicorp.com.bo/
+                    base_url = url.split("//")[1].split("/")[0]
+                    imagen = f"https://{base_url}{imagen}" if not imagen.startswith('/') else f"https://{base_url}/{imagen}"
+
+                # Asegurar que el nombre no esté vacío antes de añadir
+                if nombre:
+                    productos.append({
+                        "nombre": nombre,
+                        "imagen": imagen
+                    })
+                    # print(f"Producto encontrado: {nombre}") # Descomentar para depurar más
                 
         # Guardar en un archivo JSON que leerá el HTML
         with open('productos.json', 'w', encoding='utf-8') as f:
             json.dump(productos, f, ensure_ascii=False, indent=4)
             
-        print(f"Éxito: Se guardaron {len(productos)} productos en productos.json")
+        print(f"Éxito: Se guardaron {len(productos)} productos válidos en productos.json")
         
     except Exception as e:
         print(f"Error durante la extracción: {e}")
