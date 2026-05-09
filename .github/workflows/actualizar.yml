@@ -16,7 +16,7 @@ jobs:
     - name: Clonar el repositorio
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0 # Permite al robot ver todo el historial para no perderse
+        fetch-depth: 0
 
     - name: Configurar Python
       uses: actions/setup-python@v5
@@ -34,7 +34,7 @@ jobs:
       run: |
         git config --global user.name "Robot del Catálogo"
         git config --global user.email "robot@tucatalogo.com"
+        git pull origin main --rebase
         git add productos.json
         git commit -m "Actualización automática de productos" || echo "No hay cambios nuevos"
-        git pull --rebase origin main
-        git push
+        git push origin main
