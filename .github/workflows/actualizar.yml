@@ -2,9 +2,11 @@ name: Actualizar Catálogo Automáticamente
 
 on:
   schedule:
-    # Se ejecuta todos los días a la medianoche (Hora UTC)
     - cron: '0 0 * * *'
-  workflow_dispatch: # Permite ejecutarlo manualmente con un botón
+  workflow_dispatch:
+
+permissions:
+  contents: write # Esto asegura que el robot tenga permiso de guardar
 
 jobs:
   actualizar:
@@ -12,10 +14,10 @@ jobs:
 
     steps:
     - name: Clonar el repositorio
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4 # Actualizado para quitar la advertencia
 
     - name: Configurar Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5 # Actualizado para quitar la advertencia
       with:
         python-version: '3.x'
 
