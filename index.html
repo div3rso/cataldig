@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Catálogo de Productos</title>
+    <title>Catálogo de Soluciones Tecnológicas</title>
     <style>
         :root { --primario: #2c3e50; --secundario: #25D366; --fondo: #f8f9fa; }
         body { font-family: 'Segoe UI', sans-serif; background-color: var(--fondo); margin: 0; padding: 20px; color: #333; }
@@ -13,12 +13,10 @@
         
         .controles { max-width: 1200px; margin: 0 auto 30px; }
         
-        /* Caja de Búsqueda */
         .busqueda-container { margin-bottom: 20px; text-align: center; }
         #buscador { width: 100%; max-width: 500px; padding: 12px 20px; border: 2px solid #ddd; border-radius: 25px; font-size: 16px; outline: none; transition: border-color 0.3s; }
         #buscador:focus { border-color: var(--primario); }
 
-        /* Menú de Categorías */
         .menu-categorias { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px; }
         .btn-cat { background: white; border: 1px solid #ddd; padding: 8px 18px; border-radius: 20px; cursor: pointer; font-size: 13px; font-weight: 600; transition: 0.3s; }
         .btn-cat:hover { background: #f0f0f0; }
@@ -31,6 +29,7 @@
         .card .cat-tag { font-size: 11px; background: #eee; padding: 3px 8px; border-radius: 5px; align-self: center; margin-bottom: 10px; text-transform: uppercase; }
         .card h3 { font-size: 14px; margin: 0 0 15px; height: 40px; overflow: hidden; }
         .btn-wa { background: var(--secundario); color: white; text-decoration: none; padding: 10px; border-radius: 8px; font-weight: bold; font-size: 14px; margin-top: auto; }
+        .mensaje-limite { grid-column: 1/-1; text-align: center; padding: 20px; color: #666; font-style: italic; }
     </style>
 </head>
 <body>
@@ -52,6 +51,7 @@
     <script>
         let db = [];
         let catActual = 'TODOS';
+        const LIMITE_MOSTRAR = 120; // Límite de seguridad para evitar que los celulares colapsen
 
         async function inicio() {
             try {
@@ -60,7 +60,7 @@
                 renderMenu();
                 filtrar();
             } catch (e) {
-                document.getElementById('galeria').innerHTML = "<p>Cargando productos...</p>";
+                document.getElementById('galeria').innerHTML = "<p style='text-align:center;'>Cargando productos...</p>";
             }
         }
 
@@ -84,28 +84,39 @@
         function filtrar() {
             const query = document.getElementById('buscador').value.toLowerCase();
             const galeria = document.getElementById('galeria');
-            galeria.innerHTML = '';
 
+            // 1. Buscamos y filtramos todos los productos correspondientes
             const filtrados = db.filter(p => {
                 const matchCat = (catActual === 'TODOS' || p.categoria === catActual);
                 const matchSearch = p.nombre.toLowerCase().includes(query);
                 return matchCat && matchSearch;
             });
 
-            filtrados.forEach(p => {
-                galeria.innerHTML += `
+            // 2. Protegemos la memoria del dispositivo tomando solo los primeros 120
+            const productosAMostrar = filtrados.slice(0, LIMITE_MOSTRAR);
+
+            // 3. Construimos todo el HTML en la memoria (súper rápido) en lugar de dibujar tarjeta por tarjeta
+            let htmlContenido = '';
+            
+            productosAMostrar.forEach(p => {
+                htmlContenido += `
                     <div class="card">
                         <span class="cat-tag">${p.categoria}</span>
-                        <img src="${p.imagen}" alt="${p.nombre}">
+                        <img src="${p.imagen}" alt="${p.nombre}" loading="lazy">
                         <h3>${p.nombre}</h3>
-                        <a href="https://wa.me/TUNUMERO?text=Consulta: ${encodeURIComponent(p.nombre)}" target="_blank" class="btn-wa">Consultar disponibilidad</a>
+                        <a href="https://wa.me/TUNUMERO?text=Consulta sobre: ${encodeURIComponent(p.nombre)}" target="_blank" class="btn-wa">Consultar disponibilidad</a>
                     </div>
                 `;
             });
             
-            if(filtrados.length === 0) {
-                galeria.innerHTML = "<p style='grid-column: 1/-1; text-align: center;'>No se encontraron productos.</p>";
+            if (filtrados.length === 0) {
+                htmlContenido = "<p class='mensaje-limite'>No se encontraron productos con ese nombre.</p>";
+            } else if (filtrados.length > LIMITE_MOSTRAR) {
+                htmlContenido += `<p class='mensaje-limite'>Mostrando los primeros ${LIMITE_MOSTRAR} productos de ${filtrados.length}. Por favor, utiliza el buscador para encontrar un equipo específico.</p>`;
             }
+
+            // 4. Se lo inyectamos a la página en 1 solo movimiento
+            galeria.innerHTML = htmlContenido;
         }
 
         inicio();
