@@ -21,10 +21,9 @@ categorias_a_extraer = {
 }
 
 def obtener_productos():
-    print("Iniciando extracción con Visión Humana...")
+    print("Iniciando extracción con protección de memoria...")
     productos_totales = []
     
-    # Palabras que sabemos que no son productos
     palabras_basura = ['contáctanos', 'horarios', 'google play', 'app store', 'descarga', 'boletín', 'suscríbete', 'inicio', 'nosotros', 'políticas', 'términos', 'bs.', 'oferta', 'nuevo']
     
     try:
@@ -37,14 +36,11 @@ def obtener_productos():
                 print(f"Explorando pasillo: {nombre_cat}...")
                 try:
                     pagina.goto(url, wait_until="networkidle", timeout=60000)
+                    pagina.wait_for_timeout(5000)
                     
-                    # Le damos 8 segundos a la página para que conecte con su base de datos
-                    pagina.wait_for_timeout(8000)
-                    
-                    # Hacemos scroll profundo usando comandos directos al navegador
-                    for i in range(8): 
+                    for i in range(5): 
                         pagina.evaluate("window.scrollBy(0, 800)")
-                        pagina.wait_for_timeout(2500)
+                        pagina.wait_for_timeout(2000)
                         
                     html = pagina.content()
                     sopa = BeautifulSoup(html, 'html.parser')
@@ -52,34 +48,33 @@ def obtener_productos():
                     count = 0
                     nombres_vistos = set()
                     
-                    # NUEVA ESTRATEGIA: Buscamos directamente TODAS las imágenes de la página
                     for img in sopa.find_all('img'):
                         imagen = img.get('src') or img.get('data-src') or img.get('data-original')
                         if not imagen: continue
                         
-                        # Descartamos logotipos, iconos y banners
+                        # FILTRO VITAL: Evitar imágenes codificadas en texto gigante (Base64) que bloquean celulares
+                        if imagen.startswith('data:image'):
+                            continue
+                            
+                        # Ignorar logotipos e íconos
                         if any(x in imagen.lower() for x in ['logo', 'icon', 'banner', 'footer', 'svg', 'gif']):
                             continue
                             
-                        # Si es una imagen real, buscamos el texto que tiene a su alrededor
                         padre = img.parent
                         nombre = ""
                         
-                        for _ in range(4): # Miramos en los contenedores cercanos a la imagen
+                        for _ in range(4):
                             if padre:
                                 textos = list(padre.stripped_strings)
-                                # Buscamos textos que sean lo suficientemente largos para ser un producto
                                 textos_validos = [t for t in textos if len(t) > 10 and not any(b in t.lower() for b in palabras_basura)]
                                 
                                 if textos_validos:
-                                    # Nos quedamos con el texto más largo (suele ser la descripción del equipo)
                                     nombre = max(textos_validos, key=len)
                                     break
                                 padre = padre.parent
                                 
                         if nombre and imagen:
                             nombre = nombre.strip().replace('\n', ' ')
-                            # Verificamos que sea un nombre válido y que no lo hayamos guardado ya
                             if len(nombre) > 12 and nombre not in nombres_vistos:
                                 if not imagen.startswith('http'):
                                     imagen = f"https://www.digicorp.com.bo{imagen}" if imagen.startswith('/') else f"https://www.digicorp.com.bo/{imagen}"
@@ -92,13 +87,12 @@ def obtener_productos():
                                 nombres_vistos.add(nombre)
                                 count += 1
                                 
-                    print(f"  -> Capturados {count} productos reales de {nombre_cat}")
+                    print(f"  -> Capturados {count} productos ligeros de {nombre_cat}")
                 except Exception as e:
                     print(f"  -> Error en {nombre_cat}: {e}")
                     
             navegador.close()
             
-        # Filtro final de seguridad para evitar duplicados en el catálogo entero
         vistos = set()
         productos_finales = []
         for p in productos_totales:
@@ -109,10 +103,10 @@ def obtener_productos():
         with open('productos.json', 'w', encoding='utf-8') as f:
             json.dump(productos_finales, f, ensure_ascii=False, indent=4)
             
-        print(f"\nProceso finalizado. Total guardado: {len(productos_finales)} productos limpios.")
+        print(f"\nProceso finalizado. Total guardado: {len(productos_finales)} productos.")
         
     except Exception as e:
-        print(f"Fallo general del sistema: {e}")
+        print(f"Fallo general: {e}")
 
 if __name__ == "__main__":
     obtener_productos()
