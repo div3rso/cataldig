@@ -25,7 +25,8 @@ jobs:
 
     - name: Instalar herramientas
       run: |
-        pip install requests beautifulsoup4
+        pip install playwright beautifulsoup4
+        playwright install chromium
 
     - name: Ejecutar el Robot (Scraper)
       run: python scraper.py
