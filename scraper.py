@@ -21,11 +21,11 @@ categorias_a_extraer = {
 }
 
 def obtener_productos():
-    print("Iniciando extracción mejorada...")
+    print("Iniciando extracción con Visión Humana...")
     productos_totales = []
     
-    # Palabras clave del pie de página que no queremos en el catálogo
-    palabras_basura = ['contáctanos', 'horarios', 'google play', 'app store', 'descarga', 'boletín', 'suscríbete', 'inicio', 'nosotros']
+    # Palabras que sabemos que no son productos
+    palabras_basura = ['contáctanos', 'horarios', 'google play', 'app store', 'descarga', 'boletín', 'suscríbete', 'inicio', 'nosotros', 'políticas', 'términos', 'bs.', 'oferta', 'nuevo']
     
     try:
         with sync_playwright() as p:
@@ -38,35 +38,49 @@ def obtener_productos():
                 try:
                     pagina.goto(url, wait_until="networkidle", timeout=60000)
                     
-                    # Le damos 6 segundos iniciales para que el sistema de Digicorp reaccione
-                    pagina.wait_for_timeout(6000)
+                    # Le damos 8 segundos a la página para que conecte con su base de datos
+                    pagina.wait_for_timeout(8000)
                     
-                    # Bajamos poco a poco usando PageDown simulando a un humano leyendo
+                    # Hacemos scroll profundo usando comandos directos al navegador
                     for i in range(8): 
-                        pagina.keyboard.press("PageDown")
-                        pagina.wait_for_timeout(2000) # Espera 2 segundos por cada bajada
+                        pagina.evaluate("window.scrollBy(0, 800)")
+                        pagina.wait_for_timeout(2500)
                         
                     html = pagina.content()
                     sopa = BeautifulSoup(html, 'html.parser')
                     
-                    # Buscamos elementos que parezcan productos
-                    tarjetas = sopa.find_all(['div', 'li', 'article'], class_=lambda c: c and any(p in c.lower() for p in ['product', 'item', 'grid', 'card']))
-                    
                     count = 0
-                    for tarjeta in tarjetas:
-                        nombre_elem = tarjeta.find(['h2', 'h3', 'h4', 'a'], class_=lambda c: not c or 'btn' not in c.lower())
-                        img_elem = tarjeta.find('img')
+                    nombres_vistos = set()
+                    
+                    # NUEVA ESTRATEGIA: Buscamos directamente TODAS las imágenes de la página
+                    for img in sopa.find_all('img'):
+                        imagen = img.get('src') or img.get('data-src') or img.get('data-original')
+                        if not imagen: continue
                         
-                        if nombre_elem and img_elem:
-                            nombre = nombre_elem.text.strip()
+                        # Descartamos logotipos, iconos y banners
+                        if any(x in imagen.lower() for x in ['logo', 'icon', 'banner', 'footer', 'svg', 'gif']):
+                            continue
                             
-                            # FILTRO MÁGICO: Si el nombre contiene alguna palabra del pie de página, lo ignora
-                            if any(basura in nombre.lower() for basura in palabras_basura):
-                                continue
+                        # Si es una imagen real, buscamos el texto que tiene a su alrededor
+                        padre = img.parent
+                        nombre = ""
+                        
+                        for _ in range(4): # Miramos en los contenedores cercanos a la imagen
+                            if padre:
+                                textos = list(padre.stripped_strings)
+                                # Buscamos textos que sean lo suficientemente largos para ser un producto
+                                textos_validos = [t for t in textos if len(t) > 10 and not any(b in t.lower() for b in palabras_basura)]
                                 
-                            imagen = img_elem.get('src') or img_elem.get('data-src') or img_elem.get('data-original')
-                            
-                            if nombre and imagen and len(nombre) > 4: # El nombre debe tener al menos 5 letras
+                                if textos_validos:
+                                    # Nos quedamos con el texto más largo (suele ser la descripción del equipo)
+                                    nombre = max(textos_validos, key=len)
+                                    break
+                                padre = padre.parent
+                                
+                        if nombre and imagen:
+                            nombre = nombre.strip().replace('\n', ' ')
+                            # Verificamos que sea un nombre válido y que no lo hayamos guardado ya
+                            if len(nombre) > 12 and nombre not in nombres_vistos:
                                 if not imagen.startswith('http'):
                                     imagen = f"https://www.digicorp.com.bo{imagen}" if imagen.startswith('/') else f"https://www.digicorp.com.bo/{imagen}"
                                     
@@ -75,6 +89,7 @@ def obtener_productos():
                                     "imagen": imagen,
                                     "categoria": nombre_cat
                                 })
+                                nombres_vistos.add(nombre)
                                 count += 1
                                 
                     print(f"  -> Capturados {count} productos reales de {nombre_cat}")
@@ -82,20 +97,19 @@ def obtener_productos():
                     print(f"  -> Error en {nombre_cat}: {e}")
                     
             navegador.close()
-        
-        # Eliminar duplicados exactos
+            
+        # Filtro final de seguridad para evitar duplicados en el catálogo entero
         vistos = set()
         productos_finales = []
         for p in productos_totales:
-            id_prod = f"{p['nombre']}-{p['categoria']}"
-            if id_prod not in vistos:
-                vistos.add(id_prod)
+            if p['nombre'] not in vistos:
+                vistos.add(p['nombre'])
                 productos_finales.append(p)
-        
+                
         with open('productos.json', 'w', encoding='utf-8') as f:
             json.dump(productos_finales, f, ensure_ascii=False, indent=4)
             
-        print(f"\nProceso finalizado con éxito. Total: {len(productos_finales)} productos limpios.")
+        print(f"\nProceso finalizado. Total guardado: {len(productos_finales)} productos limpios.")
         
     except Exception as e:
         print(f"Fallo general del sistema: {e}")
