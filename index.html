@@ -3,60 +3,112 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Catálogo Oficial</title>
+    <title>Mi Catálogo de Productos</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f8f9fa; margin: 0; padding: 20px; }
-        .encabezado { text-align: center; margin-bottom: 40px; padding: 20px; background: white; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-        .encabezado img { max-width: 250px; height: auto; } 
-        .cuadricula-productos { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 25px; max-width: 1200px; margin: 0 auto; }
-        .tarjeta-producto { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s; }
-        .tarjeta-producto:hover { transform: translateY(-5px); }
-        .tarjeta-producto img { max-width: 100%; height: 180px; object-fit: contain; margin-bottom: 15px; }
-        .tarjeta-producto h3 { color: #333; font-size: 1.1em; margin: 0; line-height: 1.4; }
-        .btn-consultar { background: #2c3e50; color: white; border: none; padding: 12px; width: 100%; border-radius: 6px; cursor: pointer; margin-top: 15px; font-weight: bold; text-decoration: none; display: inline-block; box-sizing: border-box; }
-        .btn-consultar:hover { background: #1a252f; }
-        .estado { text-align: center; color: #666; margin-bottom: 20px; }
+        :root { --primario: #2c3e50; --secundario: #25D366; --fondo: #f8f9fa; }
+        body { font-family: 'Segoe UI', sans-serif; background-color: var(--fondo); margin: 0; padding: 20px; color: #333; }
+        
+        .header { text-align: center; background: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); margin-bottom: 25px; }
+        .header img { max-width: 220px; margin-bottom: 15px; }
+        
+        .controles { max-width: 1200px; margin: 0 auto 30px; }
+        
+        /* Caja de Búsqueda */
+        .busqueda-container { margin-bottom: 20px; text-align: center; }
+        #buscador { width: 100%; max-width: 500px; padding: 12px 20px; border: 2px solid #ddd; border-radius: 25px; font-size: 16px; outline: none; transition: border-color 0.3s; }
+        #buscador:focus { border-color: var(--primario); }
+
+        /* Menú de Categorías */
+        .menu-categorias { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px; }
+        .btn-cat { background: white; border: 1px solid #ddd; padding: 8px 18px; border-radius: 20px; cursor: pointer; font-size: 13px; font-weight: 600; transition: 0.3s; }
+        .btn-cat:hover { background: #f0f0f0; }
+        .btn-cat.activo { background: var(--primario); color: white; border-color: var(--primario); }
+
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; }
+        .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center; display: flex; flex-direction: column; transition: transform 0.2s; }
+        .card:hover { transform: translateY(-5px); }
+        .card img { width: 100%; height: 180px; object-fit: contain; margin-bottom: 15px; }
+        .card .cat-tag { font-size: 11px; background: #eee; padding: 3px 8px; border-radius: 5px; align-self: center; margin-bottom: 10px; text-transform: uppercase; }
+        .card h3 { font-size: 14px; margin: 0 0 15px; height: 40px; overflow: hidden; }
+        .btn-wa { background: var(--secundario); color: white; text-decoration: none; padding: 10px; border-radius: 8px; font-weight: bold; font-size: 14px; margin-top: auto; }
     </style>
 </head>
 <body>
 
-    <div class="encabezado">
-        <img src="https://via.placeholder.com/250x100?text=TU+LOGOTIPO" alt="Logotipo">
-        <h2 style="color: #666; font-weight: normal;">Catálogo de Productos</h2>
+    <div class="header">
+        <img src="https://via.placeholder.com/220x80?text=MI+LOGOTIPO" alt="Logo">
+        <h1>Catálogo de Soluciones Tecnológicas</h1>
     </div>
 
-    <div id="mensaje-estado" class="estado">Cargando catálogo actualizado...</div>
-    <div id="galeria" class="cuadricula-productos"></div>
+    <div class="controles">
+        <div class="busqueda-container">
+            <input type="text" id="buscador" placeholder="Buscar productos por nombre..." onkeyup="filtrar()">
+        </div>
+        <div id="menu" class="menu-categorias"></div>
+    </div>
+
+    <div id="galeria" class="grid"></div>
 
     <script>
-        // Esta función lee el archivo que genera el robot en la nube
-        async function cargarCatalogo() {
+        let db = [];
+        let catActual = 'TODOS';
+
+        async function inicio() {
             try {
-                // Buscamos el archivo JSON que tiene los productos actualizados
-                const respuesta = await fetch('productos.json');
-                const productos = await respuesta.json();
-                
-                const galeria = document.getElementById('galeria');
-                document.getElementById('mensaje-estado').style.display = 'none';
-                
-                productos.forEach(producto => {
-                    const tarjeta = `
-                        <div class="tarjeta-producto">
-                            <img src="${producto.imagen}" alt="${producto.nombre}">
-                            <h3>${producto.nombre}</h3>
-                            <!-- El botón puede llevar a tu WhatsApp, por ejemplo -->
-                            <a href="https://wa.me/TUNUMERO?text=Hola, quiero consultar sobre: ${producto.nombre}" target="_blank" class="btn-consultar">Consultar por WhatsApp</a>
-                        </div>
-                    `;
-                    galeria.innerHTML += tarjeta;
-                });
-            } catch (error) {
-                document.getElementById('mensaje-estado').innerText = "Hubo un error al cargar los productos. Intenta más tarde.";
-                console.error("Error cargando productos:", error);
+                const res = await fetch('productos.json');
+                db = await res.json();
+                renderMenu();
+                filtrar();
+            } catch (e) {
+                document.getElementById('galeria').innerHTML = "<p>Cargando productos...</p>";
             }
         }
 
-        cargarCatalogo();
+        function renderMenu() {
+            const menu = document.getElementById('menu');
+            const cats = ['TODOS', ...new Set(db.map(p => p.categoria))];
+            cats.forEach(c => {
+                const b = document.createElement('button');
+                b.className = `btn-cat ${c === 'TODOS' ? 'activo' : ''}`;
+                b.innerText = c;
+                b.onclick = (e) => {
+                    document.querySelectorAll('.btn-cat').forEach(btn => btn.classList.remove('activo'));
+                    e.target.classList.add('activo');
+                    catActual = c;
+                    filtrar();
+                };
+                menu.appendChild(b);
+            });
+        }
+
+        function filtrar() {
+            const query = document.getElementById('buscador').value.toLowerCase();
+            const galeria = document.getElementById('galeria');
+            galeria.innerHTML = '';
+
+            const filtrados = db.filter(p => {
+                const matchCat = (catActual === 'TODOS' || p.categoria === catActual);
+                const matchSearch = p.nombre.toLowerCase().includes(query);
+                return matchCat && matchSearch;
+            });
+
+            filtrados.forEach(p => {
+                galeria.innerHTML += `
+                    <div class="card">
+                        <span class="cat-tag">${p.categoria}</span>
+                        <img src="${p.imagen}" alt="${p.nombre}">
+                        <h3>${p.nombre}</h3>
+                        <a href="https://wa.me/TUNUMERO?text=Consulta: ${encodeURIComponent(p.nombre)}" target="_blank" class="btn-wa">Consultar disponibilidad</a>
+                    </div>
+                `;
+            });
+            
+            if(filtrados.length === 0) {
+                galeria.innerHTML = "<p style='grid-column: 1/-1; text-align: center;'>No se encontraron productos.</p>";
+            }
+        }
+
+        inicio();
     </script>
 </body>
 </html>
