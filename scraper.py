@@ -2,6 +2,7 @@ from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import json
 
+# Lista de categorías actualizada incluyendo NOVEDADES
 categorias_a_extraer = {
     "NOVEDADES": "https://www.digicorp.com.bo/novedades",
     "VIDEOVIGILANCIA": "https://www.digicorp.com.bo/producto/categoria/01010000",
@@ -22,10 +23,9 @@ categorias_a_extraer = {
 }
 
 def obtener_productos():
-    print("Iniciando extracción con filtros de lista negra actualizados...")
+    print("Iniciando extracción incluyendo la sección de NOVEDADES...")
     productos_totales = []
     
-    # LISTA NEGRA DE NOMBRES (Se añadió 'digicorp ©')
     palabras_basura = [
         'digicorp ©', 'en dios confiamos', 'lunes a viernes:', 'preguntas frecuentes',
         'contáctanos', 'horarios', 'google play', 'app store', 'descarga', 
@@ -34,7 +34,6 @@ def obtener_productos():
         'soluciones tecnológicas', 'derechos reservados', 'página oficial'
     ]
     
-    # LISTA NEGRA DE IMÁGENES (Se añadió 'iso.png')
     img_basura = ['iso.png', 'x.svg', 'contactanos.png', 'logo.', '/logo', 'icon', 'banner', 'footer', 'playstore', 'appstore', 'whatsapp']
     
     try:
@@ -47,8 +46,9 @@ def obtener_productos():
                 print(f"Explorando pasillo: {nombre_cat}...")
                 try:
                     pagina.goto(url, wait_until="networkidle", timeout=60000)
-                    pagina.wait_for_timeout(6000)
+                    pagina.wait_for_timeout(7000)
                     
+                    # Scroll para cargar todos los productos de la categoría
                     for i in range(6): 
                         pagina.evaluate("window.scrollBy(0, 900)")
                         pagina.wait_for_timeout(2500)
@@ -65,30 +65,29 @@ def obtener_productos():
                         if imagen.startswith('data:image'): continue
                             
                         imagen_url_low = imagen.lower()
-                        
-                        # FILTRO DE IMAGEN
                         if any(x in imagen_url_low for x in img_basura):
                             continue
                         
                         padre = img.parent
                         nombre = ""
                         
+                        # Buscamos textos alrededor de la imagen para capturar Marca, Modelo y Descripción
                         for _ in range(4):
                             if padre:
                                 textos = list(padre.stripped_strings)
-                                # FILTRO DE NOMBRE
-                                textos_validos = [t for t in textos if len(t) > 5 and not any(b in t.lower() for b in palabras_basura)]
+                                # Filtramos textos muy cortos o que sean basura publicitaria
+                                textos_validos = [t for t in textos if len(t) > 2 and not any(b in t.lower() for b in palabras_basura)]
                                 
                                 if textos_validos:
-                                    nombre = max(textos_validos, key=len)
+                                    # Combinamos los textos encontrados para un título profesional
+                                    nombre = " - ".join(textos_validos)
                                     break
                                 padre = padre.parent
                                 
                         if nombre and imagen:
                             nombre = nombre.strip().replace('\n', ' ').replace('  ', ' ')
                             
-                            # Verificación final
-                            if len(nombre) > 8 and not any(b in nombre.lower() for b in palabras_basura):
+                            if len(nombre) > 10 and not any(b in nombre.lower() for b in palabras_basura):
                                 if nombre not in nombres_vistos:
                                     if not imagen.startswith('http'):
                                         imagen = f"https://www.digicorp.com.bo{imagen}" if imagen.startswith('/') else f"https://www.digicorp.com.bo/{imagen}"
@@ -101,12 +100,13 @@ def obtener_productos():
                                     nombres_vistos.add(nombre)
                                     count += 1
                                 
-                    print(f"  -> Capturados {count} productos reales de {nombre_cat}")
+                    print(f"  -> Capturados {count} productos detallados de {nombre_cat}")
                 except Exception as e:
                     print(f"  -> Error en {nombre_cat}: {e}")
                     
             navegador.close()
             
+        # Limpieza final de duplicados globales
         vistos = set()
         productos_finales = []
         for p in productos_totales:
@@ -117,10 +117,10 @@ def obtener_productos():
         with open('productos.json', 'w', encoding='utf-8') as f:
             json.dump(productos_finales, f, ensure_ascii=False, indent=4)
             
-        print(f"\nProceso finalizado. El catálogo está limpio.")
+        print(f"\nProceso finalizado. El catálogo ahora incluye la sección de Novedades.")
         
     except Exception as e:
-        print(f"Fallo general: {e}")
+        print(f"Fallo general del sistema: {e}")
 
 if __name__ == "__main__":
     obtener_productos()
