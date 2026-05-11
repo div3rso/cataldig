@@ -27,7 +27,7 @@ def obtener_productos():
     productos_totales = []
     
     palabras_basura = [
-        'digicorp ©', 'en dios confiamos', 'lunes a viernes:', 'preguntas frecuentes',
+        'digicorp ©', 'Iniciar sesión', 'en dios confiamos', 'lunes a viernes:', 'preguntas frecuentes',
         'contáctanos', 'horarios', 'google play', 'app store', 'descarga', 
         'boletín', 'suscríbete', 'inicio', 'nosotros', 'políticas', 
         'términos', 'bs.', 'oferta', 'nuevo', 'registrarse', 'carrito',
