@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=1200">
     <title>Catálogo de Soluciones Tecnológicas</title>
     <style>
         :root { --primario: #2c3e50; --secundario: #25D366; --fondo: #f8f9fa; }
@@ -18,19 +18,23 @@
         #buscador:focus { border-color: var(--primario); }
 
         .menu-categorias { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px; }
-        .btn-cat { background: white; border: 1px solid #ddd; padding: 8px 18px; border-radius: 20px; cursor: pointer; font-size: 13px; font-weight: 600; transition: 0.3s; }
+        .btn-cat { background: white; border: 1px solid #ddd; padding: 8px 18px; border-radius: 20px; cursor: pointer; font-size: 14px; font-weight: 600; transition: 0.3s; }
         .btn-cat:hover { background: #f0f0f0; }
         .btn-cat.activo { background: var(--primario); color: white; border-color: var(--primario); }
 
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; }
-        .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center; display: flex; flex-direction: column; transition: transform 0.2s; }
+        
+        /* CAJA MÁS ALTA: Aumenté el min-height a 400px para que tenga una cuarta parte más de espacio general */
+        .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center; display: flex; flex-direction: column; transition: transform 0.2s; min-height: 400px; }
         .card:hover { transform: translateY(-5px); }
         .card img { width: 100%; height: 180px; object-fit: contain; margin-bottom: 15px; }
         .card .cat-tag { font-size: 11px; background: #eee; padding: 3px 8px; border-radius: 5px; align-self: center; margin-bottom: 10px; text-transform: uppercase; }
-        .card h3 { font-size: 14px; margin: 0 0 15px; height: 40px; overflow: hidden; }
+        
+        /* TEXTO CORREGIDO: Ahora tiene 70px de alto y permite hasta 4 líneas de texto sin cortes feos */
+        .card h3 { font-size: 14px; margin: 0 0 15px; min-height: 70px; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.4; }
+        
         .btn-wa { background: var(--secundario); color: white; text-decoration: none; padding: 10px; border-radius: 8px; font-weight: bold; font-size: 14px; margin-top: auto; }
         
-        /* Estilos para el nuevo botón y mensajes */
         .mensaje-limite { grid-column: 1/-1; text-align: center; padding: 20px; color: #666; font-style: italic; }
         .contenedor-boton { grid-column: 1 / -1; text-align: center; padding: 10px 0 30px 0; }
         .btn-cargar { background: var(--primario); color: white; border: none; padding: 12px 30px; border-radius: 25px; cursor: pointer; font-size: 16px; font-weight: bold; transition: 0.3s; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);}
@@ -46,7 +50,7 @@
 
     <div class="controles">
         <div class="busqueda-container">
-            <input type="text" id="buscador" placeholder="Buscar productos por nombre..." onkeyup="filtrar()">
+            <input type="text" id="buscador" placeholder="Buscar productos por nombre, marca o modelo..." onkeyup="filtrar()">
         </div>
         <div id="menu" class="menu-categorias"></div>
     </div>
@@ -56,13 +60,14 @@
     <script>
         let db = [];
         let catActual = 'TODOS';
-        const CANTIDAD_POR_PAGINA = 100; // Cargaremos de 100 en 100 para proteger la memoria
+        const CANTIDAD_POR_PAGINA = 100;
         let productosFiltrados = [];
         let mostrados = 0;
 
         async function inicio() {
             try {
-                const res = await fetch('productos.json');
+                // Al forzar el modo escritorio, añadimos un parámetro temporal para evitar la caché
+                const res = await fetch('productos.json?v=' + new Date().getTime());
                 db = await res.json();
                 renderMenu();
                 filtrar();
@@ -91,31 +96,25 @@
         function filtrar() {
             const query = document.getElementById('buscador').value.toLowerCase();
             
-            // Preparamos la lista maestra según la categoría y el texto buscado
             productosFiltrados = db.filter(p => {
                 const matchCat = (catActual === 'TODOS' || p.categoria === catActual);
                 const matchSearch = p.nombre.toLowerCase().includes(query);
                 return matchCat && matchSearch;
             });
 
-            // Reiniciamos los contadores a cero para empezar limpios
             mostrados = 0;
             document.getElementById('galeria').innerHTML = '';
-            
-            // Pintamos el primer bloque
             renderizarLote();
         }
 
         function renderizarLote() {
             const galeria = document.getElementById('galeria');
             
-            // Borramos el botón viejo si existe
             const contenedorBtn = document.getElementById('contenedor-btn');
             if (contenedorBtn) contenedorBtn.remove();
             const msgFinal = document.getElementById('msg-final');
             if (msgFinal) msgFinal.remove();
 
-            // Calculamos cuántos mostrar ahora
             const fin = Math.min(mostrados + CANTIDAD_POR_PAGINA, productosFiltrados.length);
             const lote = productosFiltrados.slice(mostrados, fin);
             
@@ -126,16 +125,14 @@
                         <span class="cat-tag">${p.categoria}</span>
                         <img src="${p.imagen}" alt="${p.nombre}" loading="lazy">
                         <h3>${p.nombre}</h3>
-                        <a href="https://wa.me/TUNUMERO?text=Consulta sobre: ${encodeURIComponent(p.nombre)}" target="_blank" class="btn-wa">Consultar disponibilidad</a>
+                        <a href="https://wa.me/TUNUMERO?text=Hola, quiero consultar la disponibilidad de este equipo: ${encodeURIComponent(p.nombre)}" target="_blank" class="btn-wa">Consultar disponibilidad</a>
                     </div>
                 `;
             });
             
-            // Inyectamos las nuevas tarjetas
             galeria.insertAdjacentHTML('beforeend', htmlContenido);
             mostrados = fin;
 
-            // ¿Quedan más productos por mostrar? Ponemos el botón
             if (mostrados < productosFiltrados.length) {
                 const restantes = productosFiltrados.length - mostrados;
                 const btnHTML = `
