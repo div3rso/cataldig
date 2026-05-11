@@ -1,10 +1,5 @@
 [
     {
-        "nombre": "en Dios confiamos",
-        "imagen": "https://www.digicorp.com.bo/images/social/x.svg",
-        "categoria": "VIDEOVIGILANCIA"
-    },
-    {
         "nombre": "GRABADOR COOPER 4CH WIZSENSE *4CH AUDIO BIDIRECCIONAL POR CBALE COAX *SMD PLUS *HDCVI, AHD, TVI, CVBS, IP *MAX 5CH IP HASTA 2MP *SOPORTA 1 HDD HASTA 6TB",
         "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHXVR1B04IT-image-0-1752758695890.webp",
         "categoria": "VIDEOVIGILANCIA"
@@ -255,17 +250,7 @@
         "categoria": "VIDEOVIGILANCIA"
     },
     {
-        "nombre": "Lunes a Viernes:",
-        "imagen": "https://www.digicorp.com.bo/_next/image?url=%2Fimages%2Fcontactanos.png&w=640&q=75",
-        "categoria": "VIDEOVIGILANCIA"
-    },
-    {
-        "nombre": "Preguntas Frecuentes",
-        "imagen": "https://www.digicorp.com.bo/images/social/x.svg",
-        "categoria": "VIDEOVIGILANCIA"
-    },
-    {
-        "nombre": "| en Dios confiamos.",
+        "nombre": "Digicorp ©",
         "imagen": "https://www.digicorp.com.bo/_next/image?url=%2Fimages%2Fsocial%2Fiso.png&w=384&q=75",
         "categoria": "VIDEOVIGILANCIA"
     },
