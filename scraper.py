@@ -2,7 +2,6 @@ from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import json
 
-# Lista completa de las 15 categorías proporcionadas por el usuario
 categorias_a_extraer = {
     "VIDEOVIGILANCIA": "https://www.digicorp.com.bo/producto/categoria/01010000",
     "CONTROL DE ACCESO": "https://www.digicorp.com.bo/producto/categoria/02010000",
@@ -22,17 +21,19 @@ categorias_a_extraer = {
 }
 
 def obtener_productos():
-    print("Iniciando extracción con filtros avanzados para el proveedor...")
+    print("Iniciando extracción corregida...")
     productos_totales = []
     
-    # Lista ampliada de palabras basura (textos que no son productos)
-    # Basado en la imagen enviada: 'contáctanos', 'descarga nuestra app', 'google play', etc.
+    # Textos que sabemos que NO son nombres de productos
     palabras_basura = [
         'contáctanos', 'horarios', 'google play', 'app store', 'descarga', 
         'boletín', 'suscríbete', 'inicio', 'nosotros', 'políticas', 
         'términos', 'bs.', 'oferta', 'nuevo', 'registrarse', 'carrito',
-        'soluciones tecnológicas' # Texto que acompaña al logo
+        'soluciones tecnológicas', 'derechos reservados'
     ]
+    
+    # Filtro arreglado: Palabras en el nombre del archivo de la imagen que delatan que es publicidad
+    img_basura = ['logo.', '/logo', 'icon', 'banner', 'footer', 'playstore', 'appstore', 'whatsapp']
     
     try:
         with sync_playwright() as p:
@@ -59,22 +60,12 @@ def obtener_productos():
                     for img in sopa.find_all('img'):
                         imagen = img.get('src') or img.get('data-src') or img.get('data-original')
                         if not imagen: continue
-                        
-                        # FILTRO PROTECTOR: Ignorar Base64 pesado
                         if imagen.startswith('data:image'): continue
                             
                         imagen_url_low = imagen.lower()
-                        alt_text_low = img.get('alt', '').lower()
-
-                        # --- NUEVOS FILTROS ESPECÍFICOS PARA EL PROVEEDOR ---
-                        # Basado en la imagen proporcionada (Logo DIGICORP y Banner de App)
-                        # Ignoramos si la URL de la imagen o el texto alternativo contienen palabras clave de branding
-                        marcas_proveedor = ['logo', 'icon', 'banner', 'footer', 'promo', 'digicorp', 'google-play', 'app-store']
-                        if any(x in imagen_url_low for x in marcas_proveedor):
-                            continue
                         
-                        # Filtro extra por el texto 'alt' de la imagen si lo tiene
-                        if any(x in alt_text_low for x in ['digicorp', 'app', 'descarga', 'google play', 'soluciones']):
+                        # Aplicamos el filtro arreglado (ya no bloqueamos la palabra digicorp)
+                        if any(x in imagen_url_low for x in img_basura):
                             continue
                         
                         padre = img.parent
@@ -83,8 +74,7 @@ def obtener_productos():
                         for _ in range(4):
                             if padre:
                                 textos = list(padre.stripped_strings)
-                                # Usamos la lista ampliada de palabras_basura
-                                textos_validos = [t for t in textos if len(t) > 12 and not any(b in t.lower() for b in palabras_basura)]
+                                textos_validos = [t for t in textos if len(t) > 8 and not any(b in t.lower() for b in palabras_basura)]
                                 
                                 if textos_validos:
                                     nombre = max(textos_validos, key=len)
@@ -93,8 +83,9 @@ def obtener_productos():
                                 
                         if nombre and imagen:
                             nombre = nombre.strip().replace('\n', ' ').replace('  ', ' ')
-                            # Validación adicional del nombre extraído
-                            if len(nombre) > 15 and nombre.lower() not in ['contáctanos', 'soluciones tecnológicas']:
+                            
+                            # Filtro final para asegurar que el texto del logo no se cuele como nombre
+                            if len(nombre) > 10 and "soluciones tecnológicas" not in nombre.lower():
                                 if nombre not in nombres_vistos:
                                     if not imagen.startswith('http'):
                                         imagen = f"https://www.digicorp.com.bo{imagen}" if imagen.startswith('/') else f"https://www.digicorp.com.bo/{imagen}"
@@ -107,13 +98,12 @@ def obtener_productos():
                                     nombres_vistos.add(nombre)
                                     count += 1
                                 
-                    print(f"  -> Capturados {count} productos reales limpios de {nombre_cat}")
+                    print(f"  -> Capturados {count} productos reales de {nombre_cat}")
                 except Exception as e:
                     print(f"  -> Error en {nombre_cat}: {e}")
                     
             navegador.close()
             
-        # Filtro final de duplicados globales
         vistos = set()
         productos_finales = []
         for p in productos_totales:
@@ -124,7 +114,7 @@ def obtener_productos():
         with open('productos.json', 'w', encoding='utf-8') as f:
             json.dump(productos_finales, f, ensure_ascii=False, indent=4)
             
-        print(f"\nProceso finalizado. Total guardado: {len(productos_finales)} productos legítimos y limpios.")
+        print(f"\nProceso finalizado. Total guardado: {len(productos_finales)} productos.")
         
     except Exception as e:
         print(f"Fallo general: {e}")
