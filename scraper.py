@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 categorias_a_extraer = {
+    "NOVEDADES": "https://www.digicorp.com.bo/novedades",
     "VIDEOVIGILANCIA": "https://www.digicorp.com.bo/producto/categoria/01010000",
     "CONTROL DE ACCESO": "https://www.digicorp.com.bo/producto/categoria/02010000",
     "ALARMAS Y DOMOTICA": "https://www.digicorp.com.bo/producto/categoria/03010000",
