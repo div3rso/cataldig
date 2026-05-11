@@ -21,20 +21,20 @@ categorias_a_extraer = {
 }
 
 def obtener_productos():
-    print("Iniciando extracción con filtros específicos solicitados...")
+    print("Iniciando extracción con filtros de lista negra actualizados...")
     productos_totales = []
     
-    # LISTA NEGRA DE NOMBRES (Incluye tus 3 casos específicos)
+    # LISTA NEGRA DE NOMBRES (Se añadió 'digicorp ©')
     palabras_basura = [
-        'en dios confiamos', 'lunes a viernes:', 'preguntas frecuentes',
+        'digicorp ©', 'en dios confiamos', 'lunes a viernes:', 'preguntas frecuentes',
         'contáctanos', 'horarios', 'google play', 'app store', 'descarga', 
         'boletín', 'suscríbete', 'inicio', 'nosotros', 'políticas', 
         'términos', 'bs.', 'oferta', 'nuevo', 'registrarse', 'carrito',
         'soluciones tecnológicas', 'derechos reservados', 'página oficial'
     ]
     
-    # LISTA NEGRA DE IMÁGENES (Bloquea el logo de X y la imagen de contacto)
-    img_basura = ['x.svg', 'contactanos.png', 'logo.', '/logo', 'icon', 'banner', 'footer', 'playstore', 'appstore', 'whatsapp']
+    # LISTA NEGRA DE IMÁGENES (Se añadió 'iso.png')
+    img_basura = ['iso.png', 'x.svg', 'contactanos.png', 'logo.', '/logo', 'icon', 'banner', 'footer', 'playstore', 'appstore', 'whatsapp']
     
     try:
         with sync_playwright() as p:
@@ -65,7 +65,7 @@ def obtener_productos():
                             
                         imagen_url_low = imagen.lower()
                         
-                        # FILTRO DE IMAGEN: Si el enlace de la imagen está en la lista negra, saltar
+                        # FILTRO DE IMAGEN
                         if any(x in imagen_url_low for x in img_basura):
                             continue
                         
@@ -75,7 +75,7 @@ def obtener_productos():
                         for _ in range(4):
                             if padre:
                                 textos = list(padre.stripped_strings)
-                                # FILTRO DE NOMBRE: Si el texto está en la lista negra, saltar
+                                # FILTRO DE NOMBRE
                                 textos_validos = [t for t in textos if len(t) > 5 and not any(b in t.lower() for b in palabras_basura)]
                                 
                                 if textos_validos:
@@ -86,7 +86,7 @@ def obtener_productos():
                         if nombre and imagen:
                             nombre = nombre.strip().replace('\n', ' ').replace('  ', ' ')
                             
-                            # Verificación final de seguridad
+                            # Verificación final
                             if len(nombre) > 8 and not any(b in nombre.lower() for b in palabras_basura):
                                 if nombre not in nombres_vistos:
                                     if not imagen.startswith('http'):
@@ -116,7 +116,7 @@ def obtener_productos():
         with open('productos.json', 'w', encoding='utf-8') as f:
             json.dump(productos_finales, f, ensure_ascii=False, indent=4)
             
-        print(f"\nProceso finalizado. Catálogo limpio de publicidad.")
+        print(f"\nProceso finalizado. El catálogo está limpio.")
         
     except Exception as e:
         print(f"Fallo general: {e}")
