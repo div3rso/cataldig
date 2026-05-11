@@ -5,6 +5,7 @@ import json
 # Lista de categorías actualizada incluyendo NOVEDADES
 categorias_a_extraer = {
     "NOVEDADES": "https://www.digicorp.com.bo/novedades",
+    "Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores": "https://digicorp.com.bo/marcas/DIMAX"
     "VIDEOVIGILANCIA": "https://www.digicorp.com.bo/producto/categoria/01010000",
     "CONTROL DE ACCESO": "https://www.digicorp.com.bo/producto/categoria/02010000",
     "ALARMAS Y DOMOTICA": "https://www.digicorp.com.bo/producto/categoria/03010000",
