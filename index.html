@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=1200">
     <title>Catálogo de Soluciones Tecnológicas</title>
     <style>
-        :root { --primario: #2c3e50; --secundario: #25D366; --fondo: #f8f9fa; }
+        /* FONDO GRIS Y BOTÓN AMARILLO: Cambiamos los colores principales aquí */
+        :root { --primario: #2c3e50; --secundario: #ffc107; --fondo: #e2e8f0; } 
+        
         body { font-family: 'Segoe UI', sans-serif; background-color: var(--fondo); margin: 0; padding: 20px; color: #333; }
         
         .header { text-align: center; background: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); margin-bottom: 25px; }
@@ -24,16 +26,18 @@
 
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; }
         
-        /* CAJA MÁS ALTA: Aumenté el min-height a 400px para que tenga una cuarta parte más de espacio general */
-        .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center; display: flex; flex-direction: column; transition: transform 0.2s; min-height: 400px; }
+        /* CAJAS FLEXIBLES: Ahora la caja se estirará automáticamente si el texto es muy largo */
+        .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center; display: flex; flex-direction: column; transition: transform 0.2s; min-height: 380px; }
         .card:hover { transform: translateY(-5px); }
         .card img { width: 100%; height: 180px; object-fit: contain; margin-bottom: 15px; }
         .card .cat-tag { font-size: 11px; background: #eee; padding: 3px 8px; border-radius: 5px; align-self: center; margin-bottom: 10px; text-transform: uppercase; }
         
-        /* TEXTO CORREGIDO: Ahora tiene 70px de alto y permite hasta 4 líneas de texto sin cortes feos */
-        .card h3 { font-size: 14px; margin: 0 0 15px; min-height: 70px; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.4; }
+        /* TEXTO COMPLETO: Quitamos la restricción de líneas. Usamos flex-grow para que el botón siempre quede abajo */
+        .card h3 { font-size: 14px; margin: 0 0 15px; line-height: 1.4; flex-grow: 1; display: flex; align-items: center; justify-content: center; }
         
-        .btn-wa { background: var(--secundario); color: white; text-decoration: none; padding: 10px; border-radius: 8px; font-weight: bold; font-size: 14px; margin-top: auto; }
+        /* BOTÓN PEQUEÑO Y LETRA OSCURA: Reducimos el padding y cambiamos el color de letra para que resalte sobre el amarillo */
+        .btn-wa { background: var(--secundario); color: #212529; text-decoration: none; padding: 8px 15px; border-radius: 6px; font-weight: bold; font-size: 13px; margin-top: 10px; transition: 0.2s; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .btn-wa:hover { background: #e0a800; transform: translateY(-2px); }
         
         .mensaje-limite { grid-column: 1/-1; text-align: center; padding: 20px; color: #666; font-style: italic; }
         .contenedor-boton { grid-column: 1 / -1; text-align: center; padding: 10px 0 30px 0; }
@@ -66,7 +70,6 @@
 
         async function inicio() {
             try {
-                // Al forzar el modo escritorio, añadimos un parámetro temporal para evitar la caché
                 const res = await fetch('productos.json?v=' + new Date().getTime());
                 db = await res.json();
                 renderMenu();
