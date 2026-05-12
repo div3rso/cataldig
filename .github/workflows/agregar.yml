@@ -1,1 +1,62 @@
+name: ➕ Agregar Producto Manual
 
+on:
+  workflow_dispatch:
+    inputs:
+      nombre:
+        description: 'Nombre y Marca del producto (Ej: DAHUA - Cámara IP 2MP)'
+        required: true
+      imagen:
+        description: 'Enlace de la foto (Ej: https://www.digicorp.../foto.jpg)'
+        required: true
+      categoria:
+        description: '¿En qué pasillo va?'
+        required: true
+        type: choice
+        options:
+          - NOVEDADES
+          - VIDEOVIGILANCIA
+          - CONTROL DE ACCESO
+          - ALARMAS Y DOMOTICA
+          - SISTEMAS ANTIHURTO
+          - PROTECCION PERIMETRAL
+          - DETECCION DE INCENDIO
+          - GPS
+          - REDES
+          - TELEFONIA
+          - RADIOCOMUNICACION
+          - CABLEADO ESTRUCTURADO Y FO.
+          - ENERGIA Y CABLES
+          - ILUMINACION Y SONIDO
+          - HERRAMIENTAS Y FERRETERIA
+          - COMPUTO
+
+permissions:
+  contents: write
+
+jobs:
+  guardar:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+        
+    - name: Guardar en la bóveda
+      env:
+        PROD_NOMBRE: ${{ github.event.inputs.nombre }}
+        PROD_IMAGEN: ${{ github.event.inputs.imagen }}
+        PROD_CATEGORIA: ${{ github.event.inputs.categoria }}
+      run: python agregar_manual.py
+      
+    - name: Subir cambios a GitHub
+      run: |
+        git config --global user.name "Administrador"
+        git config --global user.email "admin@tucatalogo.com"
+        git add manuales.json
+        git commit -m "Agregado manual: ${{ github.event.inputs.nombre }}"
+        git pull origin main --rebase
+        git push origin main
