@@ -2,96 +2,73 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=1200">
-    <title>Panel de Control - Editor de Catálogo</title>
+    <title>Panel de Administración Avanzado</title>
     <style>
         body { font-family: 'Segoe UI', sans-serif; background-color: #f0f2f5; margin: 0; padding: 20px; }
         .header { background: white; padding: 20px; border-radius: 10px; margin-bottom: 20px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
-        .card { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
-        .card img { width: 100%; height: 120px; object-fit: contain; background: #eee; border-radius: 5px; }
-        input, select { width: 100%; padding: 8px; margin: 5px 0; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; }
-        .btn-add { background: #28a745; color: white; border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; }
-        
-        /* Panel de Cambios */
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }
+        .card { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-left: 5px solid #2c3e50; }
+        .card.oculto { border-left-color: #e74c3c; opacity: 0.7; }
+        input, textarea { width: 100%; padding: 8px; margin: 5px 0; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; font-family: inherit; }
+        textarea { height: 80px; resize: vertical; }
+        .btn-add { background: #28a745; color: white; border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 5px; }
+        .btn-hide { background: #e74c3c; color: white; border: none; padding: 8px; width: 100%; border-radius: 5px; cursor: pointer; margin-top: 5px; font-size: 12px; }
         .panel-cambios { position: fixed; bottom: 20px; right: 20px; width: 350px; background: #2c3e50; color: white; padding: 20px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); z-index: 100; }
-        .lista-pendientes { max-height: 200px; overflow-y: auto; font-size: 12px; background: rgba(0,0,0,0.2); padding: 10px; border-radius: 5px; margin: 10px 0; }
-        .btn-copiar { background: #ffc107; color: #000; border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; }
+        .btn-copiar { background: #ffc107; color: #000; border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 10px; }
     </style>
 </head>
 <body>
-
     <div class="header">
-        <h1>🛠️ Gestor de Productos</h1>
-        <p>Edita los productos del robot y agrégalos a tu lista manual.</p>
-        <input type="text" id="filtro" placeholder="Filtrar por nombre para editar rápido..." onkeyup="dibujar()">
+        <h1>🛠️ Gestor de Contenido y Lista Negra</h1>
+        <input type="text" id="filtro" placeholder="Buscar producto para editar u ocultar..." onkeyup="dibujar()">
     </div>
-
     <div id="galeria" class="grid"></div>
-
     <div class="panel-cambios">
-        <h3>📦 Cambios Pendientes</h3>
-        <div id="pendientes" class="lista-pendientes">No hay cambios aún.</div>
-        <button class="btn-copiar" onclick="copiarAlPortapapeles()">📋 Copiar Código para GitHub</button>
-        <p style="font-size: 10px; margin-top: 10px; color: #bdc3c7;">Luego ve a Actions > Carga Masiva y pega este código.</p>
+        <h3>📦 Cambios para GitHub</h3>
+        <div id="pendientes" style="font-size: 12px; max-height: 100px; overflow: auto;">0 productos listos.</div>
+        <button class="btn-copiar" onclick="copiar()">📋 Copiar código de actualización</button>
     </div>
 
     <script>
-        let db = [];
-        let cambios = [];
-
+        let db = []; let cambios = [];
         async function cargar() {
             const res = await fetch('productos.json?v=' + Date.now());
-            db = await res.json();
-            dibujar();
+            db = await res.json(); dibujar();
         }
-
         function dibujar() {
-            const filtro = document.getElementById('filtro').value.toLowerCase();
-            const galeria = document.getElementById('galeria');
-            galeria.innerHTML = '';
-
-            const filtrados = db.filter(p => p.nombre.toLowerCase().includes(filtro)).slice(0, 50);
-
-            filtrados.forEach((p, index) => {
-                const card = document.createElement('div');
-                card.className = 'card';
-                card.innerHTML = `
-                    <img src="${p.imagen}">
-                    <label>Nombre del Producto:</label>
-                    <input type="text" id="n-${index}" value="${p.nombre}">
-                    <label>Categoría:</label>
-                    <input type="text" id="c-${index}" value="${p.categoria}">
-                    <label>URL Imagen:</label>
-                    <input type="text" id="i-${index}" value="${p.imagen}">
-                    <button class="btn-add" onclick="preparar(${index})">✅ Añadir a Pendientes</button>
+            const q = document.getElementById('filtro').value.toLowerCase();
+            const g = document.getElementById('galeria'); g.innerHTML = '';
+            db.filter(p => p.nombre.toLowerCase().includes(q)).slice(0, 40).forEach((p, i) => {
+                const div = document.createElement('div');
+                div.className = 'card';
+                div.innerHTML = `
+                    <small><b>${p.categoria}</b></small>
+                    <input type="text" id="n-${i}" value="${p.nombre}" readonly style="background:#eee">
+                    <textarea id="d-${i}" placeholder="Detalles técnicos adicionales...">${p.detalles || ''}</textarea>
+                    <input type="text" id="v-${i}" placeholder="Link de Video (YouTube/Drive)" value="${p.video || ''}">
+                    <button class="btn-add" onclick="guardar(${i}, true)">✅ Guardar Detalles</button>
+                    <button class="btn-hide" onclick="guardar(${i}, false)">🚫 Ocultar de mi catálogo</button>
                 `;
-                galeria.appendChild(card);
+                g.appendChild(div);
             });
         }
-
-        function preparar(idx) {
-            const nuevo = {
+        function guardar(idx, visible) {
+            const item = {
                 nombre: document.getElementById(`n-${idx}`).value,
-                imagen: document.getElementById(`i-${idx}`).value,
-                categoria: document.getElementById(`c-${idx}`).value
+                detalles: document.getElementById(`d-${idx}`).value,
+                video: document.getElementById(`v-${idx}`).value,
+                visible: visible,
+                imagen: db.find(x => x.nombre === document.getElementById(`n-${idx}`).value).imagen,
+                categoria: document.getElementById(`c-${idx}`) ? document.getElementById(`c-${idx}`).value : db.find(x => x.nombre === document.getElementById(`n-${idx}`).value).categoria
             };
-            cambios.push(nuevo);
-            actualizarLista();
+            cambios = cambios.filter(c => c.nombre !== item.nombre);
+            cambios.push(item);
+            document.getElementById('pendientes').innerText = `${cambios.length} productos listos para subir.`;
         }
-
-        function actualizarLista() {
-            const div = document.getElementById('pendientes');
-            div.innerHTML = cambios.map(c => `• ${c.nombre.substring(0, 30)}...`).join('<br>');
+        function copiar() {
+            navigator.clipboard.writeText(JSON.stringify(cambios));
+            alert("¡Copiado! Ahora ve a Actions > Carga Masiva y pega el código.");
         }
-
-        function copiarAlPortapapeles() {
-            if(cambios.length === 0) return alert("Añade algún producto primero");
-            const texto = JSON.stringify(cambios);
-            navigator.clipboard.writeText(texto);
-            alert("¡Código copiado! Ahora ve a Actions en GitHub y usa la herramienta de Carga Masiva.");
-        }
-
         cargar();
     </script>
 </body>
