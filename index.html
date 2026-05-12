@@ -3,153 +3,122 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=1200">
-    <title>Catálogo de Soluciones Tecnológicas</title>
+    <title>Catálogo Profesional</title>
     <style>
-        /* FONDO GRIS Y BOTÓN AMARILLO: Cambiamos los colores principales aquí */
-        :root { --primario: #2c3e50; --secundario: #ffc107; --fondo: #e2e8f0; } 
-        
-        body { font-family: 'Segoe UI', sans-serif; background-color: var(--fondo); margin: 0; padding: 20px; color: #333; }
-        
-        .header { text-align: center; background: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); margin-bottom: 25px; }
-        .header img { max-width: 220px; margin-bottom: 15px; }
-        
-        .controles { max-width: 1200px; margin: 0 auto 30px; }
-        
-        .busqueda-container { margin-bottom: 20px; text-align: center; }
-        #buscador { width: 100%; max-width: 500px; padding: 12px 20px; border: 2px solid #ddd; border-radius: 25px; font-size: 16px; outline: none; transition: border-color 0.3s; }
-        #buscador:focus { border-color: var(--primario); }
-
-        .menu-categorias { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px; }
-        .btn-cat { background: white; border: 1px solid #ddd; padding: 8px 18px; border-radius: 20px; cursor: pointer; font-size: 14px; font-weight: 600; transition: 0.3s; }
-        .btn-cat:hover { background: #f0f0f0; }
-        .btn-cat.activo { background: var(--primario); color: white; border-color: var(--primario); }
-
+        :root { --primario: #2c3e50; --secundario: #ffc107; --fondo: #e2e8f0; --accent: #3498db; }
+        body { font-family: 'Segoe UI', sans-serif; background-color: var(--fondo); margin: 0; padding: 20px; }
+        .header { text-align: center; background: white; padding: 30px; border-radius: 15px; margin-bottom: 25px; }
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; }
-        
-        /* CAJAS FLEXIBLES: Ahora la caja se estirará automáticamente si el texto es muy largo */
-        .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center; display: flex; flex-direction: column; transition: transform 0.2s; min-height: 380px; }
-        .card:hover { transform: translateY(-5px); }
+        .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center; display: flex; flex-direction: column; min-height: 420px; }
         .card img { width: 100%; height: 180px; object-fit: contain; margin-bottom: 15px; }
-        .card .cat-tag { font-size: 11px; background: #eee; padding: 3px 8px; border-radius: 5px; align-self: center; margin-bottom: 10px; text-transform: uppercase; }
+        .card h3 { font-size: 14px; flex-grow: 1; margin-bottom: 15px; }
         
-        /* TEXTO COMPLETO: Quitamos la restricción de líneas. Usamos flex-grow para que el botón siempre quede abajo */
-        .card h3 { font-size: 14px; margin: 0 0 15px; line-height: 1.4; flex-grow: 1; display: flex; align-items: center; justify-content: center; }
-        
-        /* BOTÓN PEQUEÑO Y LETRA OSCURA: Reducimos el padding y cambiamos el color de letra para que resalte sobre el amarillo */
-        .btn-wa { background: var(--secundario); color: #212529; text-decoration: none; padding: 8px 15px; border-radius: 6px; font-weight: bold; font-size: 13px; margin-top: 10px; transition: 0.2s; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        .btn-wa:hover { background: #e0a800; transform: translateY(-2px); }
-        
-        .mensaje-limite { grid-column: 1/-1; text-align: center; padding: 20px; color: #666; font-style: italic; }
-        .contenedor-boton { grid-column: 1 / -1; text-align: center; padding: 10px 0 30px 0; }
-        .btn-cargar { background: var(--primario); color: white; border: none; padding: 12px 30px; border-radius: 25px; cursor: pointer; font-size: 16px; font-weight: bold; transition: 0.3s; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);}
-        .btn-cargar:hover { background: #1a252f; transform: translateY(-2px); }
+        /* BOTONES */
+        .btn-detalles { background: var(--accent); color: white; text-decoration: none; padding: 8px; border-radius: 6px; font-size: 12px; font-weight: bold; margin-bottom: 8px; border: none; cursor: pointer; }
+        .btn-wa { background: var(--secundario); color: #212529; text-decoration: none; padding: 8px; border-radius: 6px; font-weight: bold; font-size: 13px; }
+
+        /* MODAL (Ventana de detalles) */
+        .modal { display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); }
+        .modal-content { background: white; margin: 5% auto; padding: 30px; width: 60%; border-radius: 15px; position: relative; max-height: 80vh; overflow-y: auto; }
+        .cerrar { position: absolute; right: 20px; top: 10px; font-size: 28px; cursor: pointer; }
+        .video-container { margin-top: 20px; background: #000; color: white; padding: 20px; text-align: center; border-radius: 10px; }
+
+        .controles { max-width: 1200px; margin: 0 auto 30px; text-align: center; }
+        #buscador { width: 400px; padding: 12px; border-radius: 25px; border: 2px solid #ddd; }
+        .menu-categorias { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px; }
+        .btn-cat { background: white; border: 1px solid #ddd; padding: 8px 15px; border-radius: 20px; cursor: pointer; font-size: 13px; }
+        .btn-cat.activo { background: var(--primario); color: white; }
     </style>
 </head>
 <body>
 
     <div class="header">
-        <img src="https://via.placeholder.com/220x80?text=MI+LOGOTIPO" alt="Logo">
         <h1>Catálogo de Soluciones Tecnológicas</h1>
     </div>
 
     <div class="controles">
-        <div class="busqueda-container">
-            <input type="text" id="buscador" placeholder="Buscar productos por nombre, marca o modelo..." onkeyup="filtrar()">
-        </div>
+        <input type="text" id="buscador" placeholder="Buscar por nombre, marca o modelo..." onkeyup="filtrar()">
         <div id="menu" class="menu-categorias"></div>
     </div>
 
     <div id="galeria" class="grid"></div>
 
-    <script>
-        let db = [];
-        let catActual = 'TODOS';
-        const CANTIDAD_POR_PAGINA = 100;
-        let productosFiltrados = [];
-        let mostrados = 0;
+    <div id="miModal" class="modal">
+        <div class="modal-content">
+            <span class="cerrar" onclick="cerrarModal()">&times;</span>
+            <div id="modal-body"></div>
+        </div>
+    </div>
 
+    <script>
+        let db = []; let filtrados = []; let indexGlobal = 0;
         async function inicio() {
-            try {
-                const res = await fetch('productos.json?v=' + new Date().getTime());
-                db = await res.json();
-                renderMenu();
-                filtrar();
-            } catch (e) {
-                document.getElementById('galeria').innerHTML = "<p style='text-align:center;'>Cargando productos...</p>";
-            }
+            const res = await fetch('productos.json?v=' + Date.now());
+            db = await res.json();
+            renderMenu(); filtrar();
         }
 
         function renderMenu() {
-            const menu = document.getElementById('menu');
-            const cats = ['TODOS', ...new Set(db.map(p => p.categoria))];
-            cats.forEach(c => {
+            const m = document.getElementById('menu');
+            ['TODOS', ...new Set(db.map(p => p.categoria))].forEach(c => {
                 const b = document.createElement('button');
-                b.className = `btn-cat ${c === 'TODOS' ? 'activo' : ''}`;
-                b.innerText = c;
+                b.className = 'btn-cat'; b.innerText = c;
+                if(c === 'TODOS') b.classList.add('activo');
                 b.onclick = (e) => {
-                    document.querySelectorAll('.btn-cat').forEach(btn => btn.classList.remove('activo'));
+                    document.querySelectorAll('.btn-cat').forEach(x => x.classList.remove('activo'));
                     e.target.classList.add('activo');
-                    catActual = c;
-                    filtrar();
+                    filtrar(c);
                 };
-                menu.appendChild(b);
+                m.appendChild(b);
             });
         }
 
-        function filtrar() {
-            const query = document.getElementById('buscador').value.toLowerCase();
-            
-            productosFiltrados = db.filter(p => {
-                const matchCat = (catActual === 'TODOS' || p.categoria === catActual);
-                const matchSearch = p.nombre.toLowerCase().includes(query);
-                return matchCat && matchSearch;
-            });
-
-            mostrados = 0;
+        function filtrar(cat = 'TODOS') {
+            const q = document.getElementById('buscador').value.toLowerCase();
+            filtrados = db.filter(p => (cat === 'TODOS' || p.categoria === cat) && p.nombre.toLowerCase().includes(q));
+            indexGlobal = 0;
             document.getElementById('galeria').innerHTML = '';
-            renderizarLote();
+            mostrarMas();
         }
 
-        function renderizarLote() {
-            const galeria = document.getElementById('galeria');
-            
-            const contenedorBtn = document.getElementById('contenedor-btn');
-            if (contenedorBtn) contenedorBtn.remove();
-            const msgFinal = document.getElementById('msg-final');
-            if (msgFinal) msgFinal.remove();
-
-            const fin = Math.min(mostrados + CANTIDAD_POR_PAGINA, productosFiltrados.length);
-            const lote = productosFiltrados.slice(mostrados, fin);
-            
-            let htmlContenido = '';
+        function mostrarMas() {
+            const g = document.getElementById('galeria');
+            const lote = filtrados.slice(indexGlobal, indexGlobal + 40);
             lote.forEach(p => {
-                htmlContenido += `
-                    <div class="card">
-                        <span class="cat-tag">${p.categoria}</span>
-                        <img src="${p.imagen}" alt="${p.nombre}" loading="lazy">
-                        <h3>${p.nombre}</h3>
-                        <a href="https://wa.me/TUNUMERO?text=Hola, quiero consultar la disponibilidad de este equipo: ${encodeURIComponent(p.nombre)}" target="_blank" class="btn-wa">Consultar disponibilidad</a>
-                    </div>
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <img src="${p.imagen}" loading="lazy">
+                    <h3>${p.nombre}</h3>
+                    <button class="btn-detalles" onclick="verDetalles('${encodeURIComponent(JSON.stringify(p))}')">🔍 Ver Información Completa</button>
+                    <a href="https://wa.me/TUNUMERO?text=Consulta: ${encodeURIComponent(p.nombre)}" target="_blank" class="btn-wa">Consultar disponibilidad</a>
                 `;
+                g.appendChild(card);
             });
-            
-            galeria.insertAdjacentHTML('beforeend', htmlContenido);
-            mostrados = fin;
-
-            if (mostrados < productosFiltrados.length) {
-                const restantes = productosFiltrados.length - mostrados;
-                const btnHTML = `
-                    <div id="contenedor-btn" class="contenedor-boton">
-                        <button onclick="renderizarLote()" class="btn-cargar">Ver más productos (${restantes} restantes)</button>
-                    </div>
-                `;
-                galeria.insertAdjacentHTML('beforeend', btnHTML);
-            } else if (productosFiltrados.length === 0) {
-                galeria.insertAdjacentHTML('beforeend', "<p id='msg-final' class='mensaje-limite'>No se encontraron productos.</p>");
-            } else {
-                galeria.insertAdjacentHTML('beforeend', "<p id='msg-final' class='mensaje-limite'>Has llegado al final del catálogo.</p>");
-            }
+            indexGlobal += 40;
         }
+
+        function verDetalles(datos) {
+            const p = JSON.parse(decodeURIComponent(datos));
+            const body = document.getElementById('modal-body');
+            body.innerHTML = `
+                <div style="display:flex; gap:30px">
+                    <img src="${p.imagen}" style="width:300px; object-fit:contain">
+                    <div>
+                        <h2>${p.nombre}</h2>
+                        <p style="color:#666">Categoría: ${p.categoria}</p>
+                        <hr>
+                        <h4>Descripción Técnica:</h4>
+                        <p>${p.detalles || 'No hay detalles adicionales para este producto.'}</p>
+                    </div>
+                </div>
+                ${p.video ? `<div class="video-container"><h4>🎥 Video Demostrativo:</h4><a href="${p.video}" target="_blank" style="color:white">Haga clic aquí para ver el video del producto</a></div>` : ''}
+            `;
+            document.getElementById('miModal').style.display = "block";
+        }
+
+        function cerrarModal() { document.getElementById('miModal').style.display = "none"; }
+        window.onclick = (e) => { if(e.target.className === 'modal') cerrarModal(); }
 
         inicio();
     </script>
