@@ -114,6 +114,19 @@ def obtener_productos():
             if p['nombre'] not in vistos:
                 vistos.add(p['nombre'])
                 productos_finales.append(p)
+
+        # --- NUEVA MAGIA: Sumar los productos de la bóveda manual ---
+        import os
+        if os.path.exists('manuales.json'):
+            print("Revisando la bóveda de productos manuales...")
+            with open('manuales.json', 'r', encoding='utf-8') as fm:
+                productos_manuales = json.load(fm)
+                for pm in productos_manuales:
+                    if pm['nombre'] not in vistos:
+                        vistos.add(pm['nombre'])
+                        productos_finales.append(pm)
+            print(f"-> Se sumaron {len(productos_manuales)} productos manuales al catálogo.")
+        # -------------------------------------------------------------
                 
         with open('productos.json', 'w', encoding='utf-8') as f:
             json.dump(productos_finales, f, ensure_ascii=False, indent=4)
