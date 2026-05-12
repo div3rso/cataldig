@@ -6,12 +6,20 @@
     <style>
         body { font-family: 'Segoe UI', sans-serif; background-color: #f0f2f5; margin: 0; padding: 20px; }
         .header { background: white; padding: 20px; border-radius: 10px; margin-bottom: 20px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        
+        /* Estilos para la caja de crear producto */
+        .crear-panel { background: #e8f4f8; padding: 20px; border-radius: 10px; margin-bottom: 25px; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .crear-panel h2 { margin-top: 0; font-size: 18px; color: #2c3e50; }
+        .crear-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+        @media (max-width: 768px) { .crear-grid { grid-template-columns: 1fr; } }
+        
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }
         .card { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-left: 5px solid #2c3e50; }
         .card.oculto { border-left-color: #e74c3c; opacity: 0.7; }
-        input, textarea { width: 100%; padding: 8px; margin: 5px 0; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; font-family: inherit; }
+        input, textarea, select { width: 100%; padding: 10px; margin: 5px 0; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; font-family: inherit; }
         textarea { height: 80px; resize: vertical; }
         .btn-add { background: #28a745; color: white; border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 5px; }
+        .btn-new { background: #3498db; color: white; border: none; padding: 12px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 15px; grid-column: 1 / -1; }
         .btn-hide { background: #e74c3c; color: white; border: none; padding: 8px; width: 100%; border-radius: 5px; cursor: pointer; margin-top: 5px; font-size: 12px; }
         .panel-cambios { position: fixed; bottom: 20px; right: 20px; width: 350px; background: #2c3e50; color: white; padding: 20px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); z-index: 100; }
         .btn-copiar { background: #ffc107; color: #000; border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 10px; }
@@ -20,25 +28,86 @@
 <body>
     <div class="header">
         <h1>🛠️ Gestor de Contenido y Lista Negra</h1>
-        <input type="text" id="filtro" placeholder="Buscar producto para editar u ocultar..." onkeyup="dibujar()">
     </div>
+
+    <!-- NUEVO PANEL: Agregar Producto Manual -->
+    <div class="crear-panel">
+        <h2>➕ Agregar Nuevo Producto Manual</h2>
+        <div class="crear-grid">
+            <div>
+                <label><b>Nombre y Marca:</b></label>
+                <input type="text" id="nuevo-nombre" placeholder="Ej: DAHUA - Cámara IP 2MP">
+                
+                <label><b>Categoría:</b></label>
+                <select id="nuevo-categoria">
+                    <option value="NOVEDADES">NOVEDADES</option>
+                    <option value="Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores">Cámaras - DIMAX</option>
+                    <option value="VIDEOVIGILANCIA">VIDEOVIGILANCIA</option>
+                    <option value="CONTROL DE ACCESO">CONTROL DE ACCESO</option>
+                    <option value="ALARMAS Y DOMOTICA">ALARMAS Y DOMOTICA</option>
+                    <option value="SISTEMAS ANTIHURTO">SISTEMAS ANTIHURTO</option>
+                    <option value="PROTECCION PERIMETRAL">PROTECCION PERIMETRAL</option>
+                    <option value="DETECCION DE INCENDIO">DETECCION DE INCENDIO</option>
+                    <option value="GPS">GPS</option>
+                    <option value="REDES">REDES</option>
+                    <option value="TELEFONIA">TELEFONIA</option>
+                    <option value="RADIOCOMUNICACION">RADIOCOMUNICACION</option>
+                    <option value="CABLEADO ESTRUCTURADO Y FO.">CABLEADO ESTRUCTURADO Y FO.</option>
+                    <option value="ENERGIA Y CABLES">ENERGIA Y CABLES</option>
+                    <option value="ILUMINACION Y SONIDO">ILUMINACION Y SONIDO</option>
+                    <option value="HERRAMIENTAS Y FERRETERIA">HERRAMIENTAS Y FERRETERIA</option>
+                    <option value="COMPUTO">COMPUTO</option>
+                </select>
+            </div>
+            <div>
+                <label><b>URL de la Imagen:</b></label>
+                <input type="text" id="nuevo-imagen" placeholder="Link de la foto (Ej: https://...)">
+                
+                <label><b>Link de Video (Opcional):</b></label>
+                <input type="text" id="nuevo-video" placeholder="Link de YouTube o Drive">
+            </div>
+            <div style="grid-column: 1 / -1;">
+                <label><b>Detalles Técnicos (Opcional):</b></label>
+                <textarea id="nuevo-detalles" placeholder="Escribe aquí las especificaciones del equipo..."></textarea>
+                
+                <button class="btn-new" onclick="crearProductoManual()">➕ Añadir Producto a la Cola</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- BUSCADOR PARA EDITAR/OCULTAR LOS EXISTENTES -->
+    <div style="margin-bottom: 20px;">
+        <input type="text" id="filtro" placeholder="Buscar producto existente para editar detalles u ocultarlo..." onkeyup="dibujar()" style="padding: 12px; font-size: 16px;">
+    </div>
+
     <div id="galeria" class="grid"></div>
+
     <div class="panel-cambios">
         <h3>📦 Cambios para GitHub</h3>
-        <div id="pendientes" style="font-size: 12px; max-height: 100px; overflow: auto;">0 productos listos.</div>
+        <div id="pendientes" style="font-size: 12px; max-height: 100px; overflow: auto; margin-bottom: 10px;">0 productos en cola.</div>
         <button class="btn-copiar" onclick="copiar()">📋 Copiar código de actualización</button>
     </div>
 
     <script>
         let db = []; let cambios = [];
         async function cargar() {
-            const res = await fetch('productos.json?v=' + Date.now());
-            db = await res.json(); dibujar();
+            try {
+                const res = await fetch('productos.json?v=' + Date.now());
+                db = await res.json(); dibujar();
+            } catch (e) {
+                document.getElementById('galeria').innerHTML = "<p>Cargando catálogo...</p>";
+            }
         }
+
         function dibujar() {
             const q = document.getElementById('filtro').value.toLowerCase();
             const g = document.getElementById('galeria'); g.innerHTML = '';
-            db.filter(p => p.nombre.toLowerCase().includes(q)).slice(0, 40).forEach((p, i) => {
+            
+            // Filtramos solo si el usuario ha escrito algo, si no mostramos los primeros 20
+            let resultados = db.filter(p => p.nombre.toLowerCase().includes(q));
+            if(q === '') resultados = resultados.slice(0, 20); else resultados = resultados.slice(0, 50);
+
+            resultados.forEach((p, i) => {
                 const div = document.createElement('div');
                 div.className = 'card';
                 div.innerHTML = `
@@ -52,23 +121,70 @@
                 g.appendChild(div);
             });
         }
+
+        // Función para guardar cambios a productos existentes o marcarlos para ocultar
         function guardar(idx, visible) {
+            const nombreOriginal = document.getElementById(`n-${idx}`).value;
+            const productoBase = db.find(x => x.nombre === nombreOriginal);
+            
             const item = {
-                nombre: document.getElementById(`n-${idx}`).value,
+                nombre: nombreOriginal,
                 detalles: document.getElementById(`d-${idx}`).value,
                 video: document.getElementById(`v-${idx}`).value,
                 visible: visible,
-                imagen: db.find(x => x.nombre === document.getElementById(`n-${idx}`).value).imagen,
-                categoria: document.getElementById(`c-${idx}`) ? document.getElementById(`c-${idx}`).value : db.find(x => x.nombre === document.getElementById(`n-${idx}`).value).categoria
+                imagen: productoBase.imagen,
+                categoria: productoBase.categoria
             };
+            
+            agregarACola(item);
+        }
+
+        // Función nueva para crear productos desde cero
+        function crearProductoManual() {
+            const nombre = document.getElementById('nuevo-nombre').value.trim();
+            const imagen = document.getElementById('nuevo-imagen').value.trim();
+            
+            if(!nombre || !imagen) {
+                alert("⚠️ Debes ingresar al menos el Nombre y la URL de la Imagen.");
+                return;
+            }
+
+            const item = {
+                nombre: nombre,
+                categoria: document.getElementById('nuevo-categoria').value,
+                imagen: imagen,
+                video: document.getElementById('nuevo-video').value.trim(),
+                detalles: document.getElementById('nuevo-detalles').value.trim(),
+                visible: true
+            };
+
+            agregarACola(item);
+
+            // Limpiar las casillas del formulario después de agregar
+            document.getElementById('nuevo-nombre').value = '';
+            document.getElementById('nuevo-imagen').value = '';
+            document.getElementById('nuevo-video').value = '';
+            document.getElementById('nuevo-detalles').value = '';
+            
+            alert("✅ ¡Producto añadido a la cola! Recuerda copiar el código y subirlo a GitHub.");
+        }
+
+        // Función unificada para la cola
+        function agregarACola(item) {
             cambios = cambios.filter(c => c.nombre !== item.nombre);
             cambios.push(item);
             document.getElementById('pendientes').innerText = `${cambios.length} productos listos para subir.`;
         }
+
         function copiar() {
+            if(cambios.length === 0) {
+                alert("No tienes ningún cambio o producto nuevo en la cola.");
+                return;
+            }
             navigator.clipboard.writeText(JSON.stringify(cambios));
-            alert("¡Copiado! Ahora ve a Actions > Carga Masiva y pega el código.");
+            alert("¡Copiado! Ahora ve a tu GitHub > pestaña Actions > Ejecuta 'Carga Masiva desde Gestor' y pega el código.");
         }
+        
         cargar();
     </script>
 </body>
