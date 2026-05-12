@@ -1,1 +1,33 @@
+name: 📥 Carga Masiva desde Gestor
 
+on:
+  workflow_dispatch:
+    inputs:
+      bloque:
+        description: 'Pega aquí el código que copiaste del Gestor Visual'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  guardar:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+    - name: Procesar Carga
+      env:
+        BLOQUE_JSON: ${{ github.event.inputs.bloque }}
+      run: python masivo.py
+    - name: Commit y Push
+      run: |
+        git config --global user.name "Gestor de Contenido"
+        git config --global user.email "gestor@catalogo.com"
+        git add manuales.json
+        git commit -m "Carga masiva realizada"
+        git pull origin main --rebase
+        git push origin main
