@@ -1,5 +1,45 @@
 [
     {
+        "nombre": "ZBMINIL2 - INTERRUPTOR INTELIGENTE EXTREME ZIGBEE*NO REQUIERE NEUTRO*DIMENSION 39,5x32x18,4mm*MATERIAL PC V0*Zigbee 3.0*REQUIERE HUB ZIGBEE - Iniciar sesión",
+        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZBMINIL2-image-0-1770219192303.webp",
+        "categoria": "NOVEDADES"
+    },
+    {
+        "nombre": "ZBMINIL2 - INTERRUPTOR INTELIGENTE EXTREME ZIGBEE*NO REQUIERE NEUTRO*DIMENSION 39,5x32x18,4mm*MATERIAL PC V0*Zigbee 3.0*REQUIERE HUB ZIGBEE",
+        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
+        "categoria": "NOVEDADES"
+    },
+    {
+        "nombre": "ZBM5-3C-120W - INTERRUPTOR 3 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE - Iniciar sesión",
+        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZBM53C120W-image-0-1770236147910.webp",
+        "categoria": "NOVEDADES"
+    },
+    {
+        "nombre": "ZBM5-3C-120W - INTERRUPTOR 3 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE",
+        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
+        "categoria": "NOVEDADES"
+    },
+    {
+        "nombre": "ZBM5-2C-120W - INTERRUPTOR 2 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE - Iniciar sesión",
+        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZBM52C120W-image-0-1770235037082.webp",
+        "categoria": "NOVEDADES"
+    },
+    {
+        "nombre": "ZBM5-2C-120W - INTERRUPTOR 2 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE",
+        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
+        "categoria": "NOVEDADES"
+    },
+    {
+        "nombre": "ZBM5-1C-120W - INTERRUPTOR 1 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE - Iniciar sesión",
+        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZBM51C120W-image-0-1770234327856.webp",
+        "categoria": "NOVEDADES"
+    },
+    {
+        "nombre": "ZBM5-1C-120W - INTERRUPTOR 1 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE",
+        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
+        "categoria": "NOVEDADES"
+    },
+    {
         "nombre": "MINI-D - INTERRUPTOR INTELIGENTE WIFI MINI DRY*BLANCO*100-240 V~50/60 Hz 0,1 A máx. O 12-48 V A máx. µ*Wi-Fi: IEEE 802.11 b/g/n 2.4GHz*TEMPERATURA DE TRABAJO -10~40C - Iniciar sesión",
         "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MINID-image-0-1770044001242.webp",
         "categoria": "NOVEDADES"
@@ -237,46 +277,6 @@
     {
         "nombre": "DE5420-I5-8-256-W10/RFB - Dell Latitude 5420 Notebook, 14\"*FHD(1920 x 1080),Webcam,1x Intel Core i5 Quad\r (i5-1135G7)2.40 GHz,8GB RAM,256GB SSD, GRAFICO INTEL INTEGRADO*GRADO A/B",
         "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dell.webp",
-        "categoria": "NOVEDADES"
-    },
-    {
-        "nombre": "6L7T9UC#ABA_HP_OX91P/RFB - 6L7T9UC#ABA_HP_OX91P_A/RFB*HP ELITEBOOK 645 G9 AMD RYZEN 5PRO 5675U*14\" FHD 1080P*GPU INTEGRADO*16GB RAM/ 256GB SSD*WEBCAM*GRADO A - Iniciar sesión",
-        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/6L7T9UCABAHPOX91PRFB-image-0-1775676692199.webp",
-        "categoria": "NOVEDADES"
-    },
-    {
-        "nombre": "6L7T9UC#ABA_HP_OX91P/RFB - 6L7T9UC#ABA_HP_OX91P_A/RFB*HP ELITEBOOK 645 G9 AMD RYZEN 5PRO 5675U*14\" FHD 1080P*GPU INTEGRADO*16GB RAM/ 256GB SSD*WEBCAM*GRADO A",
-        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hp.webp",
-        "categoria": "NOVEDADES"
-    },
-    {
-        "nombre": "5R6C2UC#ABA_HP_RJ00P/RFB - 5R6C2UC#ABA_HP_RJ00P_A/RFB*HP ELITEBOOK 845 G8 AMD RYZEN 5PRO 5650U*14\" FHD 1080P*GPU INTEGRADO*16GB DDR4 RAM/256GB SSD*WEBCAM*GRADO A* - Iniciar sesión",
-        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/5R6C2UCABAHPRJ00PRFB-image-0-1775676059987.webp",
-        "categoria": "NOVEDADES"
-    },
-    {
-        "nombre": "5R6C2UC#ABA_HP_RJ00P/RFB - 5R6C2UC#ABA_HP_RJ00P_A/RFB*HP ELITEBOOK 845 G8 AMD RYZEN 5PRO 5650U*14\" FHD 1080P*GPU INTEGRADO*16GB DDR4 RAM/256GB SSD*WEBCAM*GRADO A*",
-        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hp.webp",
-        "categoria": "NOVEDADES"
-    },
-    {
-        "nombre": "TBB013US - MOCHILA SPRUCE ECOSMART 15,6\"*SISTEMA SAFEPORT SLING*BOLSILLO DEDICADO PARA TABLET*IDEAL PARA VIAJES CON DISEÑO CHECKPOINT FRIENDLY*CORREA CARRY ON PARA MALETA - Iniciar sesión",
-        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TBB013US-image-0-1771530360552.webp",
-        "categoria": "NOVEDADES"
-    },
-    {
-        "nombre": "TBB013US - MOCHILA SPRUCE ECOSMART 15,6\"*SISTEMA SAFEPORT SLING*BOLSILLO DEDICADO PARA TABLET*IDEAL PARA VIAJES CON DISEÑO CHECKPOINT FRIENDLY*CORREA CARRY ON PARA MALETA",
-        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/targus.webp",
-        "categoria": "NOVEDADES"
-    },
-    {
-        "nombre": "TSB705US - MOCHILA LEGEND IQ ECOSMART 15-16\"*SAFEPORT / SLING PROTECTION*ABSORBE IMPACTOS*BOLSILLO FRONTAL CON BLOQUEO RFID*CAPACIDAD 20Lt*CORREA TROLLEY*PANEL TRASERO ACO - Iniciar sesión",
-        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TSB705US-image-0-1771859345704.webp",
-        "categoria": "NOVEDADES"
-    },
-    {
-        "nombre": "TSB705US - MOCHILA LEGEND IQ ECOSMART 15-16\"*SAFEPORT / SLING PROTECTION*ABSORBE IMPACTOS*BOLSILLO FRONTAL CON BLOQUEO RFID*CAPACIDAD 20Lt*CORREA TROLLEY*PANEL TRASERO ACO",
-        "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/targus.webp",
         "categoria": "NOVEDADES"
     },
     {
