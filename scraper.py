@@ -1,8 +1,9 @@
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import json
+import os
 
-# Lista de categorías actualizada incluyendo NOVEDADES
+# Lista de categorías actualizada incluyendo NOVEDADES y DIMAX
 categorias_a_extraer = {
     "NOVEDADES": "https://www.digicorp.com.bo/novedades",
     "Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores": "https://digicorp.com.bo/marcas/DIMAX",
@@ -24,7 +25,7 @@ categorias_a_extraer = {
 }
 
 def obtener_productos():
-    print("Iniciando extracción incluyendo la sección de NOVEDADES...")
+    print("Iniciando extracción incluyendo NOVEDADES, DIMAX y Gestor Inteligente...")
     productos_totales = []
     
     palabras_basura = [
@@ -107,31 +108,49 @@ def obtener_productos():
                     
             navegador.close()
             
-        # Limpieza final de duplicados globales
-        vistos = set()
-        productos_finales = []
-        for p in productos_totales:
-            if p['nombre'] not in vistos:
-                vistos.add(p['nombre'])
-                productos_finales.append(p)
-
-        # --- NUEVA MAGIA: Sumar los productos de la bóveda manual ---
-        import os
+        # --- SISTEMA DE FUSIÓN Y LISTA NEGRA (El nuevo cerebro) ---
+        print("Revisando tu Gestor de Productos (Manuales, Detalles y Lista Negra)...")
+        manuales_dict = {}
         if os.path.exists('manuales.json'):
-            print("Revisando la bóveda de productos manuales...")
-            with open('manuales.json', 'r', encoding='utf-8') as fm:
-                productos_manuales = json.load(fm)
-                for pm in productos_manuales:
-                    if pm['nombre'] not in vistos:
-                        vistos.add(pm['nombre'])
-                        productos_finales.append(pm)
-            print(f"-> Se sumaron {len(productos_manuales)} productos manuales al catálogo.")
+            try:
+                with open('manuales.json', 'r', encoding='utf-8') as fm:
+                    datos_m = json.load(fm)
+                    # Convertimos la lista a un diccionario para encontrar los productos súper rápido
+                    manuales_dict = {m['nombre']: m for m in datos_m if 'nombre' in m}
+            except Exception as e:
+                print(f"  -> Advertencia: No se pudo leer manuales.json: {e}")
+
+        productos_finales = []
+        nombres_finales = set()
+
+        # 1. Filtramos y enriquecemos lo que el robot acaba de extraer de la web
+        for p in productos_totales:
+            nombre = p['nombre']
+            
+            # REGLA 1 (Lista Negra): Si tú le diste a "Ocultar" en el gestor, el robot lo ignora.
+            if nombre in manuales_dict and manuales_dict[nombre].get('visible') == False:
+                continue
+            
+            # REGLA 2 (Enriquecimiento): Si le pusiste video o detalles técnicos, se los sumamos.
+            if nombre in manuales_dict:
+                p.update(manuales_dict[nombre])
+            
+            if nombre not in nombres_finales:
+                productos_finales.append(p)
+                nombres_finales.add(nombre)
+
+        # 2. Agregamos los productos que son 100% manuales (los que tú subiste desde cero)
+        for nombre, datos in manuales_dict.items():
+            # Si no está en la web y NO está oculto, lo agregamos al catálogo final
+            if nombre not in nombres_finales and datos.get('visible') != False:
+                productos_finales.append(datos)
+                nombres_finales.add(nombre)
         # -------------------------------------------------------------
                 
         with open('productos.json', 'w', encoding='utf-8') as f:
             json.dump(productos_finales, f, ensure_ascii=False, indent=4)
             
-        print(f"\nProceso finalizado. El catálogo ahora incluye la sección de Novedades.")
+        print(f"\nProceso finalizado. Catálogo actualizado, filtrado y fusionado con éxito.")
         
     except Exception as e:
         print(f"Fallo general del sistema: {e}")
