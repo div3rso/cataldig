@@ -1,1 +1,5 @@
-
+# Esta lista le dice al servidor web qué archivos NO debe mostrar al público
+exclude:
+  - scraper.py
+  - manuales.json
+  - README.md
