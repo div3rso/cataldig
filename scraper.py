@@ -2,8 +2,8 @@ from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import json
 import os
+from datetime import datetime, timedelta
 
-# Lista de categorías actualizada incluyendo NOVEDADES y DIMAX
 categorias_a_extraer = {
     "NOVEDADES": "https://www.digicorp.com.bo/novedades",
     "Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores": "https://digicorp.com.bo/marcas/DIMAX",
@@ -25,135 +25,87 @@ categorias_a_extraer = {
 }
 
 def obtener_productos():
-    print("Iniciando extracción incluyendo NOVEDADES, DIMAX y Gestor Inteligente...")
+    print("Iniciando Robot Maestro...")
     productos_totales = []
-    
-    palabras_basura = [
-        'digicorp ©', 'Iniciar sesión', 'en dios confiamos', 'lunes a viernes:', 'preguntas frecuentes',
-        'contáctanos', 'horarios', 'google play', 'app store', 'descarga', 
-        'boletín', 'suscríbete', 'inicio', 'nosotros', 'políticas', 
-        'términos', 'bs.', 'oferta', 'nuevo', 'registrarse', 'carrito',
-        'soluciones tecnológicas', 'derechos reservados', 'página oficial'
-    ]
-    
-    img_basura = ['iso.png', 'x.svg', 'contactanos.png', 'logo.', '/logo', 'icon', 'banner', 'footer', 'playstore', 'appstore', 'whatsapp']
+    palabras_basura = ['digicorp ©', 'Iniciar sesión', 'en dios confiamos', 'lunes a viernes:', 'preguntas frecuentes', 'contáctanos', 'horarios', 'google play', 'app store', 'descarga', 'boletín', 'suscríbete', 'inicio', 'nosotros', 'políticas', 'términos', 'bs.', 'oferta', 'nuevo', 'registrarse', 'carrito', 'derechos reservados']
+    img_basura = ['iso.png', 'x.svg', 'contactanos.png', 'logo.', '/logo', 'icon', 'banner', 'footer', 'whatsapp']
     
     try:
         with sync_playwright() as p:
             navegador = p.chromium.launch(headless=True)
             contexto = navegador.new_context(viewport={'width': 1280, 'height': 800})
             pagina = contexto.new_page()
-            
             for nombre_cat, url in categorias_a_extraer.items():
-                print(f"Explorando pasillo: {nombre_cat}...")
+                print(f"-> Escaneando: {nombre_cat}...")
                 try:
                     pagina.goto(url, wait_until="networkidle", timeout=60000)
                     pagina.wait_for_timeout(7000)
-                    
-                    # Scroll para cargar todos los productos de la categoría
                     for i in range(6): 
-                        pagina.evaluate("window.scrollBy(0, 900)")
-                        pagina.wait_for_timeout(2500)
-                        
+                        pagina.evaluate("window.scrollBy(0, 1000)")
+                        pagina.wait_for_timeout(2000)
                     html = pagina.content()
                     sopa = BeautifulSoup(html, 'html.parser')
-                    
-                    count = 0
                     nombres_vistos = set()
-                    
                     for img in sopa.find_all('img'):
                         imagen = img.get('src') or img.get('data-src') or img.get('data-original')
-                        if not imagen: continue
-                        if imagen.startswith('data:image'): continue
-                            
-                        imagen_url_low = imagen.lower()
-                        if any(x in imagen_url_low for x in img_basura):
-                            continue
-                        
+                        if not imagen or imagen.startswith('data:image') or any(x in imagen.lower() for x in img_basura): continue
                         padre = img.parent
                         nombre = ""
-                        
-                        # Buscamos textos alrededor de la imagen para capturar Marca, Modelo y Descripción
                         for _ in range(4):
                             if padre:
                                 textos = list(padre.stripped_strings)
-                                # Filtramos textos muy cortos o que sean basura publicitaria
-                                textos_validos = [t for t in textos if len(t) > 2 and not any(b in t.lower() for b in palabras_basura)]
-                                
-                                if textos_validos:
-                                    # Combinamos los textos encontrados para un título profesional
-                                    nombre = " - ".join(textos_validos)
+                                validos = [t for t in textos if len(t) > 2 and not any(b in t.lower() for b in palabras_basura)]
+                                if validos:
+                                    nombre = " - ".join(validos)
                                     break
                                 padre = padre.parent
-                                
-                        if nombre and imagen:
-                            nombre = nombre.strip().replace('\n', ' ').replace('  ', ' ')
-                            
-                            if len(nombre) > 10 and not any(b in nombre.lower() for b in palabras_basura):
-                                if nombre not in nombres_vistos:
-                                    if not imagen.startswith('http'):
-                                        imagen = f"https://www.digicorp.com.bo{imagen}" if imagen.startswith('/') else f"https://www.digicorp.com.bo/{imagen}"
-                                        
-                                    productos_totales.append({
-                                        "nombre": nombre,
-                                        "imagen": imagen,
-                                        "categoria": nombre_cat
-                                    })
-                                    nombres_vistos.add(nombre)
-                                    count += 1
-                                
-                    print(f"  -> Capturados {count} productos detallados de {nombre_cat}")
-                except Exception as e:
-                    print(f"  -> Error en {nombre_cat}: {e}")
-                    
+                        if nombre and len(nombre) > 10 and nombre not in nombres_vistos:
+                            if not imagen.startswith('http'):
+                                imagen = f"https://www.digicorp.com.bo{imagen}" if imagen.startswith('/') else f"https://www.digicorp.com.bo/{imagen}"
+                            productos_totales.append({"nombre": nombre, "imagen": imagen, "categoria": nombre_cat})
+                            nombres_vistos.add(nombre)
+                except: pass
             navegador.close()
-            
-        # --- SISTEMA DE FUSIÓN Y LISTA NEGRA (El nuevo cerebro) ---
-        print("Revisando tu Gestor de Productos (Manuales, Detalles y Lista Negra)...")
+
+        # FUSIÓN CON MANUALES
         manuales_dict = {}
         if os.path.exists('manuales.json'):
-            try:
-                with open('manuales.json', 'r', encoding='utf-8') as fm:
-                    datos_m = json.load(fm)
-                    # Convertimos la lista a un diccionario para encontrar los productos súper rápido
-                    manuales_dict = {m['nombre']: m for m in datos_m if 'nombre' in m}
-            except Exception as e:
-                print(f"  -> Advertencia: No se pudo leer manuales.json: {e}")
+            with open('manuales.json', 'r', encoding='utf-8') as fm:
+                try:
+                    m_data = json.load(fm)
+                    manuales_dict = {m['nombre']: m for m in m_data if 'nombre' in m}
+                except: pass
 
         productos_finales = []
-        nombres_finales = set()
-
-        # 1. Filtramos y enriquecemos lo que el robot acaba de extraer de la web
+        final_vistos = set()
         for p in productos_totales:
             nombre = p['nombre']
-            
-            # REGLA 1 (Lista Negra): Si tú le diste a "Ocultar" en el gestor, el robot lo ignora.
-            if nombre in manuales_dict and manuales_dict[nombre].get('visible') == False:
-                continue
-            
-            # REGLA 2 (Enriquecimiento): Si le pusiste video o detalles técnicos, se los sumamos.
-            if nombre in manuales_dict:
-                p.update(manuales_dict[nombre])
-            
-            if nombre not in nombres_finales:
+            if nombre in manuales_dict and manuales_dict[nombre].get('visible') == False: continue
+            if nombre in manuales_dict: p.update(manuales_dict[nombre])
+            if nombre not in final_vistos:
                 productos_finales.append(p)
-                nombres_finales.add(nombre)
+                final_vistos.add(nombre)
 
-        # 2. Agregamos los productos que son 100% manuales (los que tú subiste desde cero)
-        for nombre, datos in manuales_dict.items():
-            # Si no está en la web y NO está oculto, lo agregamos al catálogo final
-            if nombre not in nombres_finales and datos.get('visible') != False:
-                productos_finales.append(datos)
-                nombres_finales.add(nombre)
-        # -------------------------------------------------------------
-                
+        for n, m in manuales_dict.items():
+            if n not in final_vistos and m.get('visible') != False:
+                productos_finales.append(m)
+                final_vistos.add(n)
+
+        # GENERACIÓN DE FECHA VERSIÓN (Bolivia UTC-4)
+        fecha_bolivia = datetime.utcnow() - timedelta(hours=4)
+        version_str = fecha_bolivia.strftime("%m%d%Y.%H.%M")
+
+        # GUARDADO CON NUEVA ESTRUCTURA
+        data_final = {
+            "version": version_str,
+            "productos": productos_finales
+        }
+
         with open('productos.json', 'w', encoding='utf-8') as f:
-            json.dump(productos_finales, f, ensure_ascii=False, indent=4)
-            
-        print(f"\nProceso finalizado. Catálogo actualizado, filtrado y fusionado con éxito.")
-        
+            json.dump(data_final, f, ensure_ascii=False, indent=4)
+        print(f"¡Catálogo Actualizado! Versión: {version_str}")
     except Exception as e:
-        print(f"Fallo general del sistema: {e}")
+        print(f"Error: {e}")
 
 if __name__ == "__main__":
     obtener_productos()
