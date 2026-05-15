@@ -2,120 +2,103 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Panel de Administración - Sinónimos Habilitados</title>
+    <title>Gestor Avanzado</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; background-color: #f0f2f5; margin: 0; padding: 20px; }
-        .header { background: white; padding: 20px; border-radius: 10px; margin-bottom: 20px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-        .crear-panel { background: #e8f4f8; padding: 20px; border-radius: 10px; margin-bottom: 25px; border-left: 5px solid #3498db; }
-        .crear-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+        body { font-family: 'Segoe UI', sans-serif; background-color: #f1f5f9; padding: 20px; }
+        .header { background: white; padding: 20px; border-radius: 10px; margin-bottom: 20px; text-align: center; }
+        .filtro-lista-negra { background: #fee2e2; padding: 15px; border-radius: 10px; margin-bottom: 20px; display: flex; align-items: center; justify-content: space-between; border: 1px solid #ef4444; }
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }
-        .card { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-left: 5px solid #2c3e50; }
-        input, textarea, select { width: 100%; padding: 10px; margin: 5px 0; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; }
-        textarea { height: 60px; }
-        .btn-add { background: #28a745; color: white; border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 5px; }
-        .btn-new { background: #3498db; color: white; border: none; padding: 12px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 15px; grid-column: 1 / -1; }
-        .btn-hide { background: #e74c3c; color: white; border: none; padding: 8px; width: 100%; border-radius: 5px; cursor: pointer; margin-top: 5px; font-size: 12px; }
-        .panel-cambios { position: fixed; bottom: 20px; right: 20px; width: 350px; background: #2c3e50; color: white; padding: 20px; border-radius: 12px; z-index: 100; }
-        .btn-copiar { background: #ffc107; color: #000; border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; }
+        .card { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .card.oculto { border: 2px solid #ef4444; background: #fff1f2; }
+        input, textarea, select { width: 100%; padding: 8px; margin: 5px 0; border: 1px solid #ddd; border-radius: 4px; }
+        .btn-save { background: #10b981; color: white; border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; }
+        .btn-hide { background: #ef4444; color: white; border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; margin-top: 5px; }
+        .btn-show { background: #3b82f6; color: white; border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; margin-top: 5px; }
+        .panel-fijo { position: fixed; bottom: 20px; right: 20px; width: 300px; background: #1e293b; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); }
     </style>
 </head>
 <body>
-    <div class="header"><h1>🛠️ Gestor con Sinónimos</h1></div>
-
-    <div class="crear-panel">
-        <h2>➕ Agregar Producto Manual</h2>
-        <div class="crear-grid">
-            <div>
-                <label>Nombre:</label><input type="text" id="nuevo-nombre">
-                <label>Categoría:</label>
-                <select id="nuevo-categoria">
-                    <option value="NOVEDADES">NOVEDADES</option>
-                    <option value="Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores">Cámaras - DIMAX</option>
-                    <option value="VIDEOVIGILANCIA">VIDEOVIGILANCIA</option>
-                    <option value="CONTROL DE ACCESO">CONTROL DE ACCESO</option>
-                    <option value="ALARMAS Y DOMOTICA">ALARMAS Y DOMOTICA</option>
-                    <option value="SISTEMAS ANTIHURTO">SISTEMAS ANTIHURTO</option>
-                    <option value="REDES">REDES</option>
-                    <option value="COMPUTO">COMPUTO</option>
-                </select>
-            </div>
-            <div>
-                <label>URL Imagen:</label><input type="text" id="nuevo-imagen">
-                <label><b>Sinónimos (ej: disco, hdd, memoria):</b></label>
-                <input type="text" id="nuevo-sinonimos" placeholder="Palabras clave para que el cliente lo encuentre">
-            </div>
-            <div style="grid-column: 1 / -1;">
-                <label>Detalles:</label><textarea id="nuevo-detalles"></textarea>
-                <button class="btn-new" onclick="crearProductoManual()">➕ Añadir Producto a la Cola</button>
-            </div>
-        </div>
+    <div class="header">
+        <h1>🛠️ Gestión de Catálogo y Lista Negra</h1>
+        <p>Usa el buscador para editar o el botón rojo para mover a Lista Negra.</p>
     </div>
 
-    <div style="margin-bottom: 20px;"><input type="text" id="filtro" placeholder="Buscar para editar..." onkeyup="dibujar()"></div>
+    <div class="filtro-lista-negra">
+        <span><b>Herramienta de Control:</b> Visualiza solo los artículos que has ocultado del público.</span>
+        <button onclick="verSoloOcultos()" style="padding:10px 20px; cursor:pointer; background:#ef4444; color:white; border:none; border-radius:5px; font-weight:bold;">Ver Lista Negra</button>
+    </div>
+
+    <div style="margin-bottom: 20px;">
+        <input type="text" id="buscador" placeholder="Buscar por nombre para editar o restaurar..." onkeyup="dibujar()" style="padding:12px; width:100%; max-width:500px; border-radius:20px; border:1px solid #ccc;">
+    </div>
+
     <div id="galeria" class="grid"></div>
 
-    <div class="panel-cambios">
-        <h3>📦 Cambios Listos</h3>
-        <div id="pendientes" style="font-size: 11px; margin-bottom: 10px;">0 cambios.</div>
-        <button class="btn-copiar" onclick="copiar()">📋 Copiar código para GitHub</button>
+    <div class="panel-fijo">
+        <h4 id="cuenta">0 cambios pendientes</h4>
+        <button onclick="copiar()" style="width:100%; padding:10px; background:#f59e0b; border:none; border-radius:5px; font-weight:bold; cursor:pointer">📋 Copiar para GitHub</button>
     </div>
 
     <script>
-        let db = []; let cambios = [];
+        let db = []; let cola = []; let modoOculto = false;
         async function cargar() {
-            const res = await fetch('productos.json?v=' + Date.now());
-            db = await res.json(); dibujar();
+            const r = await fetch('productos.json?v=' + Date.now());
+            const data = await r.json();
+            db = data.productos || [];
+            dibujar();
         }
+
+        function verSoloOcultos() {
+            modoOculto = !modoOculto;
+            document.getElementById('buscador').value = '';
+            dibujar();
+        }
+
         function dibujar() {
-            const q = document.getElementById('filtro').value.toLowerCase();
+            const q = document.getElementById('buscador').value.toLowerCase();
             const g = document.getElementById('galeria'); g.innerHTML = '';
-            db.filter(p => p.nombre.toLowerCase().includes(q)).slice(0, 30).forEach((p, i) => {
-                const div = document.createElement('div');
-                div.className = 'card';
-                div.innerHTML = `
+            
+            let filtrados = db;
+            if(modoOculto) {
+                // Si alguien tiene visible: false o está marcado como oculto en la cola actual
+                filtrados = db.filter(p => p.visible === false);
+            } else {
+                filtrados = db.filter(p => p.nombre.toLowerCase().includes(q));
+            }
+
+            filtrados.slice(0, 40).forEach((p, i) => {
+                const card = document.createElement('div');
+                card.className = 'card' + (p.visible === false ? ' oculto' : '');
+                card.innerHTML = `
+                    <small>Estado: ${p.visible === false ? '🚫 OCULTO' : '✅ VISIBLE'}</small>
                     <input type="text" id="n-${i}" value="${p.nombre}" readonly style="background:#eee">
-                    <label><b>Sinónimos para búsqueda:</b></label>
-                    <input type="text" id="s-${i}" value="${p.sinonimos || ''}" placeholder="ej: dvr, grabador, xvr">
                     <textarea id="d-${i}" placeholder="Detalles...">${p.detalles || ''}</textarea>
-                    <input type="text" id="v-${i}" placeholder="Video link" value="${p.video || ''}">
-                    <button class="btn-add" onclick="guardar(${i}, true)">✅ Guardar Cambios</button>
-                    <button class="btn-hide" onclick="guardar(${i}, false)">🚫 Ocultar Producto</button>
+                    <input type="text" id="s-${i}" value="${p.sinonimos || ''}" placeholder="Sinónimos...">
+                    <button class="btn-save" onclick="preparar(${i}, true)">✅ Guardar/Activar</button>
+                    ${p.visible !== false ? `<button class="btn-hide" onclick="preparar(${i}, false)">🚫 Mover a Lista Negra</button>` : ''}
                 `;
-                g.appendChild(div);
+                g.appendChild(card);
             });
         }
-        function guardar(idx, visible) {
-            const nombre = document.getElementById(`n-${idx}`).value;
-            const original = db.find(x => x.nombre === nombre);
+
+        function preparar(idx, vis) {
+            const nom = document.getElementById(`n-${idx}`).value;
+            const original = db.find(x => x.nombre === nom);
             const item = {
-                nombre: nombre,
-                sinonimos: document.getElementById(`s-${idx}`).value,
+                nombre: nom,
                 detalles: document.getElementById(`d-${idx}`).value,
-                video: document.getElementById(`v-${idx}`).value,
-                visible: visible,
+                sinonimos: document.getElementById(`s-${idx}`).value,
+                visible: vis,
                 imagen: original.imagen,
                 categoria: original.categoria
             };
-            cambios = cambios.filter(c => c.nombre !== item.nombre);
-            cambios.push(item);
-            document.getElementById('pendientes').innerText = `${cambios.length} productos en cola.`;
+            cola = cola.filter(c => c.nombre !== nom); cola.push(item);
+            document.getElementById('cuenta').innerText = cola.length + " cambios listos";
         }
-        function crearProductoManual() {
-            const item = {
-                nombre: document.getElementById('nuevo-nombre').value,
-                sinonimos: document.getElementById('nuevo-sinonimos').value,
-                categoria: document.getElementById('nuevo-categoria').value,
-                imagen: document.getElementById('nuevo-imagen').value,
-                detalles: document.getElementById('nuevo-detalles').value,
-                visible: true
-            };
-            cambios.push(item);
-            document.getElementById('pendientes').innerText = `${cambios.length} productos en cola.`;
-            alert("¡Añadido!");
-        }
+
         function copiar() {
-            navigator.clipboard.writeText(JSON.stringify(cambios));
-            alert("¡Copiado! Ve a GitHub > Actions > Carga Masiva.");
+            navigator.clipboard.writeText(JSON.stringify(cola));
+            alert("Código copiado. Ve a Actions > Carga Masiva.");
         }
         cargar();
     </script>
