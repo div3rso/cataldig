@@ -1,6 +1,16 @@
 {
-    "version": "05212026.22.44",
+    "version": "05242026.22.48",
     "productos": [
+        {
+            "nombre": "ZBM5-2C-120W - INTERRUPTOR 2 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZBM52C120W-image-0-1770235037082.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZBM5-2C-120W - INTERRUPTOR 2 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "ZBM5-1C-120W - INTERRUPTOR 1 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZBM51C120W-image-0-1770234327856.webp",
@@ -269,16 +279,6 @@
         {
             "nombre": "5R6C2UC#ABA_HP_RJ00P/RFB - 5R6C2UC#ABA_HP_RJ00P_A/RFB*HP ELITEBOOK 845 G8 AMD RYZEN 5PRO 5650U*14\" FHD 1080P*GPU INTEGRADO*16GB DDR4 RAM/256GB SSD*WEBCAM*GRADO A*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hp.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TBB013US - MOCHILA SPRUCE ECOSMART 15,6\"*SISTEMA SAFEPORT SLING*BOLSILLO DEDICADO PARA TABLET*IDEAL PARA VIAJES CON DISEÑO CHECKPOINT FRIENDLY*CORREA CARRY ON PARA MALETA - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TBB013US-image-0-1771530360552.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TBB013US - MOCHILA SPRUCE ECOSMART 15,6\"*SISTEMA SAFEPORT SLING*BOLSILLO DEDICADO PARA TABLET*IDEAL PARA VIAJES CON DISEÑO CHECKPOINT FRIENDLY*CORREA CARRY ON PARA MALETA",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/targus.webp",
             "categoria": "NOVEDADES"
         },
         {
@@ -1577,92 +1577,12 @@
             "categoria": "PROTECCION PERIMETRAL"
         },
         {
-            "nombre": "D50ZAL - BASE PERFIL ALTO, PARA COFEM CONVENCIONAL O ANALOGICO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/D50ZAL-image-1.webp",
+            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MSTAY-image-2.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "D50ZAL - BASE PERFIL ALTO, PARA COFEM CONVENCIONAL O ANALOGICO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "ES-F4 - SIRENA ESTROBOSCOPICA CONVENCIONAL*USO PARA INTERIORES*SONIDO DE 110DB*ALIMENTACION 24V - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ESF4-image-1.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "ES-F4 - SIRENA ESTROBOSCOPICA CONVENCIONAL*USO PARA INTERIORES*SONIDO DE 110DB*ALIMENTACION 24V",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sentek.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A30-XZO - BASE PARA SENSORES DIRECCIONABLES O CONVENCIONALES DE INCENDIO COFEM. COMPATIBLES SOLO CON SISTEMAS DE INCENDIO DE DOS HILOS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A30XZO-image-1.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A30-XZO - BASE PARA SENSORES DIRECCIONABLES O CONVENCIONALES DE INCENDIO COFEM. COMPATIBLES SOLO CON SISTEMAS DE INCENDIO DE DOS HILOS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "PIAL - LUZ  INDICADOR DE ACCIÓN REMOTO*SE CONECTA DIRECTAMENTE AL SENSOR DIRECCIONABLE O CONVENCIONAL  PARA ALERTAR EN CASO DE ALARMA. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PIAL-image-1.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "PIAL - LUZ  INDICADOR DE ACCIÓN REMOTO*SE CONECTA DIRECTAMENTE AL SENSOR DIRECCIONABLE O CONVENCIONAL  PARA ALERTAR EN CASO DE ALARMA.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "CR3 - MANGUERA PARA EXTINGUIR INCENDIO DE 25MM DE DIAMETRO Y 20M DE EXTENSION - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CR3-image-1.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "CR3 - MANGUERA PARA EXTINGUIR INCENDIO DE 25MM DE DIAMETRO Y 20M DE EXTENSION",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A30-XZR - BASE DE 4 HILOS PARA SENSORES COFEM * COMPATIBLE CON PANELES PARADOX  O CUALQUIER OTRO PANEL CON CONEXIÓN DE 4 HILOS. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A30XZR-image-1.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A30-XZR - BASE DE 4 HILOS PARA SENSORES COFEM * COMPATIBLE CON PANELES PARADOX  O CUALQUIER OTRO PANEL CON CONEXIÓN DE 4 HILOS.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A50SHID - DETECTOR DIRECCIONABLE,OPTICO TERMICO ANALOGICO CON AISLADOR A50 CON SONIDO. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SHID-image-0-1768832507203.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A50SHID - DETECTOR DIRECCIONABLE,OPTICO TERMICO ANALOGICO CON AISLADOR A50 CON SONIDO.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A50SHILD - DETECTOR DIRECCIONABLE, OPTICO TERMICO CON AISLADOR A50 SONIDO & FLASH. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SHILD-image-0-1768911826138.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A50SHILD - DETECTOR DIRECCIONABLE, OPTICO TERMICO CON AISLADOR A50 SONIDO & FLASH.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SVS4-image-0-1747430597047.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER",
+            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
@@ -1677,32 +1597,22 @@
             "categoria": "DETECCION DE INCENDIO"
         },
         {
+            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SVS4-image-0-1747430597047.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
             "nombre": "MB3180 - MODULO DE CONEXION DE MONITOREO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MB3180-image-1.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
             "nombre": "MB3180 - MODULO DE CONEXION DE MONITOREO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "DN15M - VALVULA P/CORTE DE FUGA DE GAS*FUNCIONAMIENTO 12 VDC*CONEXION A SALIDA PGM DE PANELES DE CONTROL DE ACCESO O ALARMAS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1718743272801.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "DN15M - VALVULA P/CORTE DE FUGA DE GAS*FUNCIONAMIENTO 12 VDC*CONEXION A SALIDA PGM DE PANELES DE CONTROL DE ACCESO O ALARMAS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sentek.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "KMAY - MODULO ANALOGICO (DIRECCIONABLE)*PERMITE CONECTAR PUYLSADORES Y DETECTORES CONVENCIONALES EN UN SISTEMA DIRECCIONABLE. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/KMAY-image-1.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "KMAY - MODULO ANALOGICO (DIRECCIONABLE)*PERMITE CONECTAR PUYLSADORES Y DETECTORES CONVENCIONALES EN UN SISTEMA DIRECCIONABLE.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
@@ -1717,12 +1627,72 @@
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MSTAY-image-2.webp",
+            "nombre": "KMAY - MODULO ANALOGICO (DIRECCIONABLE)*PERMITE CONECTAR PUYLSADORES Y DETECTORES CONVENCIONALES EN UN SISTEMA DIRECCIONABLE. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/KMAY-image-1.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería.",
+            "nombre": "KMAY - MODULO ANALOGICO (DIRECCIONABLE)*PERMITE CONECTAR PUYLSADORES Y DETECTORES CONVENCIONALES EN UN SISTEMA DIRECCIONABLE.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "DN15M - VALVULA P/CORTE DE FUGA DE GAS*FUNCIONAMIENTO 12 VDC*CONEXION A SALIDA PGM DE PANELES DE CONTROL DE ACCESO O ALARMAS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1718743272801.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "DN15M - VALVULA P/CORTE DE FUGA DE GAS*FUNCIONAMIENTO 12 VDC*CONEXION A SALIDA PGM DE PANELES DE CONTROL DE ACCESO O ALARMAS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sentek.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "CR3 - MANGUERA PARA EXTINGUIR INCENDIO DE 25MM DE DIAMETRO Y 20M DE EXTENSION - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CR3-image-1.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "CR3 - MANGUERA PARA EXTINGUIR INCENDIO DE 25MM DE DIAMETRO Y 20M DE EXTENSION",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A50SHILD - DETECTOR DIRECCIONABLE, OPTICO TERMICO CON AISLADOR A50 SONIDO & FLASH. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SHILD-image-0-1768911826138.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A50SHILD - DETECTOR DIRECCIONABLE, OPTICO TERMICO CON AISLADOR A50 SONIDO & FLASH.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A50SHID - DETECTOR DIRECCIONABLE,OPTICO TERMICO ANALOGICO CON AISLADOR A50 CON SONIDO. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SHID-image-0-1768832507203.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A50SHID - DETECTOR DIRECCIONABLE,OPTICO TERMICO ANALOGICO CON AISLADOR A50 CON SONIDO.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A30-XZR - BASE DE 4 HILOS PARA SENSORES COFEM * COMPATIBLE CON PANELES PARADOX  O CUALQUIER OTRO PANEL CON CONEXIÓN DE 4 HILOS. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A30XZR-image-1.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A30-XZR - BASE DE 4 HILOS PARA SENSORES COFEM * COMPATIBLE CON PANELES PARADOX  O CUALQUIER OTRO PANEL CON CONEXIÓN DE 4 HILOS.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MDA1Y-image-1.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
