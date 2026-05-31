@@ -1,6 +1,36 @@
 {
-    "version": "05272026.22.34",
+    "version": "05302026.22.49",
     "productos": [
+        {
+            "nombre": "IPC-HFW21249T-AS-IL-28-S2 - CAMARA IP BALA 12MP WIZSENSE *SMART DUAL LIGTH *SENSOR 1/2.5\" CMOS *DIST. ILUM. 30M *ALARMA 1IN/1OUT *AUDIO 1IN/1OUT *RANURA MICRO SD MAX 256GB *POE *IP67 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPCHFW21249TASIL28S2-image-0-1774902886960.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "IPC-HFW21249T-AS-IL-28-S2 - CAMARA IP BALA 12MP WIZSENSE *SMART DUAL LIGTH *SENSOR 1/2.5\" CMOS *DIST. ILUM. 30M *ALARMA 1IN/1OUT *AUDIO 1IN/1OUT *RANURA MICRO SD MAX 256GB *POE *IP67",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-PFS3008-8ET-V2 - SWITCH DE 8 PUERTOS *10/100MBPS *METALICA *VDC 5V/1A *CAPACIDAD DE SWITCHING 1Gbit *CERTIFICACION CE, FCC - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHPFS30088ETV2-image-0-1774902504804.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-PFS3008-8ET-V2 - SWITCH DE 8 PUERTOS *10/100MBPS *METALICA *VDC 5V/1A *CAPACIDAD DE SWITCHING 1Gbit *CERTIFICACION CE, FCC",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-PFS3005-5ET-V2 - SWITCH DE 5 PUERTOS *10/100MBPS *METALICA *VDC 5V/1A *CAPACIDAD DE SWITCHING 1Gbit *CERTIFICACION CE, FCC - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHPFS30055ETV2-image-0-1774902171223.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-PFS3005-5ET-V2 - SWITCH DE 5 PUERTOS *10/100MBPS *METALICA *VDC 5V/1A *CAPACIDAD DE SWITCHING 1Gbit *CERTIFICACION CE, FCC",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "DH-XVR5108HS-4KL-I3/T - GRABADOR PENTAHIBRIDO 8CH 4K WIZSENSE *SOPORTA CODIFICACIÓN IA EN TODOS LOS CH *MAX 16CH IP HASTA 8MP *SMD PLUS * DETC. PERIMETRAL *HDMI 4K *AUDIO 1I/1O *1HDD - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHXVR5108HS4KLI3T-image-0-1768594913928.webp",
@@ -248,36 +278,6 @@
         },
         {
             "nombre": "NSPanel-USW - PANEL INTERRUPTOR DE PARED INTELIGENTE*BLANCO*100-240 V~ 50/60 Hz 4 A máx*WIFI IEEE 802.11 b/g/n 2,4 GHz*PANEL TACTIL 3,5\"",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "StandB - SOPORTE DE ESCRITORIO PARA NSPANEL & NSPANELPRO*COLOR GRIS*MATERIAL PC V0*DIMENSIONES 121×88,5×67,5 mm*Soporte B/Soporte W - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/STANDB-image-0-1770061549020.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "StandB - SOPORTE DE ESCRITORIO PARA NSPANEL & NSPANELPRO*COLOR GRIS*MATERIAL PC V0*DIMENSIONES 121×88,5×67,5 mm*Soporte B/Soporte W",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZB Bridge-P - HUB ZIGBEE PRO*VOLTAJE 5 VC 1A*CONEXION Wi-Fi IEEE 802.11 b/g/n 2,4 GHz, Zigbee 3.0*MATERIAL PC V0*DIMENSIONES 62x62x20mm*TEMP TRABAJO -10ºC A 40ºC - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZBBRIDGEP-image-0-1770216415956.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZB Bridge-P - HUB ZIGBEE PRO*VOLTAJE 5 VC 1A*CONEXION Wi-Fi IEEE 802.11 b/g/n 2,4 GHz, Zigbee 3.0*MATERIAL PC V0*DIMENSIONES 62x62x20mm*TEMP TRABAJO -10ºC A 40ºC",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "CONTROLADOR DE ESCENAS SWITCHMAN R5*ALIMENTACION 2 PILAS DE 3 V* BATERIA CR2032*MATERIAL PC V0*DIMENSIONES 86 x 86 x 13,5 mm*GRIS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/R5-image-0-1770129156463.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "CONTROLADOR DE ESCENAS SWITCHMAN R5*ALIMENTACION 2 PILAS DE 3 V* BATERIA CR2032*MATERIAL PC V0*DIMENSIONES 86 x 86 x 13,5 mm*GRIS",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
             "categoria": "NOVEDADES"
         },
