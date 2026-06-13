@@ -1,6 +1,126 @@
 {
-    "version": "06092026.22.47",
+    "version": "06122026.22.46",
     "productos": [
+        {
+            "nombre": "FPP-T1202-I - Batería LMFP de 1102.5Wh 26.25V 42Ah (3.75V 294Ah) • 3000 ciclos al 80%+ de capacidad • Carga rápida en 1,5 hr • Tecnología TurboPower 2400W - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/FPP-T1202-I_799491.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "FPP-T1202-I - Batería LMFP de 1102.5Wh 26.25V 42Ah (3.75V 294Ah) • 3000 ciclos al 80%+ de capacidad • Carga rápida en 1,5 hr • Tecnología TurboPower 2400W",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/forza.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PS-1100USBC - Capacidad: 1250W • Voltaje: 100V/240VAC • Tipo de entrada: NEMA 5-15P • Tipo de salida: 1 x NEMA 5-15R - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PS-1100USBC_436856.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PS-1100USBC - Capacidad: 1250W • Voltaje: 100V/240VAC • Tipo de entrada: NEMA 5-15P • Tipo de salida: 1 x NEMA 5-15R",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/forza.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "VD1-5M0S-imou - MIRILLA SMART PARA PUERTA CON PANTALLA *AOV *RESOLUCION 5MP *BANDA 2.4GHz/5GHz *DETECCIÓN DE PERSONAS *BATERIA RECARGABLE 4.800mAh *SLOT MICRO SD HASTA 512GB - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/VD1-5M0S-imou_471199.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "VD1-5M0S-imou - MIRILLA SMART PARA PUERTA CON PANTALLA *AOV *RESOLUCION 5MP *BANDA 2.4GHz/5GHz *DETECCIÓN DE PERSONAS *BATERIA RECARGABLE 4.800mAh *SLOT MICRO SD HASTA 512GB",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/imou.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TF-T07-GY - AURICULARES OPTIMUS DE OIDO ABIERTO*CANCELACION DE RUIDO*RESISTENCIA IPX5*PARA DEPORTES*BT V5,4*6HR DE BATERIA*SISTEMA DUAL*NIVEL DE BATERIA LED - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TF-T07-GY_569402.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TF-T07-GY - AURICULARES OPTIMUS DE OIDO ABIERTO*CANCELACION DE RUIDO*RESISTENCIA IPX5*PARA DEPORTES*BT V5,4*6HR DE BATERIA*SISTEMA DUAL*NIVEL DE BATERIA LED",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/transformers.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-IPC-P5IP-PV-0280B - CAMARA IP PT WIFI 5MP PARA INTERIOR Y EXTERIOR *PLASTICA *AUTO TRACKING *IP66 *DETECCION IA *SMART DUAL LIGHT *AUDIO BIDIRECCIONAL *RANURA MICRO SD MAX 256GB - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHIPCP5IPPV0280B-image-0-1774904990558.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-IPC-P5IP-PV-0280B - CAMARA IP PT WIFI 5MP PARA INTERIOR Y EXTERIOR *PLASTICA *AUTO TRACKING *IP66 *DETECCION IA *SMART DUAL LIGHT *AUDIO BIDIRECCIONAL *RANURA MICRO SD MAX 256GB",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-IPC-P3IP-PV-0280B - CAMARA IP PT WIFI 3MP PARA INTERIOR Y EXTERIOR *PLASTICA *AUTO TRACKING *IP66 *DETECCION IA *SMART DUAL LIGHT *AUDIO BIDIRECCIONAL *RANURA MICRO SD MAX 256GB - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHIPCP3IPPV0280B-image-0-1774904764303.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-IPC-P3IP-PV-0280B - CAMARA IP PT WIFI 3MP PARA INTERIOR Y EXTERIOR *PLASTICA *AUTO TRACKING *IP66 *DETECCION IA *SMART DUAL LIGHT *AUDIO BIDIRECCIONAL *RANURA MICRO SD MAX 256GB",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-XVR5216AN-I3/T - GRABADOR PENTAHIBRIDO 16CH TWO WAY TALK *2CH ACUPICK *SOPORTA 24CH IP HASTA 6MP *REC. FACIAL, DETEC. PERIMETRAL *SMD PLUS *SOPORTA 2 HDD HASTA 16TB *1 RS485 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHXVR5216ANI3T-image-0-1769874762244.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-XVR5216AN-I3/T - GRABADOR PENTAHIBRIDO 16CH TWO WAY TALK *2CH ACUPICK *SOPORTA 24CH IP HASTA 6MP *REC. FACIAL, DETEC. PERIMETRAL *SMD PLUS *SOPORTA 2 HDD HASTA 16TB *1 RS485",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "IPC-HDW21249T-S-IL-28-S2 - CAMARA IP DOMO 12MP WIZSENSE *SMART DUAL LIGTH *SENSOR 1/2.5\" CMOS *DIST. ILUM. 30M *RANURA MICRO SD MAX 256GB *POE *IP67 *MIC INTEGRADO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPCHDW21249TSIL28S2-image-0-1774903787388.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "IPC-HDW21249T-S-IL-28-S2 - CAMARA IP DOMO 12MP WIZSENSE *SMART DUAL LIGTH *SENSOR 1/2.5\" CMOS *DIST. ILUM. 30M *RANURA MICRO SD MAX 256GB *POE *IP67 *MIC INTEGRADO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "IPC-HFW21249T-S-IL-28-S2 - CAMARA IP BALA 12MP WIZSENSE *SMART DUAL LIGTH *SENSOR 1/2.5\" CMOS *DIST. ILUM. 30M *RANURA MICRO SD MAX 256GB *POE *IP67 *MIC INTEGRADO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPCHFW21249TSIL28S2-image-0-1774903400381.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "IPC-HFW21249T-S-IL-28-S2 - CAMARA IP BALA 12MP WIZSENSE *SMART DUAL LIGTH *SENSOR 1/2.5\" CMOS *DIST. ILUM. 30M *RANURA MICRO SD MAX 256GB *POE *IP67 *MIC INTEGRADO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "IPC-HFW21249T-AS-IL-28-S2 - CAMARA IP BALA 12MP WIZSENSE *SMART DUAL LIGTH *SENSOR 1/2.5\" CMOS *DIST. ILUM. 30M *ALARMA 1IN/1OUT *AUDIO 1IN/1OUT *RANURA MICRO SD MAX 256GB *POE *IP67 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPCHFW21249TASIL28S2-image-0-1774902886960.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "IPC-HFW21249T-AS-IL-28-S2 - CAMARA IP BALA 12MP WIZSENSE *SMART DUAL LIGTH *SENSOR 1/2.5\" CMOS *DIST. ILUM. 30M *ALARMA 1IN/1OUT *AUDIO 1IN/1OUT *RANURA MICRO SD MAX 256GB *POE *IP67",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-PFS3008-8ET-V2 - SWITCH DE 8 PUERTOS *10/100MBPS *METALICA *VDC 5V/1A *CAPACIDAD DE SWITCHING 1Gbit *CERTIFICACION CE, FCC - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHPFS30088ETV2-image-0-1774902504804.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-PFS3008-8ET-V2 - SWITCH DE 8 PUERTOS *10/100MBPS *METALICA *VDC 5V/1A *CAPACIDAD DE SWITCHING 1Gbit *CERTIFICACION CE, FCC",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-PFS3005-5ET-V2 - SWITCH DE 5 PUERTOS *10/100MBPS *METALICA *VDC 5V/1A *CAPACIDAD DE SWITCHING 1Gbit *CERTIFICACION CE, FCC - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHPFS30055ETV2-image-0-1774902171223.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-PFS3005-5ET-V2 - SWITCH DE 5 PUERTOS *10/100MBPS *METALICA *VDC 5V/1A *CAPACIDAD DE SWITCHING 1Gbit *CERTIFICACION CE, FCC",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "DH-XVR5108HS-4KL-I3/T - GRABADOR PENTAHIBRIDO 8CH 4K WIZSENSE *SOPORTA CODIFICACIÓN IA EN TODOS LOS CH *MAX 16CH IP HASTA 8MP *SMD PLUS * DETC. PERIMETRAL *HDMI 4K *AUDIO 1I/1O *1HDD - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHXVR5108HS4KLI3T-image-0-1768594913928.webp",
@@ -158,126 +278,6 @@
         },
         {
             "nombre": "M5-3C-120W - INTERRUPTOR INTELIGENTE DE 3 GANG*COLOR BLANCO*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "M5-2C-120W - INTERRUPTOR INTELIGENTE DE 2 GANG*COLOR BLANCO*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/M52C120W-image-0-1769806557827.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "M5-2C-120W - INTERRUPTOR INTELIGENTE DE 2 GANG*COLOR BLANCO*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "M5-1C-120W - INTERRUPTOR INTELIGENTE DE 1 GANG*COLOR BLANCO*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/M51C120W-image-0-1769463532678.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "M5-1C-120W - INTERRUPTOR INTELIGENTE DE 1 GANG*COLOR BLANCO*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "BASICR4 - Interruptor inteligente Wi-Fi SONOFF BASICR4*100-240 VCA 50/60 Hz*Carga Máxima: 10A 2400W@240V*Wifi: IEEE 802.11 b/g/n 2,4 GHz*Tamaño: 88x39x24mm - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BASICR4-image-0-1769452901735.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "BASICR4 - Interruptor inteligente Wi-Fi SONOFF BASICR4*100-240 VCA 50/60 Hz*Carga Máxima: 10A 2400W@240V*Wifi: IEEE 802.11 b/g/n 2,4 GHz*Tamaño: 88x39x24mm",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "S-MATE2 - INTERRUPTOR INTELIGENTE POR BATERIA*Extreme Switch Mate | S-MATE2*WIFI 2.4G*DIMENSIONES 40.3x37.4x18.3mm*BATERIA CR2477*TEMPERATURA DE TRABAJO -10C+40C - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SMATE2-image-0-1770132545424.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "S-MATE2 - INTERRUPTOR INTELIGENTE POR BATERIA*Extreme Switch Mate | S-MATE2*WIFI 2.4G*DIMENSIONES 40.3x37.4x18.3mm*BATERIA CR2477*TEMPERATURA DE TRABAJO -10C+40C",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SNZB-01P - INTERRUPTOR INALAMBRICO ZIGBEE*BATERIA CR2477*ZigBee (IEEE 802.15.4)*DIMENSION 45 x 45 x 17,7 mm*TEMPERATURA DE TRABAJO -10C° a 60C°*REQUIERE HUB ZIGBEE. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SNZB01P-image-0-1770134166435.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SNZB-01P - INTERRUPTOR INALAMBRICO ZIGBEE*BATERIA CR2477*ZigBee (IEEE 802.15.4)*DIMENSION 45 x 45 x 17,7 mm*TEMPERATURA DE TRABAJO -10C° a 60C°*REQUIERE HUB ZIGBEE.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "R5W - CONTROLADOR DE ESCENAS SWITCHMAN R5*ALIMENTACION 2 PILAS DE 3 V* BATERIA CR2032*MATERIAL PC V0*DIMENSIONES 86 x 86 x 13,5 mm*BLANCO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/R5W-image-0-1770130805142.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "R5W - CONTROLADOR DE ESCENAS SWITCHMAN R5*ALIMENTACION 2 PILAS DE 3 V* BATERIA CR2032*MATERIAL PC V0*DIMENSIONES 86 x 86 x 13,5 mm*BLANCO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MINIR4 - INTERRUPTOR MINI EXTREME WIFI*Wifi IEEE 802.11b/g/n 2,4 GHz*100-240 V~50/60 Hz 10 A máx*DIMENSIONES 39,5 x 33 x 16,8 mm - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MINIR4-image-0-1770045471754.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MINIR4 - INTERRUPTOR MINI EXTREME WIFI*Wifi IEEE 802.11b/g/n 2,4 GHz*100-240 V~50/60 Hz 10 A máx*DIMENSIONES 39,5 x 33 x 16,8 mm",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SNZB-02D - SENSOR INTELIGENTE DE TEMPERATURA & HUMEDAD ZIGBEE*COLOR BLANCO*BATERIA CR2450(3V)*Zigbee 3.0*MATERIAL CARCASA PC+LCD*REQUIERE HUB ZIGBEE. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SNZB02D-image-0-1770147764583.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SNZB-02D - SENSOR INTELIGENTE DE TEMPERATURA & HUMEDAD ZIGBEE*COLOR BLANCO*BATERIA CR2450(3V)*Zigbee 3.0*MATERIAL CARCASA PC+LCD*REQUIERE HUB ZIGBEE.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "NSPanel-USW - PANEL INTERRUPTOR DE PARED INTELIGENTE*BLANCO*100-240 V~ 50/60 Hz 4 A máx*WIFI IEEE 802.11 b/g/n 2,4 GHz*PANEL TACTIL 3,5\" - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/NSPANELUSW-image-0-1770060305491.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "NSPanel-USW - PANEL INTERRUPTOR DE PARED INTELIGENTE*BLANCO*100-240 V~ 50/60 Hz 4 A máx*WIFI IEEE 802.11 b/g/n 2,4 GHz*PANEL TACTIL 3,5\"",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "StandB - SOPORTE DE ESCRITORIO PARA NSPANEL & NSPANELPRO*COLOR GRIS*MATERIAL PC V0*DIMENSIONES 121×88,5×67,5 mm*Soporte B/Soporte W - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/STANDB-image-0-1770061549020.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "StandB - SOPORTE DE ESCRITORIO PARA NSPANEL & NSPANELPRO*COLOR GRIS*MATERIAL PC V0*DIMENSIONES 121×88,5×67,5 mm*Soporte B/Soporte W",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZB Bridge-P - HUB ZIGBEE PRO*VOLTAJE 5 VC 1A*CONEXION Wi-Fi IEEE 802.11 b/g/n 2,4 GHz, Zigbee 3.0*MATERIAL PC V0*DIMENSIONES 62x62x20mm*TEMP TRABAJO -10ºC A 40ºC - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZBBRIDGEP-image-0-1770216415956.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZB Bridge-P - HUB ZIGBEE PRO*VOLTAJE 5 VC 1A*CONEXION Wi-Fi IEEE 802.11 b/g/n 2,4 GHz, Zigbee 3.0*MATERIAL PC V0*DIMENSIONES 62x62x20mm*TEMP TRABAJO -10ºC A 40ºC",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "CONTROLADOR DE ESCENAS SWITCHMAN R5*ALIMENTACION 2 PILAS DE 3 V* BATERIA CR2032*MATERIAL PC V0*DIMENSIONES 86 x 86 x 13,5 mm*GRIS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/R5-image-0-1770129156463.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "CONTROLADOR DE ESCENAS SWITCHMAN R5*ALIMENTACION 2 PILAS DE 3 V* BATERIA CR2032*MATERIAL PC V0*DIMENSIONES 86 x 86 x 13,5 mm*GRIS",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
             "categoria": "NOVEDADES"
         },
@@ -832,46 +832,6 @@
             "categoria": "VIDEOVIGILANCIA"
         },
         {
-            "nombre": "7122150-CI.N/510.5 - CERRADURA DE SOBREPONER ELÉCTRICO *COLOR NEGRO *CERROJO *TRANSFORMADOR *5 LLAVES - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/7122150CIN5105-image-0-1763737608746.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "7122150-CI.N/510.5 - CERRADURA DE SOBREPONER ELÉCTRICO *COLOR NEGRO *CERROJO *TRANSFORMADOR *5 LLAVES",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/scanavini.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "UHF 10F Pro - ANTENA UHF LECTURA HASTA 12 METROS *WIEGAND 26 (POR DEFECTO) / WIEGAND 34 *PUERTO USB PARA PROGRAMACIÓN *ALIMENTACIÓN 9-12V (NO INCLUYE) - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UHF10FPRO-image-1-16-37-40.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "UHF 10F Pro - ANTENA UHF LECTURA HASTA 12 METROS *WIEGAND 26 (POR DEFECTO) / WIEGAND 34 *PUERTO USB PARA PROGRAMACIÓN *ALIMENTACIÓN 9-12V (NO INCLUYE)",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "F07393-G - CONTROL REMOTO 433MHZ GAREN * 3 BOTONES *COMPATIBLE: DESLIZANTES, ELEVADIZOS, PIVOTANTES, ENTRE OTROS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F01718832399128.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "F07393-G - CONTROL REMOTO 433MHZ GAREN * 3 BOTONES *COMPATIBLE: DESLIZANTES, ELEVADIZOS, PIVOTANTES, ENTRE OTROS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "X00602027 - TAG PARA PARABRISAS UHF 915Mhz *FRECUENCIA DE TRABAJO UNICO *SE PUEDE PEGAR EN EL PARABRISAS DEL COCHE.*LOGO EN BLANCO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/X00602027-image-1-11-8-37.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "X00602027 - TAG PARA PARABRISAS UHF 915Mhz *FRECUENCIA DE TRABAJO UNICO *SE PUEDE PEGAR EN EL PARABRISAS DEL COCHE.*LOGO EN BLANCO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
             "nombre": "B023 - CERRADURA INTELIGENTE CON VIDEO PORTERO *CÁMARA OJO DE GATO *VERSIÓN WIFI MORTAJA: 24*240 (6068) *NEGRO *COMPATIBLE CON TARJETA IC MIFARE FRECUENCIA: 13.56MHZ - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/B023-image-0-1719235661470.webp",
             "categoria": "CONTROL DE ACCESO"
@@ -1109,6 +1069,46 @@
         {
             "nombre": "A00611 - MODULO DE AUTOMATIZACIÓN WIFI 1 CANALES *APERTURA Y CIERRE DE PORTONES *IDENTIFICADOR DE ESTADO ABIERTO O CERRADO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "F01768-G - MOTOR LEVADIZO BV FIT CONNECT *MOTOR 1/4HP 220VAC *CENTRAL FIT CONNECT *2 CONTROLES REMOTO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F01768G-image-0-1751657327603.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "F01768-G - MOTOR LEVADIZO BV FIT CONNECT *MOTOR 1/4HP 220VAC *CENTRAL FIT CONNECT *2 CONTROLES REMOTO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "F06182 - BRAZO DE ACCIONAMIENTO 5/8\" x 3250MM *PASO 100 *+ACCESORIOS DE INSTALACIÓN *COMPATIBLE CON MOTORES: F06165-G/F06163-G/F06155-G - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F06182-image-1.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "F06182 - BRAZO DE ACCIONAMIENTO 5/8\" x 3250MM *PASO 100 *+ACCESORIOS DE INSTALACIÓN *COMPATIBLE CON MOTORES: F06165-G/F06163-G/F06155-G",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "N102 - ALIMENTACIÓN: 12-18 VDC 3 AMP, CILINDROS DOBLES SEPARADOS,  3 LLAVES DE LATÓN, CON PESTILLO GIRATORIO, PARA ZURDOS ACABADO: PINTURA EN AEROSOL. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/N102-image-0-1754270357561.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "N102 - ALIMENTACIÓN: 12-18 VDC 3 AMP, CILINDROS DOBLES SEPARADOS,  3 LLAVES DE LATÓN, CON PESTILLO GIRATORIO, PARA ZURDOS ACABADO: PINTURA EN AEROSOL.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "VR10 PRO - RADAR DETECCION DE VEHICULOS *RANGO DETECCION 0 - 6Mts *FRECUENCIA DE TRABAJO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/VR10PRO-image-1.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "VR10 PRO - RADAR DETECCION DE VEHICULOS *RANGO DETECCION 0 - 6Mts *FRECUENCIA DE TRABAJO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
             "categoria": "CONTROL DE ACCESO"
         },
         {
@@ -1397,13 +1397,13 @@
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
-            "nombre": "CHK-E43BL - MINI TAG RF BLANCO *FRECUENCIA 8.2MHZ *DIMENSIÓN 46 X 42MM *DISTANCIA DE DETECCION DUAL 1,4M MONO 0,7MX2. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CHKE43BL-image-1-15-19-28.webp",
+            "nombre": "DETACHER14 - LIBERADOR DE TRABADOR DE GANCHOS PARA EXIBIDORES * Dimensión: Ø20mmx58mm Fuerza magnética: 5300GS Peso: 60g - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DETAC1718807497097.webp",
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
-            "nombre": "CHK-E43BL - MINI TAG RF BLANCO *FRECUENCIA 8.2MHZ *DIMENSIÓN 46 X 42MM *DISTANCIA DE DETECCION DUAL 1,4M MONO 0,7MX2.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "nombre": "DETACHER14 - LIBERADOR DE TRABADOR DE GANCHOS PARA EXIBIDORES * Dimensión: Ø20mmx58mm Fuerza magnética: 5300GS Peso: 60g",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/emeno.webp",
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
@@ -1417,13 +1417,13 @@
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
-            "nombre": "DETACHER14 - LIBERADOR DE TRABADOR DE GANCHOS PARA EXIBIDORES * Dimensión: Ø20mmx58mm Fuerza magnética: 5300GS Peso: 60g - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DETAC1718807497097.webp",
+            "nombre": "CHK-E43BL - MINI TAG RF BLANCO *FRECUENCIA 8.2MHZ *DIMENSIÓN 46 X 42MM *DISTANCIA DE DETECCION DUAL 1,4M MONO 0,7MX2. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CHKE43BL-image-1-15-19-28.webp",
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
-            "nombre": "DETACHER14 - LIBERADOR DE TRABADOR DE GANCHOS PARA EXIBIDORES * Dimensión: Ø20mmx58mm Fuerza magnética: 5300GS Peso: 60g",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/emeno.webp",
+            "nombre": "CHK-E43BL - MINI TAG RF BLANCO *FRECUENCIA 8.2MHZ *DIMENSIÓN 46 X 42MM *DISTANCIA DE DETECCION DUAL 1,4M MONO 0,7MX2.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
@@ -1577,12 +1577,22 @@
             "categoria": "PROTECCION PERIMETRAL"
         },
         {
-            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MSTAY-image-2.webp",
+            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MDA1Y-image-1.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería.",
+            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SVS4-image-0-1747430597047.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
@@ -1597,12 +1607,12 @@
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SVS4-image-0-1747430597047.webp",
+            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MSTAY-image-2.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER",
+            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
@@ -1683,16 +1693,6 @@
         },
         {
             "nombre": "A30-XZR - BASE DE 4 HILOS PARA SENSORES COFEM * COMPATIBLE CON PANELES PARADOX  O CUALQUIER OTRO PANEL CON CONEXIÓN DE 4 HILOS.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MDA1Y-image-1.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
@@ -2357,16 +2357,6 @@
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "TC-610P-HDC-V2 - RADIO PORTABLE VHF *ANALOGICO *FRECUENCIA 136 - 174 MHZ *16 CANALES *POTENCIA 5W *PROTECCIÓN IP66 *BATERIA 2000 MAH - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TC610PHDCV2-image-1.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "TC-610P-HDC-V2 - RADIO PORTABLE VHF *ANALOGICO *FRECUENCIA 136 - 174 MHZ *16 CANALES *POTENCIA 5W *PROTECCIÓN IP66 *BATERIA 2000 MAH",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
             "nombre": "TC-610P-HDC-U2 - RADIO PORTABLE UHF *ANALOGICO *FRECUENCIA 450 - 470 MHZ *16 CANALES *POTENCIA 4W *PROTECCIÓN IP66 *BATERIA 2000 MAH - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TC610PHDCU2-image-1.webp",
             "categoria": "RADIOCOMUNICACION"
@@ -2377,43 +2367,23 @@
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "PD686G-V1 - RADIO PORTABLE VHF *PANTALLA COLOR *DIGITAL-ANALOGICO *FRECUENCIA 136-174 MHZ *1024 CANALES 64 ZONAS *POTENCIA 5W *PROTECCION IP67 *BATERIA 1500MAH - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PD686GV1-image-1.webp",
+            "nombre": "TC-610P-HDC-V2 - RADIO PORTABLE VHF *ANALOGICO *FRECUENCIA 136 - 174 MHZ *16 CANALES *POTENCIA 5W *PROTECCIÓN IP66 *BATERIA 2000 MAH - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TC610PHDCV2-image-1.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "PD686G-V1 - RADIO PORTABLE VHF *PANTALLA COLOR *DIGITAL-ANALOGICO *FRECUENCIA 136-174 MHZ *1024 CANALES 64 ZONAS *POTENCIA 5W *PROTECCION IP67 *BATERIA 1500MAH",
+            "nombre": "TC-610P-HDC-V2 - RADIO PORTABLE VHF *ANALOGICO *FRECUENCIA 136 - 174 MHZ *16 CANALES *POTENCIA 5W *PROTECCIÓN IP66 *BATERIA 2000 MAH",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "PC45 - CABLE DE PROGRAMACION USB *COMPATIBLE CON SERIE PD6XX - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PC45-image-1.webp",
+            "nombre": "UV-82 - CABLE DE PROGRAMACION PARA  RADIO BAOFENG UV-82/5R*COMPATIBLE UV-5R/5RA/5R PLUS/ 5RE/5R EX/5RX3/5RTP/UV3R PLUS/*TIPO DE CONECTO K-PLUG* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UV82-image-0-1745243335594.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "PC45 - CABLE DE PROGRAMACION USB *COMPATIBLE CON SERIE PD6XX",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "PC21 - CABLE DE PROGRAMACION RS232 *COMPATIBLE CON TM-628H - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PC21-image-1.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "PC21 - CABLE DE PROGRAMACION RS232 *COMPATIBLE CON TM-628H",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "AN0455H02 - ANTENA UHF 440-470 MHZ *COMPATIBLE CON TC-508-U1 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AN0455H02-image-1.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "AN0455H02 - ANTENA UHF 440-470 MHZ *COMPATIBLE CON TC-508-U1",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
+            "nombre": "UV-82 - CABLE DE PROGRAMACION PARA  RADIO BAOFENG UV-82/5R*COMPATIBLE UV-5R/5RA/5R PLUS/ 5RE/5R EX/5RX3/5RTP/UV3R PLUS/*TIPO DE CONECTO K-PLUG*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
@@ -2437,12 +2407,12 @@
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "B-BF-A58 - BATERIA DE LITIO* PARA RADIO BF-A58* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 1800 MAH/13WH* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BBFA58-image-0-1772567596720.webp",
+            "nombre": "CAR-BF-A58 - CARGADOR DE BASE PARA RADIOS BAOFENG BF-A58/DM1702 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CARBFA58-image-0-1772744342637.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "B-BF-A58 - BATERIA DE LITIO* PARA RADIO BF-A58* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 1800 MAH/13WH*",
+            "nombre": "CAR-BF-A58 - CARGADOR DE BASE PARA RADIOS BAOFENG BF-A58/DM1702",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
             "categoria": "RADIOCOMUNICACION"
         },
@@ -2457,12 +2427,22 @@
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "CAR-BF-A58 - CARGADOR DE BASE PARA RADIOS BAOFENG BF-A58/DM1702 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CARBFA58-image-0-1772744342637.webp",
+            "nombre": "B-BF-A58 - BATERIA DE LITIO* PARA RADIO BF-A58* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 1800 MAH/13WH* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BBFA58-image-0-1772567596720.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "CAR-BF-A58 - CARGADOR DE BASE PARA RADIOS BAOFENG BF-A58/DM1702",
+            "nombre": "B-BF-A58 - BATERIA DE LITIO* PARA RADIO BF-A58* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 1800 MAH/13WH*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "BF-T6 - WALKIE TALKIE BF-T6 *BAND 446-446,2MHZ*POTENCIA 0,5 W*CON PANTALLA*BATERIA 1500 MAH*INCLUYE CARGADOR*PUEDE AUMENTAR N EQUIPOS*SIN AUDIFONO*VIENE PAR* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BFT6-image-1.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "BF-T6 - WALKIE TALKIE BF-T6 *BAND 446-446,2MHZ*POTENCIA 0,5 W*CON PANTALLA*BATERIA 1500 MAH*INCLUYE CARGADOR*PUEDE AUMENTAR N EQUIPOS*SIN AUDIFONO*VIENE PAR*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
             "categoria": "RADIOCOMUNICACION"
         },
@@ -2477,13 +2457,33 @@
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "BL-8 - BATERIA DE LITIO* PARA RADIO UV-82* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 2000 MAH/20,72WH* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BL8-image-0-1772567629599.webp",
+            "nombre": "AN0410H10 - ANTENA UHF 400-420 MHZ *COMPATIBLE CON TC-320 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AN0410H10-image-1.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "BL-8 - BATERIA DE LITIO* PARA RADIO UV-82* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 2000 MAH/20,72WH*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
+            "nombre": "AN0410H10 - ANTENA UHF 400-420 MHZ *COMPATIBLE CON TC-320",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "AN0160H14 - ANTENA VHF 146 -174 MHZ *COMPATIBLE CON TC-508-V2 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AN0160H14-image-1.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "AN0160H14 - ANTENA VHF 146 -174 MHZ *COMPATIBLE CON TC-508-V2",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "AN0455H02 - ANTENA UHF 440-470 MHZ *COMPATIBLE CON TC-508-U1 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AN0455H02-image-1.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "AN0455H02 - ANTENA UHF 440-470 MHZ *COMPATIBLE CON TC-508-U1",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
@@ -3047,62 +3047,72 @@
             "categoria": "ENERGIA Y CABLES"
         },
         {
-            "nombre": "T-B240DTB - AMPLIFICADOR MEZCLADOR- RMS240W CLASE D-MP3 (USB / SD) / TUNER,BLUETOOTH,FUNCION DE GRABADORA D ENTRADA EN MIC1 y LINEA 1 INCORPORADA, 1 ENTRADA EMC - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TB240DTB-image-1.webp",
+            "nombre": "ITC-MIC - MICROFONO INALAMBRICO PARA  ATRIL - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/I1717170962668.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-B240DTB - AMPLIFICADOR MEZCLADOR- RMS240W CLASE D-MP3 (USB / SD) / TUNER,BLUETOOTH,FUNCION DE GRABADORA D ENTRADA EN MIC1 y LINEA 1 INCORPORADA, 1 ENTRADA EMC",
+            "nombre": "ITC-MIC - MICROFONO INALAMBRICO PARA  ATRIL",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-105 - PARLANTE DE TECHO 5\" (CIELO FALSO) *POTENCIA 1.5W, 3W, 6W A 100V *NIVEL DE PRESIÓN SONORA 92DB 1W/1M.*FRECUENCIA DE RESPUESTA 110HZ - 14.5KHZ - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T105-image-1.webp",
+            "nombre": "T-673F - CONTROL DE VOLUMEN 30W CON RELAY *SEÑAL DE CONTROL 70/100V *11 NIVELESE DE VOLUMEN - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T673F-image-1.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-105 - PARLANTE DE TECHO 5\" (CIELO FALSO) *POTENCIA 1.5W, 3W, 6W A 100V *NIVEL DE PRESIÓN SONORA 92DB 1W/1M.*FRECUENCIA DE RESPUESTA 110HZ - 14.5KHZ",
+            "nombre": "T-673F - CONTROL DE VOLUMEN 30W CON RELAY *SEÑAL DE CONTROL 70/100V *11 NIVELESE DE VOLUMEN",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-770T - PARLANTE BI-DIRECCIONAL *POTENCIA 5W, 10W, 20W 100V *NIVEL DE PRESIÓN SONORA 92DB 1W/1M.*FRECUENCIA DE RESPUESTA 100HZ -15KHZ *PROTECCION IP66 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T770T-image-1.webp",
+            "nombre": "DSP5311 - PARLANTE DE TECHO DE MONTAJE ( SOBRE PONER) 6,5\"  TRANSFORMADOR INCORPORADO 100V/70V 2,5W-6W-10W  CON MUKTIPLES TERMINALES - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DSP5311-image-1.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-770T - PARLANTE BI-DIRECCIONAL *POTENCIA 5W, 10W, 20W 100V *NIVEL DE PRESIÓN SONORA 92DB 1W/1M.*FRECUENCIA DE RESPUESTA 100HZ -15KHZ *PROTECCION IP66",
+            "nombre": "DSP5311 - PARLANTE DE TECHO DE MONTAJE ( SOBRE PONER) 6,5\"  TRANSFORMADOR INCORPORADO 100V/70V 2,5W-6W-10W  CON MUKTIPLES TERMINALES",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dsppa.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "T-77350B - AMPLIFICADOR IP RACKEABLE 350W*TCP/IP,UDP*100Mbps*SALIDA DE VOLTAJE CONSTANTE 100 V*ENTRADA DE CONTACTO SECO* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T77350B-image-0-1731071057988.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "T-77350B - AMPLIFICADOR IP RACKEABLE 350W*TCP/IP,UDP*100Mbps*SALIDA DE VOLTAJE CONSTANTE 100 V*ENTRADA DE CONTACTO SECO*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-774HW - PARLANTE DE 2 VIAS * 2,5W-5W-10W-20W A 100V * 125W-2,5W-5W-10W*20W A 70V * APORTE70V/100V/8O * RESP. DE FREC. 120-18 KHz *  COLOR NEGRO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T1717170647336.webp",
+            "nombre": "T-208A - PARLANTE DE TECHO 8” (CIELO FALSO) *POTENCIA 3.5W, 7.5W, 15W, 30W 100V *NIVEL DE PRESIÓN SONORA 94DB 1W/1M *FRECUENCIA DE RESPUESTA 60HZ - 20KHZ - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T208A-image-1.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-774HW - PARLANTE DE 2 VIAS * 2,5W-5W-10W-20W A 100V * 125W-2,5W-5W-10W*20W A 70V * APORTE70V/100V/8O * RESP. DE FREC. 120-18 KHz *  COLOR NEGRO",
+            "nombre": "T-208A - PARLANTE DE TECHO 8” (CIELO FALSO) *POTENCIA 3.5W, 7.5W, 15W, 30W 100V *NIVEL DE PRESIÓN SONORA 94DB 1W/1M *FRECUENCIA DE RESPUESTA 60HZ - 20KHZ",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "28049 - 300 MAX / 160 MIN (LUMENES) * BATERIA DE LITIO 3.7V 1800 mAh * VIDA UTIL DE BAT. 500 CICLOS * AUTONOMIA DE 1:3/3 HRS * AMBITO DE ALCANCE 75 m² * PROTECCION IP20 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/28049-image-1-16-17-36.webp",
+            "nombre": "T-776HW - PARLANTE DE PARED *POTENCIA 2.5W, 5W, 20W, 40W A 100V *NIVEL DE PRESIÓN SONORA 89DB 1W/1M.*FRECUENCIA DE RESPUESTA 100HZ - 20KHZ - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T776HW-image-1.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "28049 - 300 MAX / 160 MIN (LUMENES) * BATERIA DE LITIO 3.7V 1800 mAh * VIDA UTIL DE BAT. 500 CICLOS * AUTONOMIA DE 1:3/3 HRS * AMBITO DE ALCANCE 75 m² * PROTECCION IP20",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/segurimax.webp",
+            "nombre": "T-776HW - PARLANTE DE PARED *POTENCIA 2.5W, 5W, 20W, 40W A 100V *NIVEL DE PRESIÓN SONORA 89DB 1W/1M.*FRECUENCIA DE RESPUESTA 100HZ - 20KHZ",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-B120DTB - AMPLIFICADOR MEZCLADOR RMS CLASS-D 120W; USB / SD / TUNER y bluetooth, función incorporada de grabadora de entrada MIC1 y Line 1, entrada 1EMC, entrada 2AU - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TB120DTB-image-1.webp",
+            "nombre": "T-7700RP - SOFTWARE DE GESTION DE CLIENTES IP*PLATAFORMA DE GESTION INTEGRADA PARA SOLUCIONES IP DE AUDIO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T7700RP-image-1.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-B120DTB - AMPLIFICADOR MEZCLADOR RMS CLASS-D 120W; USB / SD / TUNER y bluetooth, función incorporada de grabadora de entrada MIC1 y Line 1, entrada 1EMC, entrada 2AU",
+            "nombre": "T-7700RP - SOFTWARE DE GESTION DE CLIENTES IP*PLATAFORMA DE GESTION INTEGRADA PARA SOLUCIONES IP DE AUDIO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
@@ -3117,62 +3127,12 @@
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-108L - PARLANTE DE TECHO 8” (CIELO FALSO)  *POTENCIA 1.85W, 3.75W, 7.5W, 15W A 100V *NIVEL DE PRESIÓN SONORA 90DB 1W/1M.*FRECUENCIA DE RESPUESTA 90HZ - 20KHZ - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T108L-image-1.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "T-108L - PARLANTE DE TECHO 8” (CIELO FALSO)  *POTENCIA 1.85W, 3.75W, 7.5W, 15W A 100V *NIVEL DE PRESIÓN SONORA 90DB 1W/1M.*FRECUENCIA DE RESPUESTA 90HZ - 20KHZ",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
             "nombre": "DA4250 - AMPLIFICADOR DIGITAL 19\" 4 CANALES POTENCIA NOMINAL  250W   SALIDA DE ALTA VOZ  70V/100V  DISEÑO 1U PROTECCION COMPLETA INCLUYE CLIP CORTO CIRCUITO ALTA TEMP - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DA4250-image-1.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
             "nombre": "DA4250 - AMPLIFICADOR DIGITAL 19\" 4 CANALES POTENCIA NOMINAL  250W   SALIDA DE ALTA VOZ  70V/100V  DISEÑO 1U PROTECCION COMPLETA INCLUYE CLIP CORTO CIRCUITO ALTA TEMP",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dsppa.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "DSP5311 - PARLANTE DE TECHO DE MONTAJE ( SOBRE PONER) 6,5\"  TRANSFORMADOR INCORPORADO 100V/70V 2,5W-6W-10W  CON MUKTIPLES TERMINALES - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DSP5311-image-1.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "DSP5311 - PARLANTE DE TECHO DE MONTAJE ( SOBRE PONER) 6,5\"  TRANSFORMADOR INCORPORADO 100V/70V 2,5W-6W-10W  CON MUKTIPLES TERMINALES",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dsppa.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "T-1900A - PARLANTE PARA EXTERIORES *PROTECCION IP66 *POTENCIA 12.5W, 25W A 100V *NIVEL DE PRESIÓN SONORA 90DB 1W/1M.*FRECUENCIA DE RESPUESTA 100HZ – 14KHZ - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T1900A-image-1.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "T-1900A - PARLANTE PARA EXTERIORES *PROTECCION IP66 *POTENCIA 12.5W, 25W A 100V *NIVEL DE PRESIÓN SONORA 90DB 1W/1M.*FRECUENCIA DE RESPUESTA 100HZ – 14KHZ",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "25922 - 200 MAX / 120 MIN (LUMENES) * BATERIA DE LITIO 3.7V 1800 mAh * VIDA UTIL DE BAT. 500 CICLOS * AUTONOMIA DE 3/6 HRS * AMBITO DE ALCANCE 50 m² * PROTECCION IP20 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/25922-image-1-15-52-15.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "25922 - 200 MAX / 120 MIN (LUMENES) * BATERIA DE LITIO 3.7V 1800 mAh * VIDA UTIL DE BAT. 500 CICLOS * AUTONOMIA DE 3/6 HRS * AMBITO DE ALCANCE 50 m² * PROTECCION IP20",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/segurimax.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "AUX168II - PARLANTE DE TECHO 6,5\"  POTENCIA  20W 8 OHMIOS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AUX168II-image-1.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "AUX168II - PARLANTE DE TECHO 6,5\"  POTENCIA  20W 8 OHMIOS",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dsppa.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
@@ -3193,6 +3153,36 @@
         },
         {
             "nombre": "T-208S - PARLANTE SUBWOFFER TECHO 8” (CIELO FALSO) *POTENCIA SELECCIONABLE 7.5W, 15W, 30W, 60W 100V *NIVEL DE PRESIÓN SONORA 90DB 1W/1M.*FREC. DE RESP. 60HZ - 2KHZ",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "28049 - 300 MAX / 160 MIN (LUMENES) * BATERIA DE LITIO 3.7V 1800 mAh * VIDA UTIL DE BAT. 500 CICLOS * AUTONOMIA DE 1:3/3 HRS * AMBITO DE ALCANCE 75 m² * PROTECCION IP20 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/28049-image-1-16-17-36.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "28049 - 300 MAX / 160 MIN (LUMENES) * BATERIA DE LITIO 3.7V 1800 mAh * VIDA UTIL DE BAT. 500 CICLOS * AUTONOMIA DE 1:3/3 HRS * AMBITO DE ALCANCE 75 m² * PROTECCION IP20",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/segurimax.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "AUX168II - PARLANTE DE TECHO 6,5\"  POTENCIA  20W 8 OHMIOS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AUX168II-image-1.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "AUX168II - PARLANTE DE TECHO 6,5\"  POTENCIA  20W 8 OHMIOS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dsppa.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "T-4120UC - AMPLIFICADOR 4 ZONAS * POTENCIA 4X120W * SALIDA PARLANTES 70/100V 4-16 OHMS * PUERTOS USB SD MP3 * 2 ENTRADAS AUX RCA * 3 ENTRADA DE MIC - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T4120UC-image-1-9-45-57.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "T-4120UC - AMPLIFICADOR 4 ZONAS * POTENCIA 4X120W * SALIDA PARLANTES 70/100V 4-16 OHMS * PUERTOS USB SD MP3 * 2 ENTRADAS AUX RCA * 3 ENTRADA DE MIC",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
