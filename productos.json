@@ -1,5 +1,5 @@
 {
-    "version": "06152026.23.03",
+    "version": "06182026.23.41",
     "productos": [
         {
             "nombre": "FPP-T1202-I - Batería LMFP de 1102.5Wh 26.25V 42Ah (3.75V 294Ah) • 3000 ciclos al 80%+ de capacidad • Carga rápida en 1,5 hr • Tecnología TurboPower 2400W - Iniciar sesión",
@@ -1397,13 +1397,13 @@
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
-            "nombre": "DETACHER14 - LIBERADOR DE TRABADOR DE GANCHOS PARA EXIBIDORES * Dimensión: Ø20mmx58mm Fuerza magnética: 5300GS Peso: 60g - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DETAC1718807497097.webp",
+            "nombre": "CHK-E43BL - MINI TAG RF BLANCO *FRECUENCIA 8.2MHZ *DIMENSIÓN 46 X 42MM *DISTANCIA DE DETECCION DUAL 1,4M MONO 0,7MX2. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CHKE43BL-image-1-15-19-28.webp",
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
-            "nombre": "DETACHER14 - LIBERADOR DE TRABADOR DE GANCHOS PARA EXIBIDORES * Dimensión: Ø20mmx58mm Fuerza magnética: 5300GS Peso: 60g",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/emeno.webp",
+            "nombre": "CHK-E43BL - MINI TAG RF BLANCO *FRECUENCIA 8.2MHZ *DIMENSIÓN 46 X 42MM *DISTANCIA DE DETECCION DUAL 1,4M MONO 0,7MX2.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
@@ -1417,13 +1417,13 @@
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
-            "nombre": "CHK-E43BL - MINI TAG RF BLANCO *FRECUENCIA 8.2MHZ *DIMENSIÓN 46 X 42MM *DISTANCIA DE DETECCION DUAL 1,4M MONO 0,7MX2. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CHKE43BL-image-1-15-19-28.webp",
+            "nombre": "DETACHER14 - LIBERADOR DE TRABADOR DE GANCHOS PARA EXIBIDORES * Dimensión: Ø20mmx58mm Fuerza magnética: 5300GS Peso: 60g - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DETAC1718807497097.webp",
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
-            "nombre": "CHK-E43BL - MINI TAG RF BLANCO *FRECUENCIA 8.2MHZ *DIMENSIÓN 46 X 42MM *DISTANCIA DE DETECCION DUAL 1,4M MONO 0,7MX2.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "nombre": "DETACHER14 - LIBERADOR DE TRABADOR DE GANCHOS PARA EXIBIDORES * Dimensión: Ø20mmx58mm Fuerza magnética: 5300GS Peso: 60g",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/emeno.webp",
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
@@ -1577,22 +1577,12 @@
             "categoria": "PROTECCION PERIMETRAL"
         },
         {
-            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MDA1Y-image-1.webp",
+            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MSTAY-image-2.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SVS4-image-0-1747430597047.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER",
+            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
@@ -1607,12 +1597,12 @@
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MSTAY-image-2.webp",
+            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SVS4-image-0-1747430597047.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería.",
+            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
@@ -1693,6 +1683,16 @@
         },
         {
             "nombre": "A30-XZR - BASE DE 4 HILOS PARA SENSORES COFEM * COMPATIBLE CON PANELES PARADOX  O CUALQUIER OTRO PANEL CON CONEXIÓN DE 4 HILOS.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MDA1Y-image-1.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
@@ -2357,16 +2357,6 @@
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "TC-610P-HDC-U2 - RADIO PORTABLE UHF *ANALOGICO *FRECUENCIA 450 - 470 MHZ *16 CANALES *POTENCIA 4W *PROTECCIÓN IP66 *BATERIA 2000 MAH - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TC610PHDCU2-image-1.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "TC-610P-HDC-U2 - RADIO PORTABLE UHF *ANALOGICO *FRECUENCIA 450 - 470 MHZ *16 CANALES *POTENCIA 4W *PROTECCIÓN IP66 *BATERIA 2000 MAH",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
             "nombre": "TC-610P-HDC-V2 - RADIO PORTABLE VHF *ANALOGICO *FRECUENCIA 136 - 174 MHZ *16 CANALES *POTENCIA 5W *PROTECCIÓN IP66 *BATERIA 2000 MAH - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TC610PHDCV2-image-1.webp",
             "categoria": "RADIOCOMUNICACION"
@@ -2377,13 +2367,53 @@
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "UV-82 - CABLE DE PROGRAMACION PARA  RADIO BAOFENG UV-82/5R*COMPATIBLE UV-5R/5RA/5R PLUS/ 5RE/5R EX/5RX3/5RTP/UV3R PLUS/*TIPO DE CONECTO K-PLUG* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UV82-image-0-1745243335594.webp",
+            "nombre": "TC-610P-HDC-U2 - RADIO PORTABLE UHF *ANALOGICO *FRECUENCIA 450 - 470 MHZ *16 CANALES *POTENCIA 4W *PROTECCIÓN IP66 *BATERIA 2000 MAH - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TC610PHDCU2-image-1.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "UV-82 - CABLE DE PROGRAMACION PARA  RADIO BAOFENG UV-82/5R*COMPATIBLE UV-5R/5RA/5R PLUS/ 5RE/5R EX/5RX3/5RTP/UV3R PLUS/*TIPO DE CONECTO K-PLUG*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
+            "nombre": "TC-610P-HDC-U2 - RADIO PORTABLE UHF *ANALOGICO *FRECUENCIA 450 - 470 MHZ *16 CANALES *POTENCIA 4W *PROTECCIÓN IP66 *BATERIA 2000 MAH",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "PD686G-V1 - RADIO PORTABLE VHF *PANTALLA COLOR *DIGITAL-ANALOGICO *FRECUENCIA 136-174 MHZ *1024 CANALES 64 ZONAS *POTENCIA 5W *PROTECCION IP67 *BATERIA 1500MAH - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PD686GV1-image-1.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "PD686G-V1 - RADIO PORTABLE VHF *PANTALLA COLOR *DIGITAL-ANALOGICO *FRECUENCIA 136-174 MHZ *1024 CANALES 64 ZONAS *POTENCIA 5W *PROTECCION IP67 *BATERIA 1500MAH",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "PC45 - CABLE DE PROGRAMACION USB *COMPATIBLE CON SERIE PD6XX - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PC45-image-1.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "PC45 - CABLE DE PROGRAMACION USB *COMPATIBLE CON SERIE PD6XX",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "PC21 - CABLE DE PROGRAMACION RS232 *COMPATIBLE CON TM-628H - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PC21-image-1.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "PC21 - CABLE DE PROGRAMACION RS232 *COMPATIBLE CON TM-628H",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "AN0455H02 - ANTENA UHF 440-470 MHZ *COMPATIBLE CON TC-508-U1 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AN0455H02-image-1.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "AN0455H02 - ANTENA UHF 440-470 MHZ *COMPATIBLE CON TC-508-U1",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
@@ -2407,12 +2437,12 @@
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "CAR-BF-A58 - CARGADOR DE BASE PARA RADIOS BAOFENG BF-A58/DM1702 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CARBFA58-image-0-1772744342637.webp",
+            "nombre": "B-BF-A58 - BATERIA DE LITIO* PARA RADIO BF-A58* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 1800 MAH/13WH* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BBFA58-image-0-1772567596720.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "CAR-BF-A58 - CARGADOR DE BASE PARA RADIOS BAOFENG BF-A58/DM1702",
+            "nombre": "B-BF-A58 - BATERIA DE LITIO* PARA RADIO BF-A58* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 1800 MAH/13WH*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
             "categoria": "RADIOCOMUNICACION"
         },
@@ -2427,22 +2457,12 @@
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "B-BF-A58 - BATERIA DE LITIO* PARA RADIO BF-A58* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 1800 MAH/13WH* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BBFA58-image-0-1772567596720.webp",
+            "nombre": "CAR-BF-A58 - CARGADOR DE BASE PARA RADIOS BAOFENG BF-A58/DM1702 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CARBFA58-image-0-1772744342637.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "B-BF-A58 - BATERIA DE LITIO* PARA RADIO BF-A58* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 1800 MAH/13WH*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "BF-T6 - WALKIE TALKIE BF-T6 *BAND 446-446,2MHZ*POTENCIA 0,5 W*CON PANTALLA*BATERIA 1500 MAH*INCLUYE CARGADOR*PUEDE AUMENTAR N EQUIPOS*SIN AUDIFONO*VIENE PAR* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BFT6-image-1.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "BF-T6 - WALKIE TALKIE BF-T6 *BAND 446-446,2MHZ*POTENCIA 0,5 W*CON PANTALLA*BATERIA 1500 MAH*INCLUYE CARGADOR*PUEDE AUMENTAR N EQUIPOS*SIN AUDIFONO*VIENE PAR*",
+            "nombre": "CAR-BF-A58 - CARGADOR DE BASE PARA RADIOS BAOFENG BF-A58/DM1702",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
             "categoria": "RADIOCOMUNICACION"
         },
@@ -2457,33 +2477,13 @@
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "AN0410H10 - ANTENA UHF 400-420 MHZ *COMPATIBLE CON TC-320 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AN0410H10-image-1.webp",
+            "nombre": "BL-8 - BATERIA DE LITIO* PARA RADIO UV-82* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 2000 MAH/20,72WH* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BL8-image-0-1772567629599.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "AN0410H10 - ANTENA UHF 400-420 MHZ *COMPATIBLE CON TC-320",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "AN0160H14 - ANTENA VHF 146 -174 MHZ *COMPATIBLE CON TC-508-V2 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AN0160H14-image-1.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "AN0160H14 - ANTENA VHF 146 -174 MHZ *COMPATIBLE CON TC-508-V2",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "AN0455H02 - ANTENA UHF 440-470 MHZ *COMPATIBLE CON TC-508-U1 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AN0455H02-image-1.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "AN0455H02 - ANTENA UHF 440-470 MHZ *COMPATIBLE CON TC-508-U1",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
+            "nombre": "BL-8 - BATERIA DE LITIO* PARA RADIO UV-82* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 2000 MAH/20,72WH*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
@@ -3047,72 +3047,62 @@
             "categoria": "ENERGIA Y CABLES"
         },
         {
-            "nombre": "ITC-MIC - MICROFONO INALAMBRICO PARA  ATRIL - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/I1717170962668.webp",
+            "nombre": "T-B240DTB - AMPLIFICADOR MEZCLADOR- RMS240W CLASE D-MP3 (USB / SD) / TUNER,BLUETOOTH,FUNCION DE GRABADORA D ENTRADA EN MIC1 y LINEA 1 INCORPORADA, 1 ENTRADA EMC - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TB240DTB-image-1.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "ITC-MIC - MICROFONO INALAMBRICO PARA  ATRIL",
+            "nombre": "T-B240DTB - AMPLIFICADOR MEZCLADOR- RMS240W CLASE D-MP3 (USB / SD) / TUNER,BLUETOOTH,FUNCION DE GRABADORA D ENTRADA EN MIC1 y LINEA 1 INCORPORADA, 1 ENTRADA EMC",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-673F - CONTROL DE VOLUMEN 30W CON RELAY *SEÑAL DE CONTROL 70/100V *11 NIVELESE DE VOLUMEN - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T673F-image-1.webp",
+            "nombre": "T-105 - PARLANTE DE TECHO 5\" (CIELO FALSO) *POTENCIA 1.5W, 3W, 6W A 100V *NIVEL DE PRESIÓN SONORA 92DB 1W/1M.*FRECUENCIA DE RESPUESTA 110HZ - 14.5KHZ - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T105-image-1.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-673F - CONTROL DE VOLUMEN 30W CON RELAY *SEÑAL DE CONTROL 70/100V *11 NIVELESE DE VOLUMEN",
+            "nombre": "T-105 - PARLANTE DE TECHO 5\" (CIELO FALSO) *POTENCIA 1.5W, 3W, 6W A 100V *NIVEL DE PRESIÓN SONORA 92DB 1W/1M.*FRECUENCIA DE RESPUESTA 110HZ - 14.5KHZ",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "DSP5311 - PARLANTE DE TECHO DE MONTAJE ( SOBRE PONER) 6,5\"  TRANSFORMADOR INCORPORADO 100V/70V 2,5W-6W-10W  CON MUKTIPLES TERMINALES - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DSP5311-image-1.webp",
+            "nombre": "T-770T - PARLANTE BI-DIRECCIONAL *POTENCIA 5W, 10W, 20W 100V *NIVEL DE PRESIÓN SONORA 92DB 1W/1M.*FRECUENCIA DE RESPUESTA 100HZ -15KHZ *PROTECCION IP66 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T770T-image-1.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "DSP5311 - PARLANTE DE TECHO DE MONTAJE ( SOBRE PONER) 6,5\"  TRANSFORMADOR INCORPORADO 100V/70V 2,5W-6W-10W  CON MUKTIPLES TERMINALES",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dsppa.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "T-77350B - AMPLIFICADOR IP RACKEABLE 350W*TCP/IP,UDP*100Mbps*SALIDA DE VOLTAJE CONSTANTE 100 V*ENTRADA DE CONTACTO SECO* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T77350B-image-0-1731071057988.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "T-77350B - AMPLIFICADOR IP RACKEABLE 350W*TCP/IP,UDP*100Mbps*SALIDA DE VOLTAJE CONSTANTE 100 V*ENTRADA DE CONTACTO SECO*",
+            "nombre": "T-770T - PARLANTE BI-DIRECCIONAL *POTENCIA 5W, 10W, 20W 100V *NIVEL DE PRESIÓN SONORA 92DB 1W/1M.*FRECUENCIA DE RESPUESTA 100HZ -15KHZ *PROTECCION IP66",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-208A - PARLANTE DE TECHO 8” (CIELO FALSO) *POTENCIA 3.5W, 7.5W, 15W, 30W 100V *NIVEL DE PRESIÓN SONORA 94DB 1W/1M *FRECUENCIA DE RESPUESTA 60HZ - 20KHZ - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T208A-image-1.webp",
+            "nombre": "T-774HW - PARLANTE DE 2 VIAS * 2,5W-5W-10W-20W A 100V * 125W-2,5W-5W-10W*20W A 70V * APORTE70V/100V/8O * RESP. DE FREC. 120-18 KHz *  COLOR NEGRO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T1717170647336.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-208A - PARLANTE DE TECHO 8” (CIELO FALSO) *POTENCIA 3.5W, 7.5W, 15W, 30W 100V *NIVEL DE PRESIÓN SONORA 94DB 1W/1M *FRECUENCIA DE RESPUESTA 60HZ - 20KHZ",
+            "nombre": "T-774HW - PARLANTE DE 2 VIAS * 2,5W-5W-10W-20W A 100V * 125W-2,5W-5W-10W*20W A 70V * APORTE70V/100V/8O * RESP. DE FREC. 120-18 KHz *  COLOR NEGRO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-776HW - PARLANTE DE PARED *POTENCIA 2.5W, 5W, 20W, 40W A 100V *NIVEL DE PRESIÓN SONORA 89DB 1W/1M.*FRECUENCIA DE RESPUESTA 100HZ - 20KHZ - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T776HW-image-1.webp",
+            "nombre": "28049 - 300 MAX / 160 MIN (LUMENES) * BATERIA DE LITIO 3.7V 1800 mAh * VIDA UTIL DE BAT. 500 CICLOS * AUTONOMIA DE 1:3/3 HRS * AMBITO DE ALCANCE 75 m² * PROTECCION IP20 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/28049-image-1-16-17-36.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-776HW - PARLANTE DE PARED *POTENCIA 2.5W, 5W, 20W, 40W A 100V *NIVEL DE PRESIÓN SONORA 89DB 1W/1M.*FRECUENCIA DE RESPUESTA 100HZ - 20KHZ",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
+            "nombre": "28049 - 300 MAX / 160 MIN (LUMENES) * BATERIA DE LITIO 3.7V 1800 mAh * VIDA UTIL DE BAT. 500 CICLOS * AUTONOMIA DE 1:3/3 HRS * AMBITO DE ALCANCE 75 m² * PROTECCION IP20",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/segurimax.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-7700RP - SOFTWARE DE GESTION DE CLIENTES IP*PLATAFORMA DE GESTION INTEGRADA PARA SOLUCIONES IP DE AUDIO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T7700RP-image-1.webp",
+            "nombre": "T-B120DTB - AMPLIFICADOR MEZCLADOR RMS CLASS-D 120W; USB / SD / TUNER y bluetooth, función incorporada de grabadora de entrada MIC1 y Line 1, entrada 1EMC, entrada 2AU - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TB120DTB-image-1.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
-            "nombre": "T-7700RP - SOFTWARE DE GESTION DE CLIENTES IP*PLATAFORMA DE GESTION INTEGRADA PARA SOLUCIONES IP DE AUDIO",
+            "nombre": "T-B120DTB - AMPLIFICADOR MEZCLADOR RMS CLASS-D 120W; USB / SD / TUNER y bluetooth, función incorporada de grabadora de entrada MIC1 y Line 1, entrada 1EMC, entrada 2AU",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
@@ -3127,12 +3117,62 @@
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
+            "nombre": "T-108L - PARLANTE DE TECHO 8” (CIELO FALSO)  *POTENCIA 1.85W, 3.75W, 7.5W, 15W A 100V *NIVEL DE PRESIÓN SONORA 90DB 1W/1M.*FRECUENCIA DE RESPUESTA 90HZ - 20KHZ - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T108L-image-1.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "T-108L - PARLANTE DE TECHO 8” (CIELO FALSO)  *POTENCIA 1.85W, 3.75W, 7.5W, 15W A 100V *NIVEL DE PRESIÓN SONORA 90DB 1W/1M.*FRECUENCIA DE RESPUESTA 90HZ - 20KHZ",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
             "nombre": "DA4250 - AMPLIFICADOR DIGITAL 19\" 4 CANALES POTENCIA NOMINAL  250W   SALIDA DE ALTA VOZ  70V/100V  DISEÑO 1U PROTECCION COMPLETA INCLUYE CLIP CORTO CIRCUITO ALTA TEMP - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DA4250-image-1.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
             "nombre": "DA4250 - AMPLIFICADOR DIGITAL 19\" 4 CANALES POTENCIA NOMINAL  250W   SALIDA DE ALTA VOZ  70V/100V  DISEÑO 1U PROTECCION COMPLETA INCLUYE CLIP CORTO CIRCUITO ALTA TEMP",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dsppa.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "DSP5311 - PARLANTE DE TECHO DE MONTAJE ( SOBRE PONER) 6,5\"  TRANSFORMADOR INCORPORADO 100V/70V 2,5W-6W-10W  CON MUKTIPLES TERMINALES - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DSP5311-image-1.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "DSP5311 - PARLANTE DE TECHO DE MONTAJE ( SOBRE PONER) 6,5\"  TRANSFORMADOR INCORPORADO 100V/70V 2,5W-6W-10W  CON MUKTIPLES TERMINALES",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dsppa.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "T-1900A - PARLANTE PARA EXTERIORES *PROTECCION IP66 *POTENCIA 12.5W, 25W A 100V *NIVEL DE PRESIÓN SONORA 90DB 1W/1M.*FRECUENCIA DE RESPUESTA 100HZ – 14KHZ - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T1900A-image-1.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "T-1900A - PARLANTE PARA EXTERIORES *PROTECCION IP66 *POTENCIA 12.5W, 25W A 100V *NIVEL DE PRESIÓN SONORA 90DB 1W/1M.*FRECUENCIA DE RESPUESTA 100HZ – 14KHZ",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "25922 - 200 MAX / 120 MIN (LUMENES) * BATERIA DE LITIO 3.7V 1800 mAh * VIDA UTIL DE BAT. 500 CICLOS * AUTONOMIA DE 3/6 HRS * AMBITO DE ALCANCE 50 m² * PROTECCION IP20 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/25922-image-1-15-52-15.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "25922 - 200 MAX / 120 MIN (LUMENES) * BATERIA DE LITIO 3.7V 1800 mAh * VIDA UTIL DE BAT. 500 CICLOS * AUTONOMIA DE 3/6 HRS * AMBITO DE ALCANCE 50 m² * PROTECCION IP20",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/segurimax.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "AUX168II - PARLANTE DE TECHO 6,5\"  POTENCIA  20W 8 OHMIOS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AUX168II-image-1.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "AUX168II - PARLANTE DE TECHO 6,5\"  POTENCIA  20W 8 OHMIOS",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dsppa.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
@@ -3153,36 +3193,6 @@
         },
         {
             "nombre": "T-208S - PARLANTE SUBWOFFER TECHO 8” (CIELO FALSO) *POTENCIA SELECCIONABLE 7.5W, 15W, 30W, 60W 100V *NIVEL DE PRESIÓN SONORA 90DB 1W/1M.*FREC. DE RESP. 60HZ - 2KHZ",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "28049 - 300 MAX / 160 MIN (LUMENES) * BATERIA DE LITIO 3.7V 1800 mAh * VIDA UTIL DE BAT. 500 CICLOS * AUTONOMIA DE 1:3/3 HRS * AMBITO DE ALCANCE 75 m² * PROTECCION IP20 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/28049-image-1-16-17-36.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "28049 - 300 MAX / 160 MIN (LUMENES) * BATERIA DE LITIO 3.7V 1800 mAh * VIDA UTIL DE BAT. 500 CICLOS * AUTONOMIA DE 1:3/3 HRS * AMBITO DE ALCANCE 75 m² * PROTECCION IP20",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/segurimax.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "AUX168II - PARLANTE DE TECHO 6,5\"  POTENCIA  20W 8 OHMIOS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AUX168II-image-1.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "AUX168II - PARLANTE DE TECHO 6,5\"  POTENCIA  20W 8 OHMIOS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dsppa.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "T-4120UC - AMPLIFICADOR 4 ZONAS * POTENCIA 4X120W * SALIDA PARLANTES 70/100V 4-16 OHMS * PUERTOS USB SD MP3 * 2 ENTRADAS AUX RCA * 3 ENTRADA DE MIC - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T4120UC-image-1-9-45-57.webp",
-            "categoria": "ILUMINACION Y SONIDO"
-        },
-        {
-            "nombre": "T-4120UC - AMPLIFICADOR 4 ZONAS * POTENCIA 4X120W * SALIDA PARLANTES 70/100V 4-16 OHMS * PUERTOS USB SD MP3 * 2 ENTRADAS AUX RCA * 3 ENTRADA DE MIC",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/itc.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
