@@ -1,6 +1,56 @@
 {
-    "version": "06242026.22.41",
+    "version": "06272026.22.49",
     "productos": [
+        {
+            "nombre": "HME0001197 - QR 540 CON MENSAJERO O FIGURA 8 MODELO 5516202 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HME0001197_985680.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HME0001197 - QR 540 CON MENSAJERO O FIGURA 8 MODELO 5516202",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/fiberhome.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SF110P-65-imou - SWITCH POE DE 10 PUERTOS *65W *METALICO *8 PUERTOS POE *2 PUERTOS UPLINK *SOPORTA DIST. 250M POE *ESTANDAR 802.3af/at *NO ADMINISTRABLE *CAP. SWITCHING 1.6Gbps - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SF110P-65-imou_334445.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SF110P-65-imou - SWITCH POE DE 10 PUERTOS *65W *METALICO *8 PUERTOS POE *2 PUERTOS UPLINK *SOPORTA DIST. 250M POE *ESTANDAR 802.3af/at *NO ADMINISTRABLE *CAP. SWITCHING 1.6Gbps",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/imou.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HX15-imou - ROUTER GIGABIT AX1500 WIFI 6 *SOPORTA IMOU LINK  2.0 MESH *SOPORTA IPv6 *SOPORTA IPTV *SOPORTA CONTROL PARENTAL *ROM 16MB *RAM 128MB *DOBLE BANDA *DC 12V1A - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HX15-imou_434217.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HX15-imou - ROUTER GIGABIT AX1500 WIFI 6 *SOPORTA IMOU LINK  2.0 MESH *SOPORTA IPv6 *SOPORTA IPTV *SOPORTA CONTROL PARENTAL *ROM 16MB *RAM 128MB *DOBLE BANDA *DC 12V1A",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/imou.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HR320-imou - ROUTER INALAMBRICO DE ESCRITORIO *VEL. WIFI 300MBPS *SOPORTA CONTROL PARENTAL *SOPORTA IPv6 *VNP PP2P, L2TP *FREC. 2.4GHz *DC 5V1A - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HR320-imou_241609.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HR320-imou - ROUTER INALAMBRICO DE ESCRITORIO *VEL. WIFI 300MBPS *SOPORTA CONTROL PARENTAL *SOPORTA IPv6 *VNP PP2P, L2TP *FREC. 2.4GHz *DC 5V1A",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/imou.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ST2-64-S1 - MEMORIA MICRO SD DE 64GB *UHS-1, CLASE10, U3, V30 *CELDA DE MEMORIA FLASH 3D TLC NAND, CICLO DE HASTA 1000 P / E *A PRUEBA DE RAYOS X *RES. ALTAS TEMPERATURAS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ST2-64-S1_171146.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ST2-64-S1 - MEMORIA MICRO SD DE 64GB *UHS-1, CLASE10, U3, V30 *CELDA DE MEMORIA FLASH 3D TLC NAND, CICLO DE HASTA 1000 P / E *A PRUEBA DE RAYOS X *RES. ALTAS TEMPERATURAS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/imou.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "FPP-T1202-I - Batería LMFP de 1102.5Wh 26.25V 42Ah (3.75V 294Ah) • 3000 ciclos al 80%+ de capacidad • Carga rápida en 1,5 hr • Tecnología TurboPower 2400W - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/FPP-T1202-I_799491.webp",
@@ -228,56 +278,6 @@
         },
         {
             "nombre": "ZBM5-1C-120W - INTERRUPTOR 1 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MINI-D - INTERRUPTOR INTELIGENTE WIFI MINI DRY*BLANCO*100-240 V~50/60 Hz 0,1 A máx. O 12-48 V A máx. µ*Wi-Fi: IEEE 802.11 b/g/n 2.4GHz*TEMPERATURA DE TRABAJO -10~40C - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MINID-image-0-1770044001242.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MINI-D - INTERRUPTOR INTELIGENTE WIFI MINI DRY*BLANCO*100-240 V~50/60 Hz 0,1 A máx. O 12-48 V A máx. µ*Wi-Fi: IEEE 802.11 b/g/n 2.4GHz*TEMPERATURA DE TRABAJO -10~40C",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SWV-NH - VALVULA DE AGUA INTELIGENTE ZIGBEE*IP55*DIMENSION 152x100x46mm*COLOR NEGRO*MATERIAL PC+ABS* PRESION 0,06-0,8 MPa*REQUIERE HUB ZIGBEE - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SWVNH-image-0-1770214325116.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SWV-NH - VALVULA DE AGUA INTELIGENTE ZIGBEE*IP55*DIMENSION 152x100x46mm*COLOR NEGRO*MATERIAL PC+ABS* PRESION 0,06-0,8 MPa*REQUIERE HUB ZIGBEE",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SNZB-04P - CONTACTO MAGNETICO ZIGBEE*BATERIA CR2477(3 V)*MATERIAL PC*DIMENSIONES TX (50,5x32x21,9mm)Imán(27x12x12,4mm)*Zigbee3.0*DIST.INSTALACION =20mm*REQUIERE HUB ZIGB - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SNZB04P-image-0-1770156454511.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SNZB-04P - CONTACTO MAGNETICO ZIGBEE*BATERIA CR2477(3 V)*MATERIAL PC*DIMENSIONES TX (50,5x32x21,9mm)Imán(27x12x12,4mm)*Zigbee3.0*DIST.INSTALACION =20mm*REQUIERE HUB ZIGB",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SNZB-03P - SENSOR DE MOVIMIENTO INALAMBRICO ZIGBEE*BATERIA CR2477*Zigbee 3.0*RANGO DE DETECCION 6 m-110°*MATERIAL PC*TEMPERATURA DE TRABAJO -10C A 60C*REQUIERE HUB ZIGBEE - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SNZB03P-image-0-1770155174631.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SNZB-03P - SENSOR DE MOVIMIENTO INALAMBRICO ZIGBEE*BATERIA CR2477*Zigbee 3.0*RANGO DE DETECCION 6 m-110°*MATERIAL PC*TEMPERATURA DE TRABAJO -10C A 60C*REQUIERE HUB ZIGBEE",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "M5-3C-120W - INTERRUPTOR INTELIGENTE DE 3 GANG*COLOR BLANCO*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/M53C120W-image-0-1769808910267.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "M5-3C-120W - INTERRUPTOR INTELIGENTE DE 3 GANG*COLOR BLANCO*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
             "categoria": "NOVEDADES"
         },
