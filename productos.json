@@ -1,6 +1,16 @@
 {
-    "version": "07092026.22.15",
+    "version": "07122026.22.06",
     "productos": [
+        {
+            "nombre": "IPC-HDBW3449FP-AS-IL-0280 - CAMARA IP DOMO ANTIVANDALICA 4MP *LENTE 2.8MM *SMART DUAL LIGHT *SENSOR 1/2.9\" CMOS *ALARMA 1I/1O *AUDIO 1I/1O *RANURA MICRO SD MAX 512GB *POE *IP67 *IK10 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-HDBW3449FP-AS-IL-0280_609355.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "IPC-HDBW3449FP-AS-IL-0280 - CAMARA IP DOMO ANTIVANDALICA 4MP *LENTE 2.8MM *SMART DUAL LIGHT *SENSOR 1/2.9\" CMOS *ALARMA 1I/1O *AUDIO 1I/1O *RANURA MICRO SD MAX 512GB *POE *IP67 *IK10",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "IPC-HDW1230T1-0280B-S6-QH - CAMARA IP DOMO 2MP METAL/PLASTICA *LENTE 2.8MM *SENSOR 1/2.8\" CMOS *IR 30M *ROI, SMART H.264+/H.265+ *DWDR, 3D NR, HLC, BLC *IP67 *12 VDC/PoE - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-HDW1230T1-0280B-S6-QH_690310.webp",
@@ -872,26 +882,6 @@
             "categoria": "NOVEDADES"
         },
         {
-            "nombre": "SF110P-65-imou - SWITCH POE DE 10 PUERTOS *65W *METALICO *8 PUERTOS POE *2 PUERTOS UPLINK *SOPORTA DIST. 250M POE *ESTANDAR 802.3af/at *NO ADMINISTRABLE *CAP. SWITCHING 1.6Gbps - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SF110P-65-imou_334445.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SF110P-65-imou - SWITCH POE DE 10 PUERTOS *65W *METALICO *8 PUERTOS POE *2 PUERTOS UPLINK *SOPORTA DIST. 250M POE *ESTANDAR 802.3af/at *NO ADMINISTRABLE *CAP. SWITCHING 1.6Gbps",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/imou.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HX15-imou - ROUTER GIGABIT AX1500 WIFI 6 *SOPORTA IMOU LINK  2.0 MESH *SOPORTA IPv6 *SOPORTA IPTV *SOPORTA CONTROL PARENTAL *ROM 16MB *RAM 128MB *DOBLE BANDA *DC 12V1A - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HX15-imou_434217.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HX15-imou - ROUTER GIGABIT AX1500 WIFI 6 *SOPORTA IMOU LINK  2.0 MESH *SOPORTA IPv6 *SOPORTA IPTV *SOPORTA CONTROL PARENTAL *ROM 16MB *RAM 128MB *DOBLE BANDA *DC 12V1A",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/imou.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
             "nombre": "HR320-imou - ROUTER INALAMBRICO DE ESCRITORIO *VEL. WIFI 300MBPS *SOPORTA CONTROL PARENTAL *SOPORTA IPv6 *VNP PP2P, L2TP *FREC. 2.4GHz *DC 5V1A - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HR320-imou_241609.webp",
             "categoria": "NOVEDADES"
@@ -918,6 +908,16 @@
         },
         {
             "nombre": "FPP-T1202-I - Batería LMFP de 1102.5Wh 26.25V 42Ah (3.75V 294Ah) • 3000 ciclos al 80%+ de capacidad • Carga rápida en 1,5 hr • Tecnología TurboPower 2400W",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/forza.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PS-1100USBC - Capacidad: 1250W • Voltaje: 100V/240VAC • Tipo de entrada: NEMA 5-15P • Tipo de salida: 1 x NEMA 5-15R - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PS-1100USBC_436856.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PS-1100USBC - Capacidad: 1250W • Voltaje: 100V/240VAC • Tipo de entrada: NEMA 5-15P • Tipo de salida: 1 x NEMA 5-15R",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/forza.webp",
             "categoria": "NOVEDADES"
         },
@@ -5112,26 +5112,6 @@
             "categoria": "GPS"
         },
         {
-            "nombre": "TL-WR841HP - ROUTER INALAMBRICO ROMPE MURO DE ALTA POTENCIA N 300*2 ANTENAS DE 9DBI *ALTA POTENCIA DE TRANSMISION*EL WIFI PENETRA PAREDES Y OBSTACULOS* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TLWR841HP-image-0-1755653506279.webp",
-            "categoria": "REDES"
-        },
-        {
-            "nombre": "TL-WR841HP - ROUTER INALAMBRICO ROMPE MURO DE ALTA POTENCIA N 300*2 ANTENAS DE 9DBI *ALTA POTENCIA DE TRANSMISION*EL WIFI PENETRA PAREDES Y OBSTACULOS*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
-            "categoria": "REDES"
-        },
-        {
-            "nombre": "ARCHER C50 - ROUTER INALAMBRICO ARCHER C50*DUAL BAND 2.4GHZ/300MBPS*5GHZ/867MBPS*4 ANTENAS EXTERNAS*1 WAN 10/100 *4 LAN 10/100*SOPORTA IPV4/IPV6*DHCP*3 en 1* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ARCHERC50-image-0-1756958244734.webp",
-            "categoria": "REDES"
-        },
-        {
-            "nombre": "ARCHER C50 - ROUTER INALAMBRICO ARCHER C50*DUAL BAND 2.4GHZ/300MBPS*5GHZ/867MBPS*4 ANTENAS EXTERNAS*1 WAN 10/100 *4 LAN 10/100*SOPORTA IPV4/IPV6*DHCP*3 en 1*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
-            "categoria": "REDES"
-        },
-        {
             "nombre": "CRS326-24G-2S+RM - CLOUD ROUTER SWITCH *24 PUERTOS GIGABIT *2 PUERTOS SFP+*1SERIAL PORT *DUAL BOOT SwOS/ROUTEROS *CPU 800MHZ* RAM 512MB*RACKEABLEABLE*LIC.5* - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CRS326241718207409310.webp",
             "categoria": "REDES"
@@ -5169,16 +5149,6 @@
         {
             "nombre": "Deco E4(3-pack) - SISTEMAS WI-FI MESH DECO E4(3-PACK)*AC1200*ELIMINA ZONAS MUERTAS* 2 PUERTOS 10/100* CONEXIONES SIN LAG* COMPATIBLE CON TODOS LOS DECOS*TAMBIEN MODO AP*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
-            "categoria": "REDES"
-        },
-        {
-            "nombre": "UB-U7-PRO - ACCESS POINT WIFI 7 PRO*  FREC.2.4/5/6 GHZ* SEMI/INTERIOR(IP 54) FULL DUPLEX*802.3AT*8 SSID X RADIO*(SIN INYECTOR POE)*300 USIUARIOS* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UBU7PRO-image-0-1728942458776.webp",
-            "categoria": "REDES"
-        },
-        {
-            "nombre": "UB-U7-PRO - ACCESS POINT WIFI 7 PRO*  FREC.2.4/5/6 GHZ* SEMI/INTERIOR(IP 54) FULL DUPLEX*802.3AT*8 SSID X RADIO*(SIN INYECTOR POE)*300 USIUARIOS*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ubiquiti.webp",
             "categoria": "REDES"
         },
         {
@@ -5922,16 +5892,6 @@
             "categoria": "REDES"
         },
         {
-            "nombre": "S310-24T4X - SWITCH GIGABIT EKIT  ADMINISTRABLE* SERIE S310* 24 PUERTOS GIGAS* 4 SFP+* CAPA 3+* RACK 1U* (QoS)* CARCASA METALICA* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/S31024T4X-image-0-1747161248606.webp",
-            "categoria": "REDES"
-        },
-        {
-            "nombre": "S310-24T4X - SWITCH GIGABIT EKIT  ADMINISTRABLE* SERIE S310* 24 PUERTOS GIGAS* 4 SFP+* CAPA 3+* RACK 1U* (QoS)* CARCASA METALICA*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ekit.webp",
-            "categoria": "REDES"
-        },
-        {
             "nombre": "UB-PBE-5AC-GEN2 - POWERBEAM AC GEN2*FREC. 2,4 y 5GHZ *25DBI *24DBM *THROUGHPUT 450MBPS *ALCANCE 25+KM *1 ETH GIGABIT *KIT DE MONTAJE *INYECTOR POE INCLUIDO* MANEJADO POR UMOBILE - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UBPBE5ACGEN2-image-1.webp",
             "categoria": "REDES"
@@ -5949,26 +5909,6 @@
         {
             "nombre": "TL-SG1008D - SWITCH 8 PUERTOS GIGABIT *TECNOLOGIA DE AHORRO DE ENERGIA HASTA 80%*CARCASA DE PLASTICO*PARA ESCRITORIO O MONTARLO EN LA PARED*PLUG AND PLAY*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
-            "categoria": "REDES"
-        },
-        {
-            "nombre": "UB-POE-24-7W-G-WH - INYECTOR POE *VOLTAJE 24VDC * CORRIENTE 0.3A *POTENCIA 7W *COLOR BLANCO *NO FUNCIONA CON CAMARAS DAHUA*COLOR BLANCO* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UBPOE247WGWH-image-1.webp",
-            "categoria": "REDES"
-        },
-        {
-            "nombre": "UB-POE-24-7W-G-WH - INYECTOR POE *VOLTAJE 24VDC * CORRIENTE 0.3A *POTENCIA 7W *COLOR BLANCO *NO FUNCIONA CON CAMARAS DAHUA*COLOR BLANCO*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ubiquiti.webp",
-            "categoria": "REDES"
-        },
-        {
-            "nombre": "U7-OUTDOOR - ACCESS POINT WIFI 7 OUTDOOR* FREC.2.4/5 GHZ* SEMI/INTERIOR(IPX6 ) FULL DUPLEXPOE+* MU-MIMO* 4 SSID X RADIO* IPX6* (SIN INYECTOR POE)* 250 USUARIOS* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/U7OUTDOOR-image-0-1733512308412.webp",
-            "categoria": "REDES"
-        },
-        {
-            "nombre": "U7-OUTDOOR - ACCESS POINT WIFI 7 OUTDOOR* FREC.2.4/5 GHZ* SEMI/INTERIOR(IPX6 ) FULL DUPLEXPOE+* MU-MIMO* 4 SSID X RADIO* IPX6* (SIN INYECTOR POE)* 250 USUARIOS*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ubiquiti.webp",
             "categoria": "REDES"
         },
         {
@@ -6029,6 +5969,66 @@
         {
             "nombre": "CRS354-48P-4S+2Q+RM - CLOUD ROUTER SWITCH*QCA9531 650 MHZ*64 MB*48 GIGAS POE*2 SFP+(10G)*2 Q+(40G)*1 PUERTO SERIAL RJ45*CAPA 3*RACKEABLE *LIC.5*POTENCIA 750 W*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/mikrotik.webp",
+            "categoria": "REDES"
+        },
+        {
+            "nombre": "UB-RP-5AC-GEN2 - RADIO ROCKET PRISM AC GEN2 AIRMAX*FREC. 5GHZ *500+ MBPS*ANCHO DE CANAL 80MHZ*256QAM*SINCRONIZACION GPS*1 PUERTO GIGABIT*GESTION DE RADIO*AIR OS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UBRP5ACGEN2-image-1.webp",
+            "categoria": "REDES"
+        },
+        {
+            "nombre": "UB-RP-5AC-GEN2 - RADIO ROCKET PRISM AC GEN2 AIRMAX*FREC. 5GHZ *500+ MBPS*ANCHO DE CANAL 80MHZ*256QAM*SINCRONIZACION GPS*1 PUERTO GIGABIT*GESTION DE RADIO*AIR OS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ubiquiti.webp",
+            "categoria": "REDES"
+        },
+        {
+            "nombre": "EAP225-Outdoor - ACCESS POINT OMADA MESH AC1200*INTERIOR/EXTERIORES*2,4/5GHZ *1 PUERTO GIGABIT *1300MBPS *MIMO 2X2 *ROAMING DE USUARIOS *HOTSPOT*4 SSID*PORTAL CAUTIVO* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/EAP225OUTDOOR-image-0-1761925248424.webp",
+            "categoria": "REDES"
+        },
+        {
+            "nombre": "EAP225-Outdoor - ACCESS POINT OMADA MESH AC1200*INTERIOR/EXTERIORES*2,4/5GHZ *1 PUERTO GIGABIT *1300MBPS *MIMO 2X2 *ROAMING DE USUARIOS *HOTSPOT*4 SSID*PORTAL CAUTIVO*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "REDES"
+        },
+        {
+            "nombre": "UB-ETH-SP-G2 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UBETHSPG2-image-1.webp",
+            "categoria": "REDES"
+        },
+        {
+            "nombre": "UB-ETH-SP-G2",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ubiquiti.webp",
+            "categoria": "REDES"
+        },
+        {
+            "nombre": "UB-U6-ENTERPRISE - ACCESS POINT WIFI 6E ENTERPRISE* FRECC 2.4/5/6 GHZ* SEMI/INTERIOR(IP 54) FULL DUPLEX*802.3AT*8 SSID X RADIO*(SIN INYECTOR POE)* 600 USUARIOS* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UBU6ENTERPRISE-image-0-1723497654439.webp",
+            "categoria": "REDES"
+        },
+        {
+            "nombre": "UB-U6-ENTERPRISE - ACCESS POINT WIFI 6E ENTERPRISE* FRECC 2.4/5/6 GHZ* SEMI/INTERIOR(IP 54) FULL DUPLEX*802.3AT*8 SSID X RADIO*(SIN INYECTOR POE)* 600 USUARIOS*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ubiquiti.webp",
+            "categoria": "REDES"
+        },
+        {
+            "nombre": "EAP610-OUTDOOR - ACCESS POINT WIFI 6 OMADA MESH AX1800 *INTERIOR/EXTERIORES*2,4/5GHZ *1 PUERTO GIGA*1800MBPS* MU MIMO* ROAMING DE USUARIOS* HOTSPOT*16 SSID*PORTAL CAUTIVO*IP67 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/EAP610OUTDOOR-image-7-10-24-32.webp",
+            "categoria": "REDES"
+        },
+        {
+            "nombre": "EAP610-OUTDOOR - ACCESS POINT WIFI 6 OMADA MESH AX1800 *INTERIOR/EXTERIORES*2,4/5GHZ *1 PUERTO GIGA*1800MBPS* MU MIMO* ROAMING DE USUARIOS* HOTSPOT*16 SSID*PORTAL CAUTIVO*IP67",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "REDES"
+        },
+        {
+            "nombre": "TL-WN781ND - TARJETA  INALAMBRICA*PCI EXPRESS*FREC. 2.4 GHz*N150 *UNA ANTENA EXTERNA REMOVIBLE DE 2DBI*ENCRIPTACION WPA/WPA2*COMPATIBLE CON WINDOWS 7/8 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TLWN781ND-image-0-1750278879261.webp",
+            "categoria": "REDES"
+        },
+        {
+            "nombre": "TL-WN781ND - TARJETA  INALAMBRICA*PCI EXPRESS*FREC. 2.4 GHz*N150 *UNA ANTENA EXTERNA REMOVIBLE DE 2DBI*ENCRIPTACION WPA/WPA2*COMPATIBLE CON WINDOWS 7/8",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
             "categoria": "REDES"
         },
         {
