@@ -1,6 +1,56 @@
 {
-    "version": "07212026.21.59",
+    "version": "07242026.22.03",
     "productos": [
+        {
+            "nombre": "LIC-VTO-DMSS - VTO-DMSS LICENCIA BASE PARA ESTACIÓN DE PUERTA VIDEOPORTERO DEPARTAMENTAL/ SOLUCIÓN SIN VTH / DMSS VTO-DMSS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/LIC-VTO-DMSS_342400.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "LIC-VTO-DMSS - VTO-DMSS LICENCIA BASE PARA ESTACIÓN DE PUERTA VIDEOPORTERO DEPARTAMENTAL/ SOLUCIÓN SIN VTH / DMSS VTO-DMSS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "75119A - UGREEN SMART FINDER PACK x2*AUTONOMIA DE 1 AÑO*RECARGABLE MEDIANTE USB-C*BT V5.0*DISEÑADO PARA APPLE*COMPACTO, LIGERO Y SEGURO* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/75119A_217809.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "75119A - UGREEN SMART FINDER PACK x2*AUTONOMIA DE 1 AÑO*RECARGABLE MEDIANTE USB-C*BT V5.0*DISEÑADO PARA APPLE*COMPACTO, LIGERO Y SEGURO*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "75953 - CARGADOR UGREEN 18W GaN CARGA RAPIDA*DISEÑO ULTRA COMPACTO*COMPATIBILIDAD UNIVERSAL*PUERTO USB-A QC3.0/QC2.0*MATERIAL RETARDANTE DE LLAMA*FUNCIONA A 5000MT ALTU - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/75953_408701.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "75953 - CARGADOR UGREEN 18W GaN CARGA RAPIDA*DISEÑO ULTRA COMPACTO*COMPATIBILIDAD UNIVERSAL*PUERTO USB-A QC3.0/QC2.0*MATERIAL RETARDANTE DE LLAMA*FUNCIONA A 5000MT ALTU",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "50505 - ADAPTADOR MULTIPUERTO USB-C a VGA/HDMI*SALIDA DE VIDEO SIMULTANEA*RESOLUCION HDMI:4K @30Hz/VGA: 1080P @60Hz*COMPATIBLE CON LAPTOPS, TABLETS Y SMARTPHONES - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/50505_371742.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "50505 - ADAPTADOR MULTIPUERTO USB-C a VGA/HDMI*SALIDA DE VIDEO SIMULTANEA*RESOLUCION HDMI:4K @30Hz/VGA: 1080P @60Hz*COMPATIBLE CON LAPTOPS, TABLETS Y SMARTPHONES",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "75701B - POWER BANK 10.000mAh 55W NEXODE PRO*CABLE USB-C INTEGRADO DE NYLON TRENZADO 22CM*AUTORIZADA PARA AVIONES(AIRLINE SAFE)*PANTALLA DIGITAL 1,18\"*CARGA TRIPLE SIMUL - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/75701B_775275.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "75701B - POWER BANK 10.000mAh 55W NEXODE PRO*CABLE USB-C INTEGRADO DE NYLON TRENZADO 22CM*AUTORIZADA PARA AVIONES(AIRLINE SAFE)*PANTALLA DIGITAL 1,18\"*CARGA TRIPLE SIMUL",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "75627 - UGREEN DOTS AUDIFONOS INALAMBRICOS*DRIVERS 10mm*SONIDO POTENTE Y AUDIO ESPACIAL*LLAMADAS HD*ENC CANCELACION DE RUIDO AMBIENTAL*BT V6.0*80ms*BATERIA 7H-35H*IPX5 - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/75627_710430.webp",
@@ -433,7 +483,7 @@
         },
         {
             "nombre": "VOL-9V1 - BATERIA ALCALINA 6LR61  9V  1U/PK - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/VOL-9V1_898282.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/VOL-9V1_854630.webp",
             "categoria": "NOVEDADES"
         },
         {
@@ -872,53 +922,8 @@
             "categoria": "NOVEDADES"
         },
         {
-            "nombre": "NT03U505N-128G-32BK - MEMORIA FLASH USB 128GB 3.2*R/W 110MB/s,45MB/s*ROTACION 360°*MATERIAL ABS+METAL - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/NT03U505N-128G-32BK_489386.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "NT03U505N-128G-32BK - MEMORIA FLASH USB 128GB 3.2*R/W 110MB/s,45MB/s*ROTACION 360°*MATERIAL ABS+METAL",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/netac.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "P00715 - TUERCA DE ACCIONAMIENTO *PASO30 *DIAMETRO TORNILLO:5/8\" *MOTORES PIVOTANTES HP DUO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/P00715_212757.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "P00715 - TUERCA DE ACCIONAMIENTO *PASO30 *DIAMETRO TORNILLO:5/8\" *MOTORES PIVOTANTES HP DUO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "F14995-G - MOTOR DESLIZANTE KDZ SPEED HASTA 500 Kgs *MOTOR: 220 VAC 1/3 HP 50HZ *1 CENTRAL WAVE *2 CONTROLES REMOTOS 433 MHZ. *SIN CREMALLERAS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F14995-G_820635.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "F14995-G - MOTOR DESLIZANTE KDZ SPEED HASTA 500 Kgs *MOTOR: 220 VAC 1/3 HP 50HZ *1 CENTRAL WAVE *2 CONTROLES REMOTOS 433 MHZ. *SIN CREMALLERAS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "RP0842 - CHALECO REFLECTIVO COLOR NARANJA TALLA XL CON CIERRE KP - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/RP0842_681195.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "RP0842 - CHALECO REFLECTIVO COLOR NARANJA TALLA XL CON CIERRE KP",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ackerland.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "RP0843 - CHALECO REFLECTIVO NARANJA TALLA XXL CON CIERRE KP - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/RP0843_502843.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "RP0843 - CHALECO REFLECTIVO NARANJA TALLA XXL CON CIERRE KP",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ackerland.webp",
+            "nombre": "Metodos de pago",
+            "imagen": "https://www.digicorp.com.bo/images/payment-methods/LINKSER.svg",
             "categoria": "NOVEDADES"
         },
         {
@@ -1408,7 +1413,7 @@
         },
         {
             "nombre": "Z054 - CABLE UTP CAT5E CCA EXT* ALEACION* 24 AWG*4 PARES* 0.5MM* PASS FLUKE* CHAQUETA SIMPLE* 305 METROS* CARRETE DE MADERA* COLOR NEGRO* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Z054-image-0-1749351246757.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Z054_287369.webp",
             "categoria": "Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores"
         },
         {
@@ -4882,12 +4887,12 @@
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "AM-801 C - PULSADOR DE EMERGENCIA CON SIRENA INCORPORADA 90 dB*SALIDA RELE*TENSION DE FUNCIONAMIENTO 12/24VCC*CONTACTO SECO PARA PANELES DE ALARMA NA*REARMABLE - Iniciar sesión",
+            "nombre": "AM-801 C - PULSADOR DE EMERGENCIA CON SIRENA INCORPORADA Y SALIDA RELE - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AM801C-image-1.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "AM-801 C - PULSADOR DE EMERGENCIA CON SIRENA INCORPORADA 90 dB*SALIDA RELE*TENSION DE FUNCIONAMIENTO 12/24VCC*CONTACTO SECO PARA PANELES DE ALARMA NA*REARMABLE",
+            "nombre": "AM-801 C - PULSADOR DE EMERGENCIA CON SIRENA INCORPORADA Y SALIDA RELE",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
@@ -10102,32 +10107,32 @@
             "categoria": "HERRAMIENTAS Y FERRETERIA"
         },
         {
-            "nombre": "ST6000NM0044 - DISCO DURO NEW PULL 6TB ENTERPRISE*INTERFAZ SATA 6Gb/s*TRABAJO 24/7*7200RPM*TEMPERATURA DE TRABAJO DE 5° A 60°*RE-EMPAQUETADO - Iniciar sesión",
+            "nombre": "ST6000NM0044 - DISCO DURO PULL 6TB ENTERPRISE*INTERFAZ SATA 6Gb/s*TRABAJO 24/7*7200RPM*TEMPERATURA DE TRABAJO DE 5° A 60°*RE-EMPAQUETADO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ST6000N1716996772137.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "ST6000NM0044 - DISCO DURO NEW PULL 6TB ENTERPRISE*INTERFAZ SATA 6Gb/s*TRABAJO 24/7*7200RPM*TEMPERATURA DE TRABAJO DE 5° A 60°*RE-EMPAQUETADO",
+            "nombre": "ST6000NM0044 - DISCO DURO PULL 6TB ENTERPRISE*INTERFAZ SATA 6Gb/s*TRABAJO 24/7*7200RPM*TEMPERATURA DE TRABAJO DE 5° A 60°*RE-EMPAQUETADO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/seagate.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "ST3000NM0053 - DISCO DURO NEW PULL 3TB CONSTELLATION**INTERFAZ SATA 6Gb/s*TRABAJO 24/7*7200RPM*TEMPERATURA DE TRABAJO DE 5° A 60° - Iniciar sesión",
+            "nombre": "ST3000NM0053 - DISCO DURO PULL 3TB CONSTELLATION**INTERFAZ SATA 6Gb/s*TRABAJO 24/7*7200RPM*TEMPERATURA DE TRABAJO DE 5° A 60° - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ST3000N1716997093948.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "ST3000NM0053 - DISCO DURO NEW PULL 3TB CONSTELLATION**INTERFAZ SATA 6Gb/s*TRABAJO 24/7*7200RPM*TEMPERATURA DE TRABAJO DE 5° A 60°",
+            "nombre": "ST3000NM0053 - DISCO DURO PULL 3TB CONSTELLATION**INTERFAZ SATA 6Gb/s*TRABAJO 24/7*7200RPM*TEMPERATURA DE TRABAJO DE 5° A 60°",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/seagate.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "ST500VM000 - DISCO DURO NEW PULL 500GB SEAGATE*RPM 5900 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"RE EMPAQUETADO - Iniciar sesión",
+            "nombre": "ST500VM000 - DISCO DURO PULL 500GB SEAGATE*RPM 5900 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"RE EMPAQUETADO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ST500VM000-image-0-1728056891954.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "ST500VM000 - DISCO DURO NEW PULL 500GB SEAGATE*RPM 5900 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"RE EMPAQUETADO",
+            "nombre": "ST500VM000 - DISCO DURO PULL 500GB SEAGATE*RPM 5900 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"RE EMPAQUETADO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/seagate.webp",
             "categoria": "COMPUTO"
         },
@@ -10142,22 +10147,22 @@
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "HUA723030ALA640 - DISCO DURO NEW PULL 3TB HITACHI ULTRASTAR*ENTERPRISE 7200RPM*FUNCIONAMIENTO 24/7*CACHE 64MB*6GB/s*SOPORTA ARREGLOS RAID - Iniciar sesión",
+            "nombre": "HUA723030ALA640 - DISCO DURO PULL 3TB HITACHI ULTRASTAR*ENTERPRISE 7200RPM*FUNCIONAMIENTO 24/7*CACHE 64MB*6GB/s*SOPORTA ARREGLOS RAID - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HUA723030ALA640-image-0-1751644449046.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "HUA723030ALA640 - DISCO DURO NEW PULL 3TB HITACHI ULTRASTAR*ENTERPRISE 7200RPM*FUNCIONAMIENTO 24/7*CACHE 64MB*6GB/s*SOPORTA ARREGLOS RAID",
+            "nombre": "HUA723030ALA640 - DISCO DURO PULL 3TB HITACHI ULTRASTAR*ENTERPRISE 7200RPM*FUNCIONAMIENTO 24/7*CACHE 64MB*6GB/s*SOPORTA ARREGLOS RAID",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hitachi.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "DT01ABA100V - DISCO DURO NEW PULL TOSHIBA 1TB *RPM 5700*CACHE 32MB *SATA 6.0GB/s *OPTIMIZADO PARA GRABADORES DE ALTO CONSUMO *FUNCION 24/7*RE EMPAQUETADO - Iniciar sesión",
+            "nombre": "DT01ABA100V - DISCO DURO PULL TOSHIBA 1TB *RPM 5700*CACHE 32MB *SATA 6.0GB/s *OPTIMIZADO PARA GRABADORES DE ALTO CONSUMO *FUNCION 24/7*RE EMPAQUETADO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DT01ABA100V-image-0-1732565935985.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "DT01ABA100V - DISCO DURO NEW PULL TOSHIBA 1TB *RPM 5700*CACHE 32MB *SATA 6.0GB/s *OPTIMIZADO PARA GRABADORES DE ALTO CONSUMO *FUNCION 24/7*RE EMPAQUETADO",
+            "nombre": "DT01ABA100V - DISCO DURO PULL TOSHIBA 1TB *RPM 5700*CACHE 32MB *SATA 6.0GB/s *OPTIMIZADO PARA GRABADORES DE ALTO CONSUMO *FUNCION 24/7*RE EMPAQUETADO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/toshiba.webp",
             "categoria": "COMPUTO"
         },
@@ -10192,12 +10197,12 @@
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "ST3500312CS - DISCO DURO NEW PULL SEAGATE 500GB *RPM 5900 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"RE EMPAQUETADO - Iniciar sesión",
+            "nombre": "ST3500312CS - DISCO DURO PULL SEAGATE 500GB *RPM 5900 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"RE EMPAQUETADO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ST35001716825179124.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "ST3500312CS - DISCO DURO NEW PULL SEAGATE 500GB *RPM 5900 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"RE EMPAQUETADO",
+            "nombre": "ST3500312CS - DISCO DURO PULL SEAGATE 500GB *RPM 5900 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"RE EMPAQUETADO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/seagate.webp",
             "categoria": "COMPUTO"
         },
@@ -10212,12 +10217,12 @@
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "HUA723030ALA641 - DISCO DURO 3TB NEW PULL HITACHI 7200RPM*ULTRASTAR 7K3000*64MB CACHE* SATA6Gb/s*RE-EMPAQUETADO - Iniciar sesión",
+            "nombre": "HUA723030ALA641 - DISCO DURO 3TB PULL HITACHI 7200RPM*ULTRASTAR 7K3000*64MB CACHE* SATA6Gb/s*RE-EMPAQUETADO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HUA723030ALA641-image-0-1745352859462.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "HUA723030ALA641 - DISCO DURO 3TB NEW PULL HITACHI 7200RPM*ULTRASTAR 7K3000*64MB CACHE* SATA6Gb/s*RE-EMPAQUETADO",
+            "nombre": "HUA723030ALA641 - DISCO DURO 3TB PULL HITACHI 7200RPM*ULTRASTAR 7K3000*64MB CACHE* SATA6Gb/s*RE-EMPAQUETADO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hitachi.webp",
             "categoria": "COMPUTO"
         },
@@ -10272,12 +10277,12 @@
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "HUS724030ALE641 - DISCO DURO NEW PULL 3TB ULTRASTAR*7200RPM  CACHE 64MB - Iniciar sesión",
+            "nombre": "HUS724030ALE641 - DISCO DURO PULL 3TB ULTRASTAR*7200RPM  CACHE 64MB - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HUS724030ALE641-image-1-15-5-33.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "HUS724030ALE641 - DISCO DURO NEW PULL 3TB ULTRASTAR*7200RPM  CACHE 64MB",
+            "nombre": "HUS724030ALE641 - DISCO DURO PULL 3TB ULTRASTAR*7200RPM  CACHE 64MB",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hitachi.webp",
             "categoria": "COMPUTO"
         },
@@ -10352,12 +10357,12 @@
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "WD5000AVDS - DISCO DURO NEW PULL 500GB WD*RPM 5900 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"RE EMPAQUETADO - Iniciar sesión",
+            "nombre": "WD5000AVDS - DISCO DURO PULL 500GB WD*RPM 5900 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"RE EMPAQUETADO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/WD5000AVDS-image-1-11-2-32.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "WD5000AVDS - DISCO DURO NEW PULL 500GB WD*RPM 5900 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"RE EMPAQUETADO",
+            "nombre": "WD5000AVDS - DISCO DURO PULL 500GB WD*RPM 5900 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"RE EMPAQUETADO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/western.webp",
             "categoria": "COMPUTO"
         },
@@ -10542,12 +10547,12 @@
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "HUA723020ALA641 - DISCO DURO NEW PULL 2TB HITACHI*ENTERPRISE 7200RPM*FUNCIONAMIENTO 24/7*CACHE 64MB*6GB/s*SOPORTA ARREGLOS RAID - Iniciar sesión",
+            "nombre": "HUA723020ALA641 - DISCO DURO PULL 2TB HITACHI*ENTERPRISE 7200RPM*FUNCIONAMIENTO 24/7*CACHE 64MB*6GB/s*SOPORTA ARREGLOS RAID - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HUA723020ALA641-image-1.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "HUA723020ALA641 - DISCO DURO NEW PULL 2TB HITACHI*ENTERPRISE 7200RPM*FUNCIONAMIENTO 24/7*CACHE 64MB*6GB/s*SOPORTA ARREGLOS RAID",
+            "nombre": "HUA723020ALA641 - DISCO DURO PULL 2TB HITACHI*ENTERPRISE 7200RPM*FUNCIONAMIENTO 24/7*CACHE 64MB*6GB/s*SOPORTA ARREGLOS RAID",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hitachi.webp",
             "categoria": "COMPUTO"
         },
@@ -10592,22 +10597,22 @@
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "WD5000AACS - DISCO DURO NEW PULL 500GB WD*SERIE CAVIAR GREEN*7200RPM*CACHE 16MB*SATA 6Gb/s*3.5\"*RE-EMPAQUETADO - Iniciar sesión",
+            "nombre": "WD5000AACS - DISCO DURO PULL 500GB WD*SERIE CAVIAR GREEN*7200RPM*CACHE 16MB*SATA 6Gb/s*3.5\"*RE-EMPAQUETADO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/WD5000AACS-image-1-12-13-14.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "WD5000AACS - DISCO DURO NEW PULL 500GB WD*SERIE CAVIAR GREEN*7200RPM*CACHE 16MB*SATA 6Gb/s*3.5\"*RE-EMPAQUETADO",
+            "nombre": "WD5000AACS - DISCO DURO PULL 500GB WD*SERIE CAVIAR GREEN*7200RPM*CACHE 16MB*SATA 6Gb/s*3.5\"*RE-EMPAQUETADO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/western.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "WD5000AURX - DISCO DURO NEW PULL 500GB WD*SATA 6GB/s*5400RPM*BUFFER SIZE 64MB*OPERACION 24/7*TAZA DE TRANSFERENCIA DE DATOS 600MB/s*RE EMPAQUETADO - Iniciar sesión",
+            "nombre": "WD5000AURX - DISCO DURO PULL 500GB WD*SATA 6GB/s*5400RPM*BUFFER SIZE 64MB*OPERACION 24/7*TAZA DE TRANSFERENCIA DE DATOS 600MB/s*RE EMPAQUETADO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/WD5001716933391299.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "WD5000AURX - DISCO DURO NEW PULL 500GB WD*SATA 6GB/s*5400RPM*BUFFER SIZE 64MB*OPERACION 24/7*TAZA DE TRANSFERENCIA DE DATOS 600MB/s*RE EMPAQUETADO",
+            "nombre": "WD5000AURX - DISCO DURO PULL 500GB WD*SATA 6GB/s*5400RPM*BUFFER SIZE 64MB*OPERACION 24/7*TAZA DE TRANSFERENCIA DE DATOS 600MB/s*RE EMPAQUETADO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/western.webp",
             "categoria": "COMPUTO"
         },
@@ -10622,12 +10627,12 @@
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "WD5000AUDX - DISCO DURO NEW PULL 500GB WD\"*SATA 6GB/s*5400RPM*CACHE 32MB*OPERACION 24/7*RE EMPAQUETADO - Iniciar sesión",
+            "nombre": "WD5000AUDX - DISCO DURO PULL 500GB WD\"*SATA 6GB/s*5400RPM*CACHE 32MB*OPERACION 24/7*RE EMPAQUETADO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/WD5000AUDX-image-1-10-13-14.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "WD5000AUDX - DISCO DURO NEW PULL 500GB WD\"*SATA 6GB/s*5400RPM*CACHE 32MB*OPERACION 24/7*RE EMPAQUETADO",
+            "nombre": "WD5000AUDX - DISCO DURO PULL 500GB WD\"*SATA 6GB/s*5400RPM*CACHE 32MB*OPERACION 24/7*RE EMPAQUETADO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/western.webp",
             "categoria": "COMPUTO"
         },
@@ -10772,12 +10777,12 @@
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "WD5000AVCS - DISCO DURO NEW PULL 500GB WD*RPM 5400 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"*24/7HRS DE FUNCIONAMIENTO*RE EMPAQUETADO - Iniciar sesión",
+            "nombre": "WD5000AVCS - DISCO DURO PULL 500GB WD*RPM 5400 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"*24/7HRS DE FUNCIONAMIENTO*RE EMPAQUETADO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/WD5000AVCS-image-0-1738768561624.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "WD5000AVCS - DISCO DURO NEW PULL 500GB WD*RPM 5400 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"*24/7HRS DE FUNCIONAMIENTO*RE EMPAQUETADO",
+            "nombre": "WD5000AVCS - DISCO DURO PULL 500GB WD*RPM 5400 *BUFFER CACHE 16MB *SATA III *DE BAJO CONSUMO Y SILENCIOSA *3.5\"*24/7HRS DE FUNCIONAMIENTO*RE EMPAQUETADO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/western.webp",
             "categoria": "COMPUTO"
         },
@@ -10902,12 +10907,12 @@
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "DT01ABA050V - DISCO DURO NEW PULL TOSHIBA 500GB*5700RPM*CACHE 32MB*SATA III 6Gbps*FACTOR DE FORMA 3.5\"*RE-EMPAQUETADO - Iniciar sesión",
+            "nombre": "DT01ABA050V - DISCO DURO PULL TOSHIBA 500GB*5700RPM*CACHE 32MB*SATA III 6Gbps*FACTOR DE FORMA 3.5\"*RE-EMPAQUETADO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DT01ABA050V-image-0-1738871189841.webp",
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "DT01ABA050V - DISCO DURO NEW PULL TOSHIBA 500GB*5700RPM*CACHE 32MB*SATA III 6Gbps*FACTOR DE FORMA 3.5\"*RE-EMPAQUETADO",
+            "nombre": "DT01ABA050V - DISCO DURO PULL TOSHIBA 500GB*5700RPM*CACHE 32MB*SATA III 6Gbps*FACTOR DE FORMA 3.5\"*RE-EMPAQUETADO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/toshiba.webp",
             "categoria": "COMPUTO"
         },
