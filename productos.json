@@ -1,16 +1,6 @@
 {
-    "version": "07302026.22.08",
+    "version": "07312026.22.10",
     "productos": [
-        {
-            "nombre": "IPC-K7FN-5V0W-imou - CÁMARA IP WIFI CRUISER SC 5MP *TIPO PT *FULL COLOR *RASTERO INTELIGENTE *AUDIO BIDIRECCIONAL *1 PUERTO RJ45 *MICRO SD HASTA 512GB *PARA EXTERIORES *DISUASIVA - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-K7FN-5V0W-imou_864665.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "IPC-K7FN-5V0W-imou - CÁMARA IP WIFI CRUISER SC 5MP *TIPO PT *FULL COLOR *RASTERO INTELIGENTE *AUDIO BIDIRECCIONAL *1 PUERTO RJ45 *MICRO SD HASTA 512GB *PARA EXTERIORES *DISUASIVA",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/imou.webp",
-            "categoria": "NOVEDADES"
-        },
         {
             "nombre": "SF106P-45-imou - SWITCH POE DE 6 PUERTOS *4 PUERTO POE, 2 UPLINK *45W *ESTANDAR POE 802.3af/at *SOPORTA TX MAX 250M *METALICO *NO ADMINISTRABLE *CERTIFICACION CE - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SF106P-45-imou_854955.webp",
@@ -922,6 +912,16 @@
             "categoria": "NOVEDADES"
         },
         {
+            "nombre": "45224 - CARGADOR UGREEN 100W GaN Nexode S*4 PUERTOS, CARGA 4 DISPOSITIVOS EN SIMULTANEO*3x USB-C, 1x USB-A*COMPATIBILIDAD UNIVERSAL*PROTECCION ELECTRICA INTELIGENTE*GaN - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/45224-image-0-1768830432237.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "45224 - CARGADOR UGREEN 100W GaN Nexode S*4 PUERTOS, CARGA 4 DISPOSITIVOS EN SIMULTANEO*3x USB-C, 1x USB-A*COMPATIBILIDAD UNIVERSAL*PROTECCION ELECTRICA INTELIGENTE*GaN",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
             "nombre": "Metodos de pago",
             "imagen": "https://www.digicorp.com.bo/images/payment-methods/LINKSER.svg",
             "categoria": "NOVEDADES"
@@ -1413,7 +1413,7 @@
         },
         {
             "nombre": "Z054 - CABLE UTP CAT5E CCA EXT* ALEACION* 24 AWG*4 PARES* 0.5MM* PASS FLUKE* CHAQUETA SIMPLE* 305 METROS* CARRETE DE MADERA* COLOR NEGRO* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Z054_287369.webp",
+            "imagen": "https://www.digicorp.com.bo/images/social/digicorp-placeholder.jpg",
             "categoria": "Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores"
         },
         {
@@ -4108,7 +4108,7 @@
         },
         {
             "nombre": "X002 - FOTOCELULA PARA EXTERIORES, PROTECCION PERIMETRAL: 100M, DOS HAZ DE LUZ QUE EVITAN FALSAS ALARMAS, IR, 4CH SELECCIONABLES, ACCESORIOS INCLUIDOS, SALIDA NO/NC. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/X002-image-1.webp",
+            "imagen": "https://www.digicorp.com.bo/images/social/digicorp-placeholder.jpg",
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
