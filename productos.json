@@ -1,6 +1,186 @@
 {
-    "version": "08122026.21.22",
+    "version": "08152026.20.56",
     "productos": [
+        {
+            "nombre": "Archer TX10UB Nano - ADAPTADOR WIFI 6 Y BLUETOOTH* 2-1*  ARCHER TX10UB NANO AX900* BT 5,3*  USB 3,0* COMPATIBLE W10/11* SEGURIDAD WPA3* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ARCHERTX10UBNANO-image-0-1755101833285.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Archer TX10UB Nano - ADAPTADOR WIFI 6 Y BLUETOOTH* 2-1*  ARCHER TX10UB NANO AX900* BT 5,3*  USB 3,0* COMPATIBLE W10/11* SEGURIDAD WPA3*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C212 - CAMARA WIFI TAPO C212*ROTACION 360°*FULL HD 1080P*2 VIAS DE AUDIO*VISION NOCTURNA*DETECCION DE MOVIMIENTO*MODO PROVACIDAD*ALMACENAMIENTO MICRO SD 128GB* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TAPOC212-image-0-1719006592438.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C212 - CAMARA WIFI TAPO C212*ROTACION 360°*FULL HD 1080P*2 VIAS DE AUDIO*VISION NOCTURNA*DETECCION DE MOVIMIENTO*MODO PROVACIDAD*ALMACENAMIENTO MICRO SD 128GB*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C200C - CAMARA WIFI TAPO C200C*ROTACION 360°*FULL HD 1080P*2 VIAS DE AUDIO*VISION NOCTURNA*DETECCION DE MOVIMIENTO*MODO PROVACIDAD*ALMACENAMIENTO MICRO SD 128GB* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TAPOC200C-image-0-1763652081848.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C200C - CAMARA WIFI TAPO C200C*ROTACION 360°*FULL HD 1080P*2 VIAS DE AUDIO*VISION NOCTURNA*DETECCION DE MOVIMIENTO*MODO PROVACIDAD*ALMACENAMIENTO MICRO SD 128GB*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UH9120C - HUB USB-C* 9 EN 1* PUERTO HDMI 4K@60HZ* CARGA RAPIDA DE 100W*TRANFERENCIA DE DATOS A 5 GBPS* RANURAS SD/MICROSD* PLUG& PLAY* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UH9120C-image-1-1755715772114.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UH9120C - HUB USB-C* 9 EN 1* PUERTO HDMI 4K@60HZ* CARGA RAPIDA DE 100W*TRANFERENCIA DE DATOS A 5 GBPS* RANURAS SD/MICROSD* PLUG& PLAY*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C222 - CAMARA WIFI TAPO C222* 2K QHD 4MP (2560X1440 PX)* DETECCION/NOTIFICACION INTELIGENTE IA* DETECCION DE LLANTO DE BEBE* VISION NOCT 10M* INTERIOR* DET MASCOTA* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TAPOC222-image-0-1773375570230.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C222 - CAMARA WIFI TAPO C222* 2K QHD 4MP (2560X1440 PX)* DETECCION/NOTIFICACION INTELIGENTE IA* DETECCION DE LLANTO DE BEBE* VISION NOCT 10M* INTERIOR* DET MASCOTA*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UH6120C - HUB USB-C* 6 EN 1* PUERTO HDMI 4K@60HZ*1 PUERTO GIGA*  USB-3,0* CARGA RAPIDA DE 100W*TRANFERENCIA DE DATOS A 5 GBPS* RANURAS SD/MICROSD* PLUG& PLAY* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UH6120C-image-0-1756150976367.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UH6120C - HUB USB-C* 6 EN 1* PUERTO HDMI 4K@60HZ*1 PUERTO GIGA*  USB-3,0* CARGA RAPIDA DE 100W*TRANFERENCIA DE DATOS A 5 GBPS* RANURAS SD/MICROSD* PLUG& PLAY*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "EAP620 HD - ACCESS POINT WIFI 6 OMADA MESH  AX1800 *INTERIOR* 2,4/5GHZ* 1 PUERTO GIGA* 1800MBPS* MU MIMO* ROAMING DE USUARIOS* HOTSPOT* 16 SSID* PORTAL CAUTIVO* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/EAP620HD-image-0-1761924491273.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "EAP620 HD - ACCESS POINT WIFI 6 OMADA MESH  AX1800 *INTERIOR* 2,4/5GHZ* 1 PUERTO GIGA* 1800MBPS* MU MIMO* ROAMING DE USUARIOS* HOTSPOT* 16 SSID* PORTAL CAUTIVO*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "FPP-T302-I - Capacidad: 300VA/300W • Voltage: 220V • Receptáculo: 2 NEMA 5-15R + 6 DC • Batería LMFP de 236.25Wh (11.25V 21Ah) • Carga solar: MPPT 12-30V, 4A, 64W máx. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/FPP-T302-I_792025.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "FPP-T302-I - Capacidad: 300VA/300W • Voltage: 220V • Receptáculo: 2 NEMA 5-15R + 6 DC • Batería LMFP de 236.25Wh (11.25V 21Ah) • Carga solar: MPPT 12-30V, 4A, 64W máx.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/forza.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "GA0005N - SELECTOR DE FUNCIONES INALAMBRICOS PARA PUERTAS SOCIAL *SELECTOR DE 6 BOTONES - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/GA0005N_396916.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "GA0005N - SELECTOR DE FUNCIONES INALAMBRICOS PARA PUERTAS SOCIAL *SELECTOR DE 6 BOTONES",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "F12653-GCT - MOTOR DESLIZANTE DURATA CONDOMINIO *MOTOR 220V 50HZ 1/2HP CON *1 CENTRAL WAVE. *2 CONTROLES REMOTOS 433MHZ. *PARA PORTONES HASTA 1500Kgs - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F12653-GCT_984222.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "F12653-GCT - MOTOR DESLIZANTE DURATA CONDOMINIO *MOTOR 220V 50HZ 1/2HP CON *1 CENTRAL WAVE. *2 CONTROLES REMOTOS 433MHZ. *PARA PORTONES HASTA 1500Kgs",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "MP20-RYZEN3300U - MINI PC BLACK VIEW 8RAM/256ROM*PROCESADOR AMD RYZEN 330U 3,50GHz*AMPLIABLTE A 2TB*GRAFICOS INTEL 4K*WIFI6*BLUETOOTH*SOPORTA PANTALLA DUAL*ULTRA COMPACTO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MP20-RYZEN3300U_506096.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "MP20-RYZEN3300U - MINI PC BLACK VIEW 8RAM/256ROM*PROCESADOR AMD RYZEN 330U 3,50GHz*AMPLIABLTE A 2TB*GRAFICOS INTEL 4K*WIFI6*BLUETOOTH*SOPORTA PANTALLA DUAL*ULTRA COMPACTO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "KB488L-SP - TECLADO GAMER Y DE OFICINA RGB*108 TECLAS*CONEXION USB*CABLE 1,5M*CON SOPORTE PARA SMARTPHONE - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/KB488L-SP_120988.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "KB488L-SP - TECLADO GAMER Y DE OFICINA RGB*108 TECLAS*CONEXION USB*CABLE 1,5M*CON SOPORTE PARA SMARTPHONE",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TW982-P - AURICULARES INALAMBRICOS ROSA*AUDIO CRYSTAL CLEAR*BT V5.4*ENC REDUCCION DE RUIDO*BATERIA 33HR CON ESTUCHE/7,5HR DE REPRODUCCION*SONIDO IMMERSIVO*ENTRADA USB-C - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TW982-P_409081.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TW982-P - AURICULARES INALAMBRICOS ROSA*AUDIO CRYSTAL CLEAR*BT V5.4*ENC REDUCCION DE RUIDO*BATERIA 33HR CON ESTUCHE/7,5HR DE REPRODUCCION*SONIDO IMMERSIVO*ENTRADA USB-C",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SK929BT - PARLANTE PORTATIL PARA BICICLETAS 5W*RESITENCIA IPX7*BATERIA 6HR*BT,TF,TWS,MANOS LIBRES*BAJO VIRTUAL DSP*EFECTOS RGB*ENTRADA USB-C - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SK929BT_295694.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SK929BT - PARLANTE PORTATIL PARA BICICLETAS 5W*RESITENCIA IPX7*BATERIA 6HR*BT,TF,TWS,MANOS LIBRES*BAJO VIRTUAL DSP*EFECTOS RGB*ENTRADA USB-C",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "M19 - BARRA DE SONIDO GAMER DE ESCRITORIO*DRIVERS 52MM*CONEXION AUX 3.5mm MULTIPLATAFORAS*6W POTENCIA (3Wx2)*LUZ RGB MULTICOLOR*CABLE USB 1,2M - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/M19_736831.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "M19 - BARRA DE SONIDO GAMER DE ESCRITORIO*DRIVERS 52MM*CONEXION AUX 3.5mm MULTIPLATAFORAS*6W POTENCIA (3Wx2)*LUZ RGB MULTICOLOR*CABLE USB 1,2M",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PS100A - PANTALLA ANTIREFLEJO DE ALTA GANANCIA*PROYECCIÓN A LA LUZ DEL DÍA*ADMITE PROYECCION DIRECTA A LUZ DEL DIA*COLOR VIBRANTE - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PS100A_469369.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PS100A - PANTALLA ANTIREFLEJO DE ALTA GANANCIA*PROYECCIÓN A LA LUZ DEL DÍA*ADMITE PROYECCION DIRECTA A LUZ DEL DIA*COLOR VIBRANTE",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PJ235 PRO-EU-BK - PROYECTOR ANDROID 12, 230 LUMENES ANSI*AUTO ENFOQUE Y CORRECCION*RESOLUCION NATIVA HD*SOPORTA 4K*HASTA 150\" DE IMAGEN*8200 LUMENES(230 LUM ANSI)*HDMI-USB-AUX* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PJ235PRO-EU-BK_688701.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PJ235 PRO-EU-BK - PROYECTOR ANDROID 12, 230 LUMENES ANSI*AUTO ENFOQUE Y CORRECCION*RESOLUCION NATIVA HD*SOPORTA 4K*HASTA 150\" DE IMAGEN*8200 LUMENES(230 LUM ANSI)*HDMI-USB-AUX*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "H2037d-WH - AUDIFONO BLANCO GAMER RGB*CONEXION MINI JACK DOBLE + USB*MC OMNIDIRECCIONAL 360°*CABLE 2.1M*DRIVERS 50MM*EFECTO DE LUCES EN LA DIADEMA Y OREJERAS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/H2037d-WH_515230.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "H2037d-WH - AUDIFONO BLANCO GAMER RGB*CONEXION MINI JACK DOBLE + USB*MC OMNIDIRECCIONAL 360°*CABLE 2.1M*DRIVERS 50MM*EFECTO DE LUCES EN LA DIADEMA Y OREJERAS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "SK772BT - BARRA DE SONIDO INALAMBRICA 10W RGB*5Wx2 DOBLE DIAFRAGMA SONIDO ESTEREO*RGB PERSONALIZABLE*CONEXIONES BT/USB/AUX/TF*ENTRADA USB-C*BATERIA 4HR* - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SK772BT_473297.webp",
@@ -169,6 +349,16 @@
         {
             "nombre": "UNAS-2-W - UNIFI UNAS 2* 2 BAHIAS DE  3.5 HDD* SOPORTA RAID 1* 1 PUERTO 2,5G* PUERTO USB-C* BT 4,1* ADPATADOR POE++* RAM 4 GB DISPLAY 1,47\"* CARCASA BLANCO POLICARBONATO*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ubiquiti.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "F12832-G - MOTOR DESLIZANTE KDZ TSI FIT *MOTOR 1/3 HP 220VAC 50HZ *CENTRAL TSI FIT *2 CONTROLES REMOTOS 433MHZ - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F12832-G_553904.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "F12832-G - MOTOR DESLIZANTE KDZ TSI FIT *MOTOR 1/3 HP 220VAC 50HZ *CENTRAL TSI FIT *2 CONTROLES REMOTOS 433MHZ",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
             "categoria": "NOVEDADES"
         },
         {
@@ -732,196 +922,6 @@
             "categoria": "NOVEDADES"
         },
         {
-            "nombre": "45223 - CARGADOR UGREEN 65W Nexode S*TECNOLOGIA GaNINFINITY PATENTADA*3 PUERTOS PARA MAX VBERSATILIDAD*1 USB-A/2 USB-C*CARGAS EN SIMULTANEO*PROTECCION ELECTRICA* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/45223-image-0-1768504809347.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45223 - CARGADOR UGREEN 65W Nexode S*TECNOLOGIA GaNINFINITY PATENTADA*3 PUERTOS PARA MAX VBERSATILIDAD*1 USB-A/2 USB-C*CARGAS EN SIMULTANEO*PROTECCION ELECTRICA*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45224 - CARGADOR UGREEN 100W GaN Nexode S*4 PUERTOS, CARGA 4 DISPOSITIVOS EN SIMULTANEO*3x USB-C, 1x USB-A*COMPATIBILIDAD UNIVERSAL*PROTECCION ELECTRICA INTELIGENTE*GaN - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/45224-image-0-1768830432237.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45224 - CARGADOR UGREEN 100W GaN Nexode S*4 PUERTOS, CARGA 4 DISPOSITIVOS EN SIMULTANEO*3x USB-C, 1x USB-A*COMPATIBILIDAD UNIVERSAL*PROTECCION ELECTRICA INTELIGENTE*GaN",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45114 - COMBO TECLADO+MOUSE INALAMBRICO UGREEN*CONEXION 2.4Ghz CON ALCANCE DE 10M*TECLADO ERGONOMICO EN ESPAÑOL*MOUSE PRECISO Y LIGERO*SENSOR OPTICO 4000DPI* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/45114-image-0-1768598335315.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45114 - COMBO TECLADO+MOUSE INALAMBRICO UGREEN*CONEXION 2.4Ghz CON ALCANCE DE 10M*TECLADO ERGONOMICO EN ESPAÑOL*MOUSE PRECISO Y LIGERO*SENSOR OPTICO 4000DPI*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "25742 - POWER BANK 10000mAh 20W CON CARGA RAPIDA*USB-A 22.5W/USB-C 20W*CARGA SIMULTANEA*PANTALLA LED*COMPACTO Y LIVIANO* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/25742-image-0-1768506320522.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "25742 - POWER BANK 10000mAh 20W CON CARGA RAPIDA*USB-A 22.5W/USB-C 20W*CARGA SIMULTANEA*PANTALLA LED*COMPACTO Y LIVIANO*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "65589B - POWER BANK 20.000mAh 20W UGREEN ROSA*CARGA RAPIDA BIDIRECCIONAL PD 3.0*USB-C ENTRADA Y SALIDA 20W*CARGA 3 EQUIPOS A LA VEZ*2x USB-A / 1x USB-C*PANTALLA DIGITAL - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/65589B-image-0-1768591150125.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "65589B - POWER BANK 20.000mAh 20W UGREEN ROSA*CARGA RAPIDA BIDIRECCIONAL PD 3.0*USB-C ENTRADA Y SALIDA 20W*CARGA 3 EQUIPOS A LA VEZ*2x USB-A / 1x USB-C*PANTALLA DIGITAL",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "65590B - POWER BANK 20.000mAh 20W UGREEN PURPU*CARGA RAPIDA BIDIRECCIONAL PD 3.0*USB-C ENTRADA Y SALIDA 20W*CARGA 3 EQUIPOS A LA VEZ*2x USB-A / 1x USB-C*PANTALLA DIGITAL - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/65590B-image-0-1769549957412.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "65590B - POWER BANK 20.000mAh 20W UGREEN PURPU*CARGA RAPIDA BIDIRECCIONAL PD 3.0*USB-C ENTRADA Y SALIDA 20W*CARGA 3 EQUIPOS A LA VEZ*2x USB-A / 1x USB-C*PANTALLA DIGITAL",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "55653 - CARGADOR DE AUTO UGREEN 75W*CON CABLE RETRACTIL USB-C DE 75CM*CARGA RAPIDA HASTA 75W*1 CABLE USB-C INTEGRADO RETRACTIL/1 PUERTO USB-C/1 PUERTO USB-A*60W LAPTOPS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/55653-image-0-1768406219833.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "55653 - CARGADOR DE AUTO UGREEN 75W*CON CABLE RETRACTIL USB-C DE 75CM*CARGA RAPIDA HASTA 75W*1 CABLE USB-C INTEGRADO RETRACTIL/1 PUERTO USB-C/1 PUERTO USB-A*60W LAPTOPS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "50590 - ADAPTADOR USB-C a MICRO USB 2.0 UGREEN*CARGA RAPIDA EFICIENTE QC 2.0 HASTA 2.4A*TRANSFERENCIA 480Mbps*DISEÑO PORTATIL Y PREMIUM* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/50590-image-0-1768578054011.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "50590 - ADAPTADOR USB-C a MICRO USB 2.0 UGREEN*CARGA RAPIDA EFICIENTE QC 2.0 HASTA 2.4A*TRANSFERENCIA 480Mbps*DISEÑO PORTATIL Y PREMIUM*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45860 - SOPORTE PARA TABLET UGREEN 360°*MULTIANGULOS CON ROTACION HORIZONTAL*COMPATIBILIDAD UNIVERSAL*DISEÑO PLEGABLE, PORTATIL, MATERIAL METALICO PREMIUM*ERGONOMICO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/45860-image-0-1768570001682.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45860 - SOPORTE PARA TABLET UGREEN 360°*MULTIANGULOS CON ROTACION HORIZONTAL*COMPATIBILIDAD UNIVERSAL*DISEÑO PLEGABLE, PORTATIL, MATERIAL METALICO PREMIUM*ERGONOMICO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "35278 - CARGADOR INALAMBRICO 2EN1*MAGNETICO PARA IPHONE+AIRPODS*DISEÑO COMPACTO Y PLEGABLE*POTENCIA 15W PARA TELEFONOS/5W PARA AURICULARES - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/35278-image-0-1768491266788.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "35278 - CARGADOR INALAMBRICO 2EN1*MAGNETICO PARA IPHONE+AIRPODS*DISEÑO COMPACTO Y PLEGABLE*POTENCIA 15W PARA TELEFONOS/5W PARA AURICULARES",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "15817 - CARGADOR ULTRAFINO NEXODE PRO 65W*PUERTOS USB-C x2/USB-A x1*TECNOLOGIA NEXODE PRO GaN*COMPATIBILIDAD UNIVERSAL*MONTAJE DE PARED*ELEGANTE - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/15817-image-0-1768490525343.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "15817 - CARGADOR ULTRAFINO NEXODE PRO 65W*PUERTOS USB-C x2/USB-A x1*TECNOLOGIA NEXODE PRO GaN*COMPATIBILIDAD UNIVERSAL*MONTAJE DE PARED*ELEGANTE",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "35524GI - POWER BANK NEXODE 20.000mAh GENSHIN IMPACT*CARGA ULTRA RAPIDA 100W*PANTALLA TFT INTELIGENTE*SEGURIDAD PREMIUM*COMPATIBILIDAD UNIVERSAL - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/35524GI-image-0-1768515294348.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "35524GI - POWER BANK NEXODE 20.000mAh GENSHIN IMPACT*CARGA ULTRA RAPIDA 100W*PANTALLA TFT INTELIGENTE*SEGURIDAD PREMIUM*COMPATIBILIDAD UNIVERSAL",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TF-GL02 AI - GAFAS BLUETOOTH CON IA*BLUETOOTH V5.4 ALCANCE 10M*CABLE DE CARGA MAGNETICO*BATERIA 5-6hr*RECEPCION DE LLAMADAS, MUSICA Y ASISTENTE CON IA - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TFGL02AI-image-0-1768489146626.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TF-GL02 AI - GAFAS BLUETOOTH CON IA*BLUETOOTH V5.4 ALCANCE 10M*CABLE DE CARGA MAGNETICO*BATERIA 5-6hr*RECEPCION DE LLAMADAS, MUSICA Y ASISTENTE CON IA",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/transformers.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TF-G15-BK - AUDIFONOS TRANSFORMERS RGB GAMER*MICROFONO RETRACTIL*PLUG USB+AUX 3.5mm - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TFG15BK-image-0-1768486445900.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TF-G15-BK - AUDIFONOS TRANSFORMERS RGB GAMER*MICROFONO RETRACTIL*PLUG USB+AUX 3.5mm",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/transformers.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TF-G03-BK - AUDIFONOS INALAMBRICOS GAMER*MULTIPLATAFORMAS COMPATIBLE CON PC/PS5/XBOX/NINTENDO SWITCH/TELEFONOS Y EQUIPOS CON CONEXION AUX 3.5mm*100HR DE BATERIA*MIC RETRACT - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TFG03BK-image-0-1768485463135.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TF-G03-BK - AUDIFONOS INALAMBRICOS GAMER*MULTIPLATAFORMAS COMPATIBLE CON PC/PS5/XBOX/NINTENDO SWITCH/TELEFONOS Y EQUIPOS CON CONEXION AUX 3.5mm*100HR DE BATERIA*MIC RETRACT",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/transformers.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "PFM906-E-V2 - TESTER P/ CAMARAS IPC/ HDCVI/ AHD/ HDTV /CVBS *HDMI IN/OUT *12 VDC 2A Y SLAIDA USB 5V 2A *PANTALLA 7\" HD TACTIL *TESTEO DE CABLE DE RED *TESTEO DE RED - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PFM906EV2-image-0-1767649703078.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "PFM906-E-V2 - TESTER P/ CAMARAS IPC/ HDCVI/ AHD/ HDTV /CVBS *HDMI IN/OUT *12 VDC 2A Y SLAIDA USB 5V 2A *PANTALLA 7\" HD TACTIL *TESTEO DE CABLE DE RED *TESTEO DE RED",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "IPC-PTS2449CP-4E3Z-S-PRO - CAMARA IP PT 4+2MP VARIFOCAL WIZCOLOR *SENSOR 1/1.8\" CMOS + 1/2.8\" CMOS *ZOOM HIBRIDO 6X *SMD 3.0 *AUDIO BIDIRECCIONAL *AUTO TRACKING LITE *IVS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPCPTS2449CP4E3ZSPRO-image-0-1767641758689.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "IPC-PTS2449CP-4E3Z-S-PRO - CAMARA IP PT 4+2MP VARIFOCAL WIZCOLOR *SENSOR 1/1.8\" CMOS + 1/2.8\" CMOS *ZOOM HIBRIDO 6X *SMD 3.0 *AUDIO BIDIRECCIONAL *AUTO TRACKING LITE *IVS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DHI-LM55-F400N-V1 - MONITOR DE 55\" LED UHD *RESOLUCIÓN 4K ULTRA-HD *PANEL VA *TRABAJA 24/7 *TAZA DE REFRESCO 60HZ *T. RESP. 6MS *PARLANTE 2X10W *COLOR NEGRO *CE EMC, CE LVD, CE ERP - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHILM55F400NV1-image-0-1764343794935.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DHI-LM55-F400N-V1 - MONITOR DE 55\" LED UHD *RESOLUCIÓN 4K ULTRA-HD *PANEL VA *TRABAJA 24/7 *TAZA DE REFRESCO 60HZ *T. RESP. 6MS *PARLANTE 2X10W *COLOR NEGRO *CE EMC, CE LVD, CE ERP",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "N129 - PEGAMENTO AISLANTE LÍQUIDO, COLOR BLANCO, 150ML, SOLIDIFICACIÓN: SECADO, TIEMPO DE SECADO: DE 6 A 8 HRS, VIDA ÚTIL: 3 AÑOS, PARA CIRCUITOS, CABLES Y LINEAS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/N129-image-0-1766434118992.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "N129 - PEGAMENTO AISLANTE LÍQUIDO, COLOR BLANCO, 150ML, SOLIDIFICACIÓN: SECADO, TIEMPO DE SECADO: DE 6 A 8 HRS, VIDA ÚTIL: 3 AÑOS, PARA CIRCUITOS, CABLES Y LINEAS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
             "nombre": "Metodos de pago",
             "imagen": "https://www.digicorp.com.bo/images/payment-methods/LINKSER.svg",
             "categoria": "NOVEDADES"
@@ -1222,12 +1222,12 @@
             "categoria": "Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores"
         },
         {
-            "nombre": "N094 - CERRADURA ELÉCTRICA BIDIRECCIONAL *LECTOR RFID 125KHz *ALIMENTACIÓN: 12-18 VDC, *DIM:130x98x41mm *CONTROL REMOTO *3 LLAVES *CUERPO DE ACERO - Iniciar sesión",
+            "nombre": "N094 - CERRADURA BIDIRECCIONAL *LECTOR RFID 125KHz *ALIMENTACIÓN: 12-18 VDC, *DIMENSIONES:130x98x41mm *INCLUYE: CONTROL REMOTO, 3 LLAVES *CUERPO DE ACERO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1721834693084.webp",
             "categoria": "Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores"
         },
         {
-            "nombre": "N094 - CERRADURA ELÉCTRICA BIDIRECCIONAL *LECTOR RFID 125KHz *ALIMENTACIÓN: 12-18 VDC, *DIM:130x98x41mm *CONTROL REMOTO *3 LLAVES *CUERPO DE ACERO",
+            "nombre": "N094 - CERRADURA BIDIRECCIONAL *LECTOR RFID 125KHz *ALIMENTACIÓN: 12-18 VDC, *DIMENSIONES:130x98x41mm *INCLUYE: CONTROL REMOTO, 3 LLAVES *CUERPO DE ACERO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
             "categoria": "Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores"
         },
@@ -4007,12 +4007,12 @@
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
-            "nombre": "IPC10 - El IPC10 está diseñado para recibir datos IP Ethernet de los sistemas Paradox, convertirlos del protocolo IP cifrado Paradox al formato CID - Iniciar sesión",
+            "nombre": "IPC10 - RECEPTORA DE MONITOREO IP*HASTA 5000 CUENTAS ACTIVAS*TECNOLOGIA MQTT*BUFFER DE EVENTOS HASTA 10.000*COMPATIBILIDAD IP180-IP150MQ-PCS265V8*PUERTO DE ETHERNET - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC10-image-1.webp",
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
-            "nombre": "IPC10 - El IPC10 está diseñado para recibir datos IP Ethernet de los sistemas Paradox, convertirlos del protocolo IP cifrado Paradox al formato CID",
+            "nombre": "IPC10 - RECEPTORA DE MONITOREO IP*HASTA 5000 CUENTAS ACTIVAS*TECNOLOGIA MQTT*BUFFER DE EVENTOS HASTA 10.000*COMPATIBILIDAD IP180-IP150MQ-PCS265V8*PUERTO DE ETHERNET",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/paradox.webp",
             "categoria": "ALARMAS Y DOMOTICA"
         },
@@ -4598,7 +4598,7 @@
         },
         {
             "nombre": "SD119-4H-12 - SENSOR DE HUMO DE TECNOLOGÍA FOTOTÉRMICA*HUMO/ CALOR*SE ACTIVA AL DETECTAR LA PRESENCIA DE HUMO O CUANDO  LA TEMPERATURA LLEGA A LOS 57°C* (BASE INCLUÍDA). - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SD111718660739934.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SD111718660746043.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
@@ -4727,12 +4727,12 @@
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "LZ-530 SF - SENSOR DE DETECCION MICROCONTROLADO  INFRARROJO - Iniciar sesión",
+            "nombre": "LZ-530 SF - SENSOR DE DETECCION MICROCONTROLADO  INFRARROJO*INALAMBRICO FRECUENCIA 433,92Mhz*BATERIA  Lithium 3V CR123*PROTECCION 115° - 12 MTS. - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/LZ1718661531238.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "LZ-530 SF - SENSOR DE DETECCION MICROCONTROLADO  INFRARROJO",
+            "nombre": "LZ-530 SF - SENSOR DE DETECCION MICROCONTROLADO  INFRARROJO*INALAMBRICO FRECUENCIA 433,92Mhz*BATERIA  Lithium 3V CR123*PROTECCION 115° - 12 MTS.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
