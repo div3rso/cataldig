@@ -1,6 +1,126 @@
 {
-    "version": "08182026.20.52",
+    "version": "08212026.20.52",
     "productos": [
+        {
+            "nombre": "Premium ZKT0820135 - LICENCIA ANUAL PROFESSIONAL DE BioTime Cloud 2.0. *CAP. USUARIOS: 300 USUARIOS ACTIVOS *CAP DISPOSITIVOS: HASTA 60 EQUIPOS *EVENTOS ANUALES: 750000 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PremiumZKT0820135_516977.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Premium ZKT0820135 - LICENCIA ANUAL PROFESSIONAL DE BioTime Cloud 2.0. *CAP. USUARIOS: 300 USUARIOS ACTIVOS *CAP DISPOSITIVOS: HASTA 60 EQUIPOS *EVENTOS ANUALES: 750000",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Archer BE230 - ROUTER INALAMBRICO TRIBANDA WIFI 7* ARCHER BE230*2.4/5/6 GHZ* USB 3.0* 6 ANTENAS INTERNA* WAN/5 LAN 2.5 GB*RED INVITADOS*VPN* COMPATIBLE EASYMESH* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ARCHERBE230-image-0-1756957464185.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Archer BE230 - ROUTER INALAMBRICO TRIBANDA WIFI 7* ARCHER BE230*2.4/5/6 GHZ* USB 3.0* 6 ANTENAS INTERNA* WAN/5 LAN 2.5 GB*RED INVITADOS*VPN* COMPATIBLE EASYMESH*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C530WS - CAMARA WIFI TAPO C530WB* CAMARA GIRATORIA* 3K QHD 5MP (2880X1620 PX)* DETECCION VEHICULO/MASCOTA* ALARMA DE LUZ/SONIDO* VISION NOCTURNA 30M* IP66* EXTERIOR* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TAPOC530WS-image-0-1755807938633.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C530WS - CAMARA WIFI TAPO C530WB* CAMARA GIRATORIA* 3K QHD 5MP (2880X1620 PX)* DETECCION VEHICULO/MASCOTA* ALARMA DE LUZ/SONIDO* VISION NOCTURNA 30M* IP66* EXTERIOR*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tapo.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ER8411 - ROUTER VPN OMADA* ADMINISTRACION CENTRALIZADA* 10 PUERTOS 10G* 2 SFP+* 2 USB 3,0*  OMADA CLOUD CONTROLLER* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ER8411-image-0-1764096715148.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ER8411 - ROUTER VPN OMADA* ADMINISTRACION CENTRALIZADA* 10 PUERTOS 10G* 2 SFP+* 2 USB 3,0*  OMADA CLOUD CONTROLLER*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TL-SG1218MP - SWITCH OMADA* 16 PUERTOS POE+* 2 SFP* COMPATIBLES IEEE 802.3AF/AT* GESTION DE ENERGIA INTELIGENTE* QOS/IGMP* CARCASA DE METAL* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TLSG1218MP-image-0-1754084811465.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TL-SG1218MP - SWITCH OMADA* 16 PUERTOS POE+* 2 SFP* COMPATIBLES IEEE 802.3AF/AT* GESTION DE ENERGIA INTELIGENTE* QOS/IGMP* CARCASA DE METAL*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TL-SG1008P - SWITCH POE+*8 PUERTOS GIGABIT*POE 802.3 AF/AT *NO REQUIERE CONFIGURACION *POTENCIA POE 124W Y HASTA 30W POR PUERTO* FUENTE DE ALIMENTACION INTERNA - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TLSG1750105918868.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TL-SG1008P - SWITCH POE+*8 PUERTOS GIGABIT*POE 802.3 AF/AT *NO REQUIERE CONFIGURACION *POTENCIA POE 124W Y HASTA 30W POR PUERTO* FUENTE DE ALIMENTACION INTERNA",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TL-SG1005P - SWITCH POE+*5 PUERTOS GIGABIT*POE 802.3 AF/AT *NO REQUIERE CONFIGURACION *POTENCIA POE 124W Y HASTA 30W POR PUERTO* FUENTE DE ALIMENTACION INTERNA - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TLSG1005P-image-1.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TL-SG1005P - SWITCH POE+*5 PUERTOS GIGABIT*POE 802.3 AF/AT *NO REQUIERE CONFIGURACION *POTENCIA POE 124W Y HASTA 30W POR PUERTO* FUENTE DE ALIMENTACION INTERNA",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Deco BE25(3-pack) - SISTEMAS WI-FI 7 MESH/DECO BE25 (3-PACK)* BE3600* 2 PUERTOS 2,5G* ELIMINA ZONAS MUERTAS* ROAMING* CONEXIONES SIN LAG* CONTROL PARENTAL* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DECOBE253PACK-image-0-1756400549132.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Deco BE25(3-pack) - SISTEMAS WI-FI 7 MESH/DECO BE25 (3-PACK)* BE3600* 2 PUERTOS 2,5G* ELIMINA ZONAS MUERTAS* ROAMING* CONEXIONES SIN LAG* CONTROL PARENTAL*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C230 - CAMARA WIFI TAPO C230* 3K QHD 5MP (2688X1520 PX)* DETECCION/NOTIFICACION INTELIGENTE IA* MODO PRIVADO MANUAL* ALARMA DE LUZ/SONIDO* VISION NOCTURNA* INTERIOR* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TAPOC230-image-0-1772118906476.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C230 - CAMARA WIFI TAPO C230* 3K QHD 5MP (2688X1520 PX)* DETECCION/NOTIFICACION INTELIGENTE IA* MODO PRIVADO MANUAL* ALARMA DE LUZ/SONIDO* VISION NOCTURNA* INTERIOR*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Archer TX10UB Nano - ADAPTADOR WIFI 6 Y BLUETOOTH* 2-1*  ARCHER TX10UB NANO AX900* BT 5,3*  USB 3,0* COMPATIBLE W10/11* SEGURIDAD WPA3* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ARCHERTX10UBNANO-image-0-1755101833285.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Archer TX10UB Nano - ADAPTADOR WIFI 6 Y BLUETOOTH* 2-1*  ARCHER TX10UB NANO AX900* BT 5,3*  USB 3,0* COMPATIBLE W10/11* SEGURIDAD WPA3*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C212 - CAMARA WIFI TAPO C212*ROTACION 360°*FULL HD 1080P*2 VIAS DE AUDIO*VISION NOCTURNA*DETECCION DE MOVIMIENTO*MODO PROVACIDAD*ALMACENAMIENTO MICRO SD 128GB* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TAPOC212-image-0-1719006592438.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C212 - CAMARA WIFI TAPO C212*ROTACION 360°*FULL HD 1080P*2 VIAS DE AUDIO*VISION NOCTURNA*DETECCION DE MOVIMIENTO*MODO PROVACIDAD*ALMACENAMIENTO MICRO SD 128GB*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C200C - CAMARA WIFI TAPO C200C*ROTACION 360°*FULL HD 1080P*2 VIAS DE AUDIO*VISION NOCTURNA*DETECCION DE MOVIMIENTO*MODO PROVACIDAD*ALMACENAMIENTO MICRO SD 128GB* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TAPOC200C-image-0-1763652081848.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Tapo C200C - CAMARA WIFI TAPO C200C*ROTACION 360°*FULL HD 1080P*2 VIAS DE AUDIO*VISION NOCTURNA*DETECCION DE MOVIMIENTO*MODO PROVACIDAD*ALMACENAMIENTO MICRO SD 128GB*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "UH9120C - HUB USB-C* 9 EN 1* PUERTO HDMI 4K@60HZ* CARGA RAPIDA DE 100W*TRANFERENCIA DE DATOS A 5 GBPS* RANURAS SD/MICROSD* PLUG& PLAY* - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UH9120C-image-1-1755715772114.webp",
@@ -62,12 +182,12 @@
             "categoria": "NOVEDADES"
         },
         {
-            "nombre": "F12653-GCT - MOTOR DESLIZANTE DURATA CONDOMINIO *MOTOR 220V 50HZ 1/2HP CON *1 CENTRAL WAVE. *2 CONTROLES REMOTOS 433MHZ. *PARA PORTONES HASTA 1500Kgs - Iniciar sesión",
+            "nombre": "F12653-GCT - MOTOR DESLIZANTE DURATA CONDOMINIO *PORTONES HASTA 1500Kgs  *MOTOR 220V 50HZ 1/2HP *1 CENTRAL WAVE. *2 CONTROLES REMOTOS 433MHZ. *COMPATIBLE CREMALLERAS P00197 - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F12653-GCT_984222.webp",
             "categoria": "NOVEDADES"
         },
         {
-            "nombre": "F12653-GCT - MOTOR DESLIZANTE DURATA CONDOMINIO *MOTOR 220V 50HZ 1/2HP CON *1 CENTRAL WAVE. *2 CONTROLES REMOTOS 433MHZ. *PARA PORTONES HASTA 1500Kgs",
+            "nombre": "F12653-GCT - MOTOR DESLIZANTE DURATA CONDOMINIO *PORTONES HASTA 1500Kgs  *MOTOR 220V 50HZ 1/2HP *1 CENTRAL WAVE. *2 CONTROLES REMOTOS 433MHZ. *COMPATIBLE CREMALLERAS P00197",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
             "categoria": "NOVEDADES"
         },
@@ -799,126 +919,6 @@
         {
             "nombre": "HAC-HDW1500TRQN-A-S3DIP - CAMARA HDCVI DOMO 5MP *PLASTICA *DIST. IR 25M *MIC INTEGRADO *LENTE 2.8MM *CVI/CVBS/AHD/TVI *IP50 *DWDR",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "WD44PURZ - DISCO DURO WD PURPURA 4TB 3.5\"*SERIE PURPURA DE VIDEO VIGILANCIA *TRABAJO 24/7 *BAJO CONSUMO Y ALTO RENDIMIENTO *SATA 6 GB/S *5400 RPM * - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/WD44PURZ-image-0-1770123318498.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "WD44PURZ - DISCO DURO WD PURPURA 4TB 3.5\"*SERIE PURPURA DE VIDEO VIGILANCIA *TRABAJO 24/7 *BAJO CONSUMO Y ALTO RENDIMIENTO *SATA 6 GB/S *5400 RPM *",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/western.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MGP-04 4G - MODULO 4G PARA COMUNICACIONES DE CENTRAL*CONEXION EN NUBE*COMPATIBLE CON ACTIVE 20 & M-300 FLEX. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MGP044G-image-0-1761081815842.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MGP-04 4G - MODULO 4G PARA COMUNICACIONES DE CENTRAL*CONEXION EN NUBE*COMPATIBLE CON ACTIVE 20 & M-300 FLEX.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "LZ-510 BLACK - SENSOR DE MOVIMIENTO COLOR NEGRO - CABLEADO*115° DE PROTECCIÓN*12 VOLT ALIMENTACIÓN*CABLEADO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/LZ510BLACK-image-0-1761076572790.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "LZ-510 BLACK - SENSOR DE MOVIMIENTO COLOR NEGRO - CABLEADO*115° DE PROTECCIÓN*12 VOLT ALIMENTACIÓN*CABLEADO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "A50SHILD - DETECTOR DIRECCIONABLE, OPTICO TERMICO CON AISLADOR A50 SONIDO & FLASH. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SHILD-image-0-1768911826138.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "A50SHILD - DETECTOR DIRECCIONABLE, OPTICO TERMICO CON AISLADOR A50 SONIDO & FLASH.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "A50SHID - DETECTOR DIRECCIONABLE,OPTICO TERMICO ANALOGICO CON AISLADOR A50 CON SONIDO. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SHID-image-0-1768832507203.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "A50SHID - DETECTOR DIRECCIONABLE,OPTICO TERMICO ANALOGICO CON AISLADOR A50 CON SONIDO.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "LYONRM02ROJ - CENTRAL LYON REMOTE DE 2 BUCLES*SOPORTA 199 DISPOTIVOS POR CADA BUCLE, EN COLOR ROJO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/LYONRM02ROJ-image-0-1762551038837.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "LYONRM02ROJ - CENTRAL LYON REMOTE DE 2 BUCLES*SOPORTA 199 DISPOTIVOS POR CADA BUCLE, EN COLOR ROJO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "4610021 - DETECTOR DE HUMO AUTONOMO - STAND ALONE DFA 623, BATERIA 9V, NO REQUIERE CABLEADO, CONTIENE BOTON DE PRUEBA Y RESET. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4610021-image-0-1761075377373.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "4610021 - DETECTOR DE HUMO AUTONOMO - STAND ALONE DFA 623, BATERIA 9V, NO REQUIERE CABLEADO, CONTIENE BOTON DE PRUEBA Y RESET.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "4610049 - DETECTOR DE TEMPERATURA DIRECCIONABLE DTE 523*2 HILOS*USO INTERNO*TENSION DE FUNCIONAMIENTO 20 A 30 VDC*TERMICO/TERMOVELOCIMETRICO. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4610049-image-0-1769525644905.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "4610049 - DETECTOR DE TEMPERATURA DIRECCIONABLE DTE 523*2 HILOS*USO INTERNO*TENSION DE FUNCIONAMIENTO 20 A 30 VDC*TERMICO/TERMOVELOCIMETRICO.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "65155B - CARGADOR UGREEN GaN 45W ULTRA RAPIDO*3 PUERTOS INTELIGENTES 2x USB-C + 1x USB-A*CARGA 3 DISP EN SIMULTANEO*ULTRA LIGERO 55g*COMPATIBILIDAD UNIVERSAL* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/65155B-image-0-1768831453037.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "65155B - CARGADOR UGREEN GaN 45W ULTRA RAPIDO*3 PUERTOS INTELIGENTES 2x USB-C + 1x USB-A*CARGA 3 DISP EN SIMULTANEO*ULTRA LIGERO 55g*COMPATIBILIDAD UNIVERSAL*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45223 - CARGADOR UGREEN 65W Nexode S*TECNOLOGIA GaNINFINITY PATENTADA*3 PUERTOS PARA MAX VBERSATILIDAD*1 USB-A/2 USB-C*CARGAS EN SIMULTANEO*PROTECCION ELECTRICA* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/45223-image-0-1768504809347.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45223 - CARGADOR UGREEN 65W Nexode S*TECNOLOGIA GaNINFINITY PATENTADA*3 PUERTOS PARA MAX VBERSATILIDAD*1 USB-A/2 USB-C*CARGAS EN SIMULTANEO*PROTECCION ELECTRICA*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45224 - CARGADOR UGREEN 100W GaN Nexode S*4 PUERTOS, CARGA 4 DISPOSITIVOS EN SIMULTANEO*3x USB-C, 1x USB-A*COMPATIBILIDAD UNIVERSAL*PROTECCION ELECTRICA INTELIGENTE*GaN - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/45224-image-0-1768830432237.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45224 - CARGADOR UGREEN 100W GaN Nexode S*4 PUERTOS, CARGA 4 DISPOSITIVOS EN SIMULTANEO*3x USB-C, 1x USB-A*COMPATIBILIDAD UNIVERSAL*PROTECCION ELECTRICA INTELIGENTE*GaN",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45114 - COMBO TECLADO+MOUSE INALAMBRICO UGREEN*CONEXION 2.4Ghz CON ALCANCE DE 10M*TECLADO ERGONOMICO EN ESPAÑOL*MOUSE PRECISO Y LIGERO*SENSOR OPTICO 4000DPI* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/45114-image-0-1768598335315.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "45114 - COMBO TECLADO+MOUSE INALAMBRICO UGREEN*CONEXION 2.4Ghz CON ALCANCE DE 10M*TECLADO ERGONOMICO EN ESPAÑOL*MOUSE PRECISO Y LIGERO*SENSOR OPTICO 4000DPI*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
             "categoria": "NOVEDADES"
         },
         {
@@ -3497,16 +3497,6 @@
             "categoria": "CONTROL DE ACCESO"
         },
         {
-            "nombre": "SATURN S1000 - MOLINETE TIPO SWING *PUERTA ACRILICO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SATURNS1000-image-0-1749238464597.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "SATURN S1000 - MOLINETE TIPO SWING *PUERTA ACRILICO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
             "nombre": "A00514 - MODULO DE AUTOMATIZACIÓN WIFI 4 CANALES *APERTURA Y CIERRE DE PORTONES *IDENTIFICADOR DE ESTADO ABIERTO O CERRADO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A1720811525710.webp",
             "categoria": "CONTROL DE ACCESO"
@@ -3524,6 +3514,16 @@
         {
             "nombre": "C775 - BRACKET ZL P/CERRADURA 180 KG  *MATERIAL ALUMINIO DE ALTA RESISTENCIA, ACABADO CHORRO DE ARENA *PARA: PUERTAS DE MADERA/BLINDEX/ALUMINIO/METAL",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "FR1500S - LECTOR DE HUELLA DIGITAL SILKID + LECTOR RFID 125 KHZ *COMUNICACION:RS845 *COMPATIBLE CON LA SERIE INBIO *ALIMENTACIÓN 12V 0.8A (NO INCLUYE) - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/FR1720559391362.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "FR1500S - LECTOR DE HUELLA DIGITAL SILKID + LECTOR RFID 125 KHZ *COMUNICACION:RS845 *COMPATIBLE CON LA SERIE INBIO *ALIMENTACIÓN 12V 0.8A (NO INCLUYE)",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
             "categoria": "CONTROL DE ACCESO"
         },
         {
@@ -4442,6 +4442,16 @@
             "categoria": "SISTEMAS ANTIHURTO"
         },
         {
+            "nombre": "D903/C-B1-1010MM - DESTRABADOR SUPER LOCK PARA TAG AM Y TAG RF CON MAYOR FUERZA DE DESTRABAMIENTO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/D903CB11010MM-image-1.webp",
+            "categoria": "SISTEMAS ANTIHURTO"
+        },
+        {
+            "nombre": "D903/C-B1-1010MM - DESTRABADOR SUPER LOCK PARA TAG AM Y TAG RF CON MAYOR FUERZA DE DESTRABAMIENTO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/century.webp",
+            "categoria": "SISTEMAS ANTIHURTO"
+        },
+        {
             "nombre": "1041 - CERCA ELECTRICA PARA GANADO, SUPER TURBO 100 KM,  FUNCIONA CON  BAT 12V, ALCANCE 16.000M, 8 JOULE, TENSION DE SALIDA 9.000V - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1041-image-0-1737643433114.webp",
             "categoria": "PROTECCION PERIMETRAL"
@@ -4642,6 +4652,16 @@
             "categoria": "PROTECCION PERIMETRAL"
         },
         {
+            "nombre": "ECR 18i - CERCA ELECTRICA INDUSTRIAL A CONTROL REMOTO Energía de pulso de salida: 4 Joules Tensión de salida en abierto de 18.000V Alambrado 0,6mm ? 5.000m lineales - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ECR18I-image-1.webp",
+            "categoria": "PROTECCION PERIMETRAL"
+        },
+        {
+            "nombre": "ECR 18i - CERCA ELECTRICA INDUSTRIAL A CONTROL REMOTO Energía de pulso de salida: 4 Joules Tensión de salida en abierto de 18.000V Alambrado 0,6mm ? 5.000m lineales",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
+            "categoria": "PROTECCION PERIMETRAL"
+        },
+        {
             "nombre": "SIRAYL - SIRENA DIRECCIONABLE* SE INSTALA COMO UN ELEMENTO MAS DEL BUCLE*SU INTENSIDAD SONORA ES DE 95/105 dB*INCLUYE LUZ LED. - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SIRAYL-image-1.webp",
             "categoria": "DETECCION DE INCENDIO"
@@ -4789,6 +4809,16 @@
         {
             "nombre": "W030 - SIRENA CON LUZ ESTROBO DE 3 SONIDOS COLOR ROJO*SONIDO DE 88 DB*ALIMENTACION 12V/24V, FLASH 65 VECES POR MIN",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "LYONRM02ROJ - CENTRAL LYON REMOTE DE 2 BUCLES*SOPORTA 199 DISPOTIVOS POR CADA BUCLE, EN COLOR ROJO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/LYONRM02ROJ-image-0-1762551038837.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "LYONRM02ROJ - CENTRAL LYON REMOTE DE 2 BUCLES*SOPORTA 199 DISPOTIVOS POR CADA BUCLE, EN COLOR ROJO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
@@ -4972,6 +5002,16 @@
             "categoria": "DETECCION DE INCENDIO"
         },
         {
+            "nombre": "A50SHID - DETECTOR DIRECCIONABLE,OPTICO TERMICO ANALOGICO CON AISLADOR A50 CON SONIDO. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SHID-image-0-1768832507203.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A50SHID - DETECTOR DIRECCIONABLE,OPTICO TERMICO ANALOGICO CON AISLADOR A50 CON SONIDO.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
             "nombre": "SVL4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SVL4-image-0-1747430678277.webp",
             "categoria": "DETECCION DE INCENDIO"
@@ -5058,6 +5098,16 @@
         },
         {
             "nombre": "CR3 - MANGUERA PARA EXTINGUIR INCENDIO DE 25MM DE DIAMETRO Y 20M DE EXTENSION",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A50SHILD - DETECTOR DIRECCIONABLE, OPTICO TERMICO CON AISLADOR A50 SONIDO & FLASH. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SHILD-image-0-1768911826138.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A50SHILD - DETECTOR DIRECCIONABLE, OPTICO TERMICO CON AISLADOR A50 SONIDO & FLASH.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
@@ -5258,7 +5308,7 @@
         },
         {
             "nombre": "AP362E - ACCESS POINT WIFI 6 AX3000* FREC.2.4 /5GHZ* MU-MIMO 2x2* INTERIOR* SOPORTA TRANSFERENCIA HASTA 1,2G* 1 PUERTO GIGA* (SIN INYECTO POE)* HASTA 100 USUARIOS*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei/ekit.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
             "categoria": "REDES"
         },
         {
@@ -5298,7 +5348,7 @@
         },
         {
             "nombre": "S310-24P4X - SWITCH GIGABIT POE EKIT  ADMINISTRABLE* SERIE S310* 24 PUERTOS GIGAS* 4 SFP+* POTENCIA 400W* CAPA 3+* RACK 1U* (QoS)* CARCASA METALICA*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei/ekit.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
             "categoria": "REDES"
         },
         {
@@ -5388,7 +5438,7 @@
         },
         {
             "nombre": "AP361 - ACCESS POINT WIFI 6 AX1775* FREC.2.4 /5GHZ* MU-MIMO 2x2* INTERIOR* SOPORTA TRANSFERENCIA HASTA 1,2G* 1 PUERTO GIGA* (SIN INYECTO POE)* HASTA 80 USUARIOS*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei/ekit.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
             "categoria": "REDES"
         },
         {
@@ -5578,7 +5628,7 @@
         },
         {
             "nombre": "AP761 - ACCESS POINT WIFI 6 AX1800* FREC.2.4 /5/GHZ* MU-MIMO 2x2* EXTERIOR IP68* 1 GE/1 SFP* USB*  (SIN INYECTOR POE)* HASTA 120 USUARIOS*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei/ekit.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
             "categoria": "REDES"
         },
         {
@@ -5818,7 +5868,7 @@
         },
         {
             "nombre": "AP661 - ACCESS POINT WIFI 6 AX6575* FREC.2.4 /5/5GHZ* MU-MIMO 2x2* INTERIOR* 1 GE/1 2.5 GE* USB*  (SIN INYECTOR POE)* HASTA 300 USUARIOS*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei/ekit.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
             "categoria": "REDES"
         },
         {
@@ -5878,7 +5928,7 @@
         },
         {
             "nombre": "S310-24T4X - SWITCH GIGABIT EKIT  ADMINISTRABLE* SERIE S310* 24 PUERTOS GIGAS* 4 SFP+* CAPA 3+* RACK 1U* (QoS)* CARCASA METALICA*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei/ekit.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
             "categoria": "REDES"
         },
         {
@@ -6782,12 +6832,32 @@
             "categoria": "TELEFONIA"
         },
         {
+            "nombre": "4610021 - DETECTOR DE HUMO AUTONOMO - STAND ALONE DFA 623, BATERIA 9V, NO REQUIERE CABLEADO, CONTIENE BOTON DE PRUEBA Y RESET. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4610021-image-0-1761075377373.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "4610021 - DETECTOR DE HUMO AUTONOMO - STAND ALONE DFA 623, BATERIA 9V, NO REQUIERE CABLEADO, CONTIENE BOTON DE PRUEBA Y RESET.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
             "nombre": "4750031 - ROUTER INALAMBRICO COORPORATIVO-HOT SPOT 300*SOPORTA HASTA 60 USUARIOS*CHECK-INS FACEBOOK* - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4750031-image-1.webp",
             "categoria": "TELEFONIA"
         },
         {
             "nombre": "4750031 - ROUTER INALAMBRICO COORPORATIVO-HOT SPOT 300*SOPORTA HASTA 60 USUARIOS*CHECK-INS FACEBOOK*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "4610049 - DETECTOR DE TEMPERATURA DIRECCIONABLE DTE 523*2 HILOS*USO INTERNO*TENSION DE FUNCIONAMIENTO 20 A 30 VDC*TERMICO/TERMOVELOCIMETRICO. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4610049-image-0-1769525644905.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "4610049 - DETECTOR DE TEMPERATURA DIRECCIONABLE DTE 523*2 HILOS*USO INTERNO*TENSION DE FUNCIONAMIENTO 20 A 30 VDC*TERMICO/TERMOVELOCIMETRICO.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
             "categoria": "TELEFONIA"
         },
@@ -6862,6 +6932,16 @@
             "categoria": "TELEFONIA"
         },
         {
+            "nombre": "GXV3380 - TELEFONO IP ANDROID *16 LINEAS SIP *PUERTO GIGAS* PANTALLA LCD (120X800)* WIFI *BLUETOOTH *SOPORTA POE AT/AF *CAMARA 2 MP*SALIDA MINI-HDMI * ANDROID 7.0* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/GXV3380-image-1.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "GXV3380 - TELEFONO IP ANDROID *16 LINEAS SIP *PUERTO GIGAS* PANTALLA LCD (120X800)* WIFI *BLUETOOTH *SOPORTA POE AT/AF *CAMARA 2 MP*SALIDA MINI-HDMI * ANDROID 7.0*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/grandstream.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
             "nombre": "4543510 - MODULO DE LINHA TELEFONICA FXO 8000, Expansor RING TIP DTMF Hace llamadas Ideal para uso con comunicadores universales Compatible con AMT 2018 - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4543510-image-0-1737397629081.webp",
             "categoria": "TELEFONIA"
@@ -6872,13 +6952,23 @@
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "GXP2200EXT - EXTENSION DE TECLADO PARA GXP2140-2170-GXV3240 *TECLAS BLF *TOUCH SCREEN *PANTALLA DE 128X384 *20 BOTONES PROGRAMABLES *HASTA 4 MODULOS *160 CONTACTOS* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/GXP2200EXT-image-1.webp",
+            "nombre": "M5-3C-120W - INTERRUPTOR INTELIGENTE DE 3 GANG*COLOR BLANCO*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/M53C120W-image-0-1769808910267.webp",
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "GXP2200EXT - EXTENSION DE TECLADO PARA GXP2140-2170-GXV3240 *TECLAS BLF *TOUCH SCREEN *PANTALLA DE 128X384 *20 BOTONES PROGRAMABLES *HASTA 4 MODULOS *160 CONTACTOS*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/grandstream.webp",
+            "nombre": "M5-3C-120W - INTERRUPTOR INTELIGENTE DE 3 GANG*COLOR BLANCO*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "SWV-NH - VALVULA DE AGUA INTELIGENTE ZIGBEE*IP55*DIMENSION 152x100x46mm*COLOR NEGRO*MATERIAL PC+ABS* PRESION 0,06-0,8 MPa*REQUIERE HUB ZIGBEE - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SWVNH-image-0-1770214325116.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "SWV-NH - VALVULA DE AGUA INTELIGENTE ZIGBEE*IP55*DIMENSION 152x100x46mm*COLOR NEGRO*MATERIAL PC+ABS* PRESION 0,06-0,8 MPa*REQUIERE HUB ZIGBEE",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
             "categoria": "TELEFONIA"
         },
         {
@@ -6892,12 +6982,12 @@
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "ZBMINIL2 - INTERRUPTOR INTELIGENTE EXTREME ZIGBEE*NO REQUIERE NEUTRO*DIMENSION 39,5x32x18,4mm*MATERIAL PC V0*Zigbee 3.0*REQUIERE HUB ZIGBEE - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZBMINIL2-image-0-1770219192303.webp",
+            "nombre": "CONTROLADOR DE ESCENAS SWITCHMAN R5*ALIMENTACION 2 PILAS DE 3 V* BATERIA CR2032*MATERIAL PC V0*DIMENSIONES 86 x 86 x 13,5 mm*GRIS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/R5-image-0-1770129156463.webp",
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "ZBMINIL2 - INTERRUPTOR INTELIGENTE EXTREME ZIGBEE*NO REQUIERE NEUTRO*DIMENSION 39,5x32x18,4mm*MATERIAL PC V0*Zigbee 3.0*REQUIERE HUB ZIGBEE",
+            "nombre": "CONTROLADOR DE ESCENAS SWITCHMAN R5*ALIMENTACION 2 PILAS DE 3 V* BATERIA CR2032*MATERIAL PC V0*DIMENSIONES 86 x 86 x 13,5 mm*GRIS",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
             "categoria": "TELEFONIA"
         },
@@ -6912,12 +7002,12 @@
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "MINIR4 - INTERRUPTOR MINI EXTREME WIFI*Wifi IEEE 802.11b/g/n 2,4 GHz*100-240 V~50/60 Hz 10 A máx*DIMENSIONES 39,5 x 33 x 16,8 mm - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MINIR4-image-0-1770045471754.webp",
+            "nombre": "S-MATE2 - INTERRUPTOR INTELIGENTE POR BATERIA*Extreme Switch Mate | S-MATE2*WIFI 2.4G*DIMENSIONES 40.3x37.4x18.3mm*BATERIA CR2477*TEMPERATURA DE TRABAJO -10C+40C - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SMATE2-image-0-1770132545424.webp",
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "MINIR4 - INTERRUPTOR MINI EXTREME WIFI*Wifi IEEE 802.11b/g/n 2,4 GHz*100-240 V~50/60 Hz 10 A máx*DIMENSIONES 39,5 x 33 x 16,8 mm",
+            "nombre": "S-MATE2 - INTERRUPTOR INTELIGENTE POR BATERIA*Extreme Switch Mate | S-MATE2*WIFI 2.4G*DIMENSIONES 40.3x37.4x18.3mm*BATERIA CR2477*TEMPERATURA DE TRABAJO -10C+40C",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
             "categoria": "TELEFONIA"
         },
@@ -6932,33 +7022,13 @@
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "M5-2C-120 - INTERRUPTOR INTELIGENTE DE 2 GANG*COLOR GRIS*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/M52C120-image-0-1769806019621.webp",
+            "nombre": "SNZB-02D - SENSOR INTELIGENTE DE TEMPERATURA & HUMEDAD ZIGBEE*COLOR BLANCO*BATERIA CR2450(3V)*Zigbee 3.0*MATERIAL CARCASA PC+LCD*REQUIERE HUB ZIGBEE. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SNZB02D-image-0-1770147764583.webp",
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "M5-2C-120 - INTERRUPTOR INTELIGENTE DE 2 GANG*COLOR GRIS*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz",
+            "nombre": "SNZB-02D - SENSOR INTELIGENTE DE TEMPERATURA & HUMEDAD ZIGBEE*COLOR BLANCO*BATERIA CR2450(3V)*Zigbee 3.0*MATERIAL CARCASA PC+LCD*REQUIERE HUB ZIGBEE.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "ZBM5-1C-120W - INTERRUPTOR 1 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZBM51C120W-image-0-1770234327856.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "ZBM5-1C-120W - INTERRUPTOR 1 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4090400 - TELEFONO TC20 ANALOGICO*TELEFONO ALAMBRICO BASICO UNIVERSAL*GRIS ARTICO* TECLADO ILUMINADO *SOPORTE PARA PARED O MESA *CABLE CONECTADO DIRECTAMENTE - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4090400-image-0-1731449776005.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4090400 - TELEFONO TC20 ANALOGICO*TELEFONO ALAMBRICO BASICO UNIVERSAL*GRIS ARTICO* TECLADO ILUMINADO *SOPORTE PARA PARED O MESA *CABLE CONECTADO DIRECTAMENTE",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
             "categoria": "TELEFONIA"
         },
         {
