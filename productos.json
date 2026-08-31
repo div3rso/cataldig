@@ -1,6 +1,16 @@
 {
-    "version": "08282026.04.20",
+    "version": "08302026.22.46",
     "productos": [
+        {
+            "nombre": "IPC-C32EN-R0-imou - CAMARA IP WIFI CUE 3MP *AUDIO BIDIRECCIONAL *PARA INTERIOR *SIRENA INTEGRADA *DETECCION DE PERSONAS *RANURA MICRO SD HASTA 128GB *PLASTICO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-C32EN-R0-imou_883784.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "IPC-C32EN-R0-imou - CAMARA IP WIFI CUE 3MP *AUDIO BIDIRECCIONAL *PARA INTERIOR *SIRENA INTEGRADA *DETECCION DE PERSONAS *RANURA MICRO SD HASTA 128GB *PLASTICO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/imou.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "IPC-S3EN-5V0W-0280B-imou - CAMARA WIFI BULLET 3 DE 5MP FULL COLOR *IMOU SENSE *DETEC. HUMANOS Y VEHICULOS *IP67 *AUDIO DOBLE VIA *SLOT MICRO SD HASTA 256GB *PLASTICA/METAL - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-S3EN-5V0W-0280B-imou_975430.webp",
@@ -908,16 +918,6 @@
         },
         {
             "nombre": "Tapo C222 - CAMARA WIFI TAPO C222* 2K QHD 4MP (2560X1440 PX)* DETECCION/NOTIFICACION INTELIGENTE IA* DETECCION DE LLANTO DE BEBE* VISION NOCT 10M* INTERIOR* DET MASCOTA*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UH6120C - HUB USB-C* 6 EN 1* PUERTO HDMI 4K@60HZ*1 PUERTO GIGA*  USB-3,0* CARGA RAPIDA DE 100W*TRANFERENCIA DE DATOS A 5 GBPS* RANURAS SD/MICROSD* PLUG& PLAY* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UH6120C-image-0-1756150976367.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UH6120C - HUB USB-C* 6 EN 1* PUERTO HDMI 4K@60HZ*1 PUERTO GIGA*  USB-3,0* CARGA RAPIDA DE 100W*TRANFERENCIA DE DATOS A 5 GBPS* RANURAS SD/MICROSD* PLUG& PLAY*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
             "categoria": "NOVEDADES"
         },
@@ -9259,6 +9259,16 @@
         {
             "nombre": "MP60UB - MINI AMPLIFICADOR  POTENCIA NOMINAL 60W, 35W SALIDA DE ALTAVOZ 100v o 70v 4-16 OHMIOS REPRODUCTOR MP3 RADIO FM BLUETOOTH 2 ENTRADA DE MIC 1 ENTRADA EMC",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dsppa.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "DS-W-P15B-MINI - RANGO DE DETECCIÓN 12 MTS, ANGULO DE DETECCIÓN 180 GRADOS , VOLTAJE 220-240V/AC - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DSWP15BMINI-image-1.webp",
+            "categoria": "ILUMINACION Y SONIDO"
+        },
+        {
+            "nombre": "DS-W-P15B-MINI - RANGO DE DETECCIÓN 12 MTS, ANGULO DE DETECCIÓN 180 GRADOS , VOLTAJE 220-240V/AC",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
             "categoria": "ILUMINACION Y SONIDO"
         },
         {
