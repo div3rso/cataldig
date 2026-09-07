@@ -1,6 +1,26 @@
 {
-    "version": "09032026.22.21",
+    "version": "09062026.22.14",
     "productos": [
+        {
+            "nombre": "UDR7 - CLOUD GATEWAY UNIFI DREAM ROUTER 7* 1 WAN 2.5G* 1SFP+* 3 LAN 2.5G (1 POE)* FREC. 2.4/5/6 GHZ* MIMO 2X2*FIREWALL* USUARIOS SIMULTANEOS +300* VPN* LICENCIA FREE* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UDR7_458321.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UDR7 - CLOUD GATEWAY UNIFI DREAM ROUTER 7* 1 WAN 2.5G* 1SFP+* 3 LAN 2.5G (1 POE)* FREC. 2.4/5/6 GHZ* MIMO 2X2*FIREWALL* USUARIOS SIMULTANEOS +300* VPN* LICENCIA FREE*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ubiquiti.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UA-CARD-W-10 - TARJETA DE ACCESO NFC* FREC 13,56* CIFRADO MULTICAPA* ASIGNACION A USUARIOS Y VISITANTES* COLOR NEGRA* PROTOCOLO MIFARE DESFIRE EV3* PAQUETE DE 10 UND* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UA-CARD-W-10_211810.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UA-CARD-W-10 - TARJETA DE ACCESO NFC* FREC 13,56* CIFRADO MULTICAPA* ASIGNACION A USUARIOS Y VISITANTES* COLOR NEGRA* PROTOCOLO MIFARE DESFIRE EV3* PAQUETE DE 10 UND*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ubiquiti.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "IPC-C32EN-R0-imou - CAMARA IP WIFI CUE 3MP *AUDIO BIDIRECCIONAL *PARA INTERIOR *SIRENA INTEGRADA *DETECCION DE PERSONAS *RANURA MICRO SD HASTA 128GB *PLASTICO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-C32EN-R0-imou_883784.webp",
@@ -898,26 +918,6 @@
         },
         {
             "nombre": "Tapo C200C - CAMARA WIFI TAPO C200C*ROTACION 360°*FULL HD 1080P*2 VIAS DE AUDIO*VISION NOCTURNA*DETECCION DE MOVIMIENTO*MODO PROVACIDAD*ALMACENAMIENTO MICRO SD 128GB*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UH9120C - HUB USB-C* 9 EN 1* PUERTO HDMI 4K@60HZ* CARGA RAPIDA DE 100W*TRANFERENCIA DE DATOS A 5 GBPS* RANURAS SD/MICROSD* PLUG& PLAY* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UH9120C-image-1-1755715772114.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UH9120C - HUB USB-C* 9 EN 1* PUERTO HDMI 4K@60HZ* CARGA RAPIDA DE 100W*TRANFERENCIA DE DATOS A 5 GBPS* RANURAS SD/MICROSD* PLUG& PLAY*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "Tapo C222 - CAMARA WIFI TAPO C222* 2K QHD 4MP (2560X1440 PX)* DETECCION/NOTIFICACION INTELIGENTE IA* DETECCION DE LLANTO DE BEBE* VISION NOCT 10M* INTERIOR* DET MASCOTA* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TAPOC222-image-0-1773375570230.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "Tapo C222 - CAMARA WIFI TAPO C222* 2K QHD 4MP (2560X1440 PX)* DETECCION/NOTIFICACION INTELIGENTE IA* DETECCION DE LLANTO DE BEBE* VISION NOCT 10M* INTERIOR* DET MASCOTA*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
             "categoria": "NOVEDADES"
         },
