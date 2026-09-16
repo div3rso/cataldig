@@ -1,6 +1,96 @@
 {
-    "version": "09122026.22.29",
+    "version": "09152026.22.44",
     "productos": [
+        {
+            "nombre": "N133 - CERRADURA ELÉCTRICA CON BOTON - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/N133_841418.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "N133 - CERRADURA ELÉCTRICA CON BOTON",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "N132 - CERRADURA ELÉCTRICA DE ACERO INOXIDABLE - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/N132_320835.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "N132 - CERRADURA ELÉCTRICA DE ACERO INOXIDABLE",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "N131 - CERRADURA ELÉCTRICA DE SOBREPONER - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/N131_600365.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "N131 - CERRADURA ELÉCTRICA DE SOBREPONER",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZKB203S - LECTOR 2D (QR) INALAMBRICO *BATERIA 2000mAh *CON BASE *DPI: 640x480 PIXELES *CAMPO LECTURA: HORIZONTAL 41°; VERTICAL 31°COMUNICACIÓN: 2,4GHz INALAMBRICO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKB203S-image-0-1716502366170.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZKB203S - LECTOR 2D (QR) INALAMBRICO *BATERIA 2000mAh *CON BASE *DPI: 640x480 PIXELES *CAMPO LECTURA: HORIZONTAL 41°; VERTICAL 31°COMUNICACIÓN: 2,4GHz INALAMBRICO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZKP8013 - IMPRESORA ETIQUETA TERMICA *COLOR: BLANCA *RESOLUCION DE IMPRESIÓN: 203DPI *SALIDA: DC 24V/2,5A *INTERFAZ: USB *ANCHO MÁX DE IMPRESIÓN: 108MM *LARGO MÁX IMPRES - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKP8013-image-0-1716845136129.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZKP8013 - IMPRESORA ETIQUETA TERMICA *COLOR: BLANCA *RESOLUCION DE IMPRESIÓN: 203DPI *SALIDA: DC 24V/2,5A *INTERFAZ: USB *ANCHO MÁX DE IMPRESIÓN: 108MM *LARGO MÁX IMPRES",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZKP8005 - IMPRESORA TÉRMICA DE ESCRITORIO 80 MM *CORTADOR AUTOMÁTICO *VELOCIDAD DE IMPRESIÓN: 230 MM/S *TPH: 100KM *SALIDA: DC 24V/2.5A *INTERFAZ: USB+LAN - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKP8005-image-1-16-30-5.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZKP8005 - IMPRESORA TÉRMICA DE ESCRITORIO 80 MM *CORTADOR AUTOMÁTICO *VELOCIDAD DE IMPRESIÓN: 230 MM/S *TPH: 100KM *SALIDA: DC 24V/2.5A *INTERFAZ: USB+LAN",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZKSOKiosk2000 - KIOSCO ATENCIÓN *Intel Core i5-6300U  *4GB DDR4 RAM 128GB SSD *PANTALLA 32\" LCD *COMUNICACIÓN: WIFI/TSP-IP/BLUETOOTH *INCLUYE IMPRESORA TERMICA 80mm/ESCANER 2D - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKSOKiosk2000_453483.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZKSOKiosk2000 - KIOSCO ATENCIÓN *Intel Core i5-6300U  *4GB DDR4 RAM 128GB SSD *PANTALLA 32\" LCD *COMUNICACIÓN: WIFI/TSP-IP/BLUETOOTH *INCLUYE IMPRESORA TERMICA 80mm/ESCANER 2D",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SC01-TD-W0603 - PUNTO DE VENTA  15,6\" *PANTALLA TOUCH CAPACITIVA *4GB DDR3 RAM128GB *USB Port: 1 * USB3.0, 5 * USB2.0 *ALIMENTACIÓN: DC 12V 5A *CPU:Intel Core i3-4030U @1.90GHz - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SC01-TD-W0603_466334.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SC01-TD-W0603 - PUNTO DE VENTA  15,6\" *PANTALLA TOUCH CAPACITIVA *4GB DDR3 RAM128GB *USB Port: 1 * USB3.0, 5 * USB2.0 *ALIMENTACIÓN: DC 12V 5A *CPU:Intel Core i3-4030U @1.90GHz",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZKC0408E - CAJON DE DINERO *4 ESPACIOS PARA BILLETES, 8 PARA MONEDAS, 1 PARA CHEQUES. *CERRADURA DE 3 POSICIONES. *SUJETA-BILLETES METÁLICO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKC0408E_360838.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZKC0408E - CAJON DE DINERO *4 ESPACIOS PARA BILLETES, 8 PARA MONEDAS, 1 PARA CHEQUES. *CERRADURA DE 3 POSICIONES. *SUJETA-BILLETES METÁLICO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "IPC-K7FN-3V0W-imou - CÁMARA IP WIFI CRUISER SC 3MP *TIPO PT *FULL COLOR *RASTERO INTELIGENTE *AUDIO BIDIRECCIONAL *1 PUERTO RJ45 *MICRO SD HASTA 512GB *PARA EXTERIORES *DISUASIVA - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-K7FN-3V0W-imou_793364.webp",
@@ -819,96 +909,6 @@
         {
             "nombre": "UTP3305II - Fuente de alimentacion Lineal de 3 canal",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/uni-t.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UT251C+ - PINZA PARA MEDIR CORRIENTES DE FUGA DE ALTA SENSIBILIDAD 3 mA - 60A Y ARMONICOS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UT251C_730060.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UT251C+ - PINZA PARA MEDIR CORRIENTES DE FUGA DE ALTA SENSIBILIDAD 3 mA - 60A Y ARMONICOS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/uni-t.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UT381PV - MEDIDOR DE IRRADIANCIA SOLAR,  0 - 1400W/m2, TEMP. -40 a 120° C, ANGULO DE INCLINACION -90° +90°, AZIMUY 0 -360°, IP 65 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UT381PV_740502.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UT381PV - MEDIDOR DE IRRADIANCIA SOLAR,  0 - 1400W/m2, TEMP. -40 a 120° C, ANGULO DE INCLINACION -90° +90°, AZIMUY 0 -360°, IP 65",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/uni-t.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DHI-LM22-A210Y-B3-V1 - MONITOR DE 22\" FHD *MATERIAL PLASTICO *BIZEL DELGADO *PANEL VA *TASA DE REFRESCO 120HZ *1 HDMI, 1 VGA *VESA *TIEMPO DE RESPUESTA 5ms - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHI-LM22-A210Y-B3-V1_163586.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DHI-LM22-A210Y-B3-V1 - MONITOR DE 22\" FHD *MATERIAL PLASTICO *BIZEL DELGADO *PANEL VA *TASA DE REFRESCO 120HZ *1 HDMI, 1 VGA *VESA *TIEMPO DE RESPUESTA 5ms",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DH-IPC-BP3EWP-4G-LA-0360B - CAMARA IP PT APOLLO 3MP WIZCOLOR 4G *AUDIO BIDIRECCIONAL *PLASTICA *IP66 *LENTE 3.6MM *SOPORTA MICRO SD HASTA 512GB *CAPACIDAD BATERIA 36WH *MAX. POTENCIA 8W - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DH-IPC-BP3EWP-4G-LA-0360B_343218.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DH-IPC-BP3EWP-4G-LA-0360B - CAMARA IP PT APOLLO 3MP WIZCOLOR 4G *AUDIO BIDIRECCIONAL *PLASTICA *IP66 *LENTE 3.6MM *SOPORTA MICRO SD HASTA 512GB *CAPACIDAD BATERIA 36WH *MAX. POTENCIA 8W",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DH-PFA3331S - CAJA DE CONEXIONES PARA CAMARAS *MATERIAL ALEACION DE ALUMINO *IP66 *BLANCA - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DH-PFA3331S_741323.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DH-PFA3331S - CAJA DE CONEXIONES PARA CAMARAS *MATERIAL ALEACION DE ALUMINO *IP66 *BLANCA",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DHI-LM43-F200N-B4-V1 - MONITOR LED FULL-HD *43 PULGADAS *24/7 *TIEMPO RESPUESTA 8MS, PARLANTES INCORP 8WX2 *2 HDMI, 1VGA, 1USB, 1 AUDIO OUT *CABLE HDMI/CORRIENTE, CONTROL REMOTO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHI-LM43-F200N-B4-V1_215340.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DHI-LM43-F200N-B4-V1 - MONITOR LED FULL-HD *43 PULGADAS *24/7 *TIEMPO RESPUESTA 8MS, PARLANTES INCORP 8WX2 *2 HDMI, 1VGA, 1USB, 1 AUDIO OUT *CABLE HDMI/CORRIENTE, CONTROL REMOTO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HAC-HFW1219XN-IL-A-PRO - CAMARA HDCVI BALA 2MP WIZCOLOR C/ MIC INTEGRADO *METAL/PLASTICA *MAX. 30 fps@1080p *DIST. ILUM. 50M *LENTE 2.8MM *CVI/CVBS/AHD/TVI * IP67 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HAC-HFW1219XN-IL-A-PRO_502405.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HAC-HFW1219XN-IL-A-PRO - CAMARA HDCVI BALA 2MP WIZCOLOR C/ MIC INTEGRADO *METAL/PLASTICA *MAX. 30 fps@1080p *DIST. ILUM. 50M *LENTE 2.8MM *CVI/CVBS/AHD/TVI * IP67",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HAC-HDW1219XN-IL-A-PRO - CAMARA HDCVI DOMO 2MP WIZCOLOR C/ MIC INTEGRADO *METAL/PLASTICA *MAX. 30 fps@1080p *DIST. ILUM. 50M *LENTE 2.8MM *CVI/CVBS/AHD/TVI *IP67 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HAC-HDW1219XN-IL-A-PRO_165149.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HAC-HDW1219XN-IL-A-PRO - CAMARA HDCVI DOMO 2MP WIZCOLOR C/ MIC INTEGRADO *METAL/PLASTICA *MAX. 30 fps@1080p *DIST. ILUM. 50M *LENTE 2.8MM *CVI/CVBS/AHD/TVI *IP67",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "IPC-HDW1431T1-28-S6-QH - CAMARA IP DOMO 4MP *2.8MM *METAL/PLASTICA *1/3 CMOS PROGRESIVO * 4MP (2560 × 1440) @25/30 fps *DIST. IR MAX 30M *WDR, 3D NR, HLC, BLC *12V DC/PoE *IP67 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-HDW1431T1-28-S6-QH_578979.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "IPC-HDW1431T1-28-S6-QH - CAMARA IP DOMO 4MP *2.8MM *METAL/PLASTICA *1/3 CMOS PROGRESIVO * 4MP (2560 × 1440) @25/30 fps *DIST. IR MAX 30M *WDR, 3D NR, HLC, BLC *12V DC/PoE *IP67",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
             "categoria": "NOVEDADES"
         },
         {
@@ -7242,42 +7242,12 @@
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "PC21 - CABLE DE PROGRAMACION RS232 *COMPATIBLE CON TM-628H - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PC21-image-1.webp",
+            "nombre": "AN0160H14 - ANTENA VHF 146 -174 MHZ *COMPATIBLE CON TC-508-V2 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AN0160H14-image-1.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "PC21 - CABLE DE PROGRAMACION RS232 *COMPATIBLE CON TM-628H",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "BL-8 - BATERIA DE LITIO* PARA RADIO UV-82* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 2000 MAH/20,72WH* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BL8-image-0-1772567629599.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "BL-8 - BATERIA DE LITIO* PARA RADIO UV-82* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 2000 MAH/20,72WH*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "BC00005 - SOFTWARE DE PROGRAMACION PARA DIAGNOSTICO Y CONTROL PARA RD986SV-1 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BC00005-image-1.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "BC00005 - SOFTWARE DE PROGRAMACION PARA DIAGNOSTICO Y CONTROL PARA RD986SV-1",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "AN0455H02 - ANTENA UHF 440-470 MHZ *COMPATIBLE CON TC-508-U1 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AN0455H02-image-1.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "AN0455H02 - ANTENA UHF 440-470 MHZ *COMPATIBLE CON TC-508-U1",
+            "nombre": "AN0160H14 - ANTENA VHF 146 -174 MHZ *COMPATIBLE CON TC-508-V2",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
             "categoria": "RADIOCOMUNICACION"
         },
@@ -7292,22 +7262,42 @@
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "AN0160H14 - ANTENA VHF 146 -174 MHZ *COMPATIBLE CON TC-508-V2 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AN0160H14-image-1.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "AN0160H14 - ANTENA VHF 146 -174 MHZ *COMPATIBLE CON TC-508-V2",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
             "nombre": "TC-610P-HDC-V2 - RADIO PORTABLE VHF *ANALOGICO *FRECUENCIA 136 - 174 MHZ *16 CANALES *POTENCIA 5W *PROTECCIÓN IP66 *BATERIA 2000 MAH - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TC610PHDCV2-image-1.webp",
             "categoria": "RADIOCOMUNICACION"
         },
         {
             "nombre": "TC-610P-HDC-V2 - RADIO PORTABLE VHF *ANALOGICO *FRECUENCIA 136 - 174 MHZ *16 CANALES *POTENCIA 5W *PROTECCIÓN IP66 *BATERIA 2000 MAH",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "PC21 - CABLE DE PROGRAMACION RS232 *COMPATIBLE CON TM-628H - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PC21-image-1.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "PC21 - CABLE DE PROGRAMACION RS232 *COMPATIBLE CON TM-628H",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "AN0455H02 - ANTENA UHF 440-470 MHZ *COMPATIBLE CON TC-508-U1 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AN0455H02-image-1.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "AN0455H02 - ANTENA UHF 440-470 MHZ *COMPATIBLE CON TC-508-U1",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "BC00005 - SOFTWARE DE PROGRAMACION PARA DIAGNOSTICO Y CONTROL PARA RD986SV-1 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BC00005-image-1.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "BC00005 - SOFTWARE DE PROGRAMACION PARA DIAGNOSTICO Y CONTROL PARA RD986SV-1",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hytera.webp",
             "categoria": "RADIOCOMUNICACION"
         },
@@ -7372,16 +7362,6 @@
             "categoria": "RADIOCOMUNICACION"
         },
         {
-            "nombre": "B-BF-A58 - BATERIA DE LITIO* PARA RADIO BF-A58* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 1800 MAH/13WH* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BBFA58-image-0-1772567596720.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "B-BF-A58 - BATERIA DE LITIO* PARA RADIO BF-A58* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 1800 MAH/13WH*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
             "nombre": "CAR-BF-VF-202501CHR - CARGADOR BASE BAOFENG PARA HANDY DM-1702* 110V-240V* - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CARBFVF202501CHR-image-0-1725032622899.webp",
             "categoria": "RADIOCOMUNICACION"
@@ -7398,6 +7378,46 @@
         },
         {
             "nombre": "CAR-BF-A58 - CARGADOR DE BASE PARA RADIOS BAOFENG BF-A58/DM1702",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "BL-8 - BATERIA DE LITIO* PARA RADIO UV-82* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 2000 MAH/20,72WH* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BL8-image-0-1772567629599.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "BL-8 - BATERIA DE LITIO* PARA RADIO UV-82* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 2000 MAH/20,72WH*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "B-BF-A58 - BATERIA DE LITIO* PARA RADIO BF-A58* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 1800 MAH/13WH* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BBFA58-image-0-1772567596720.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "B-BF-A58 - BATERIA DE LITIO* PARA RADIO BF-A58* VOLTAJE DE SALIDA 7,4V* CAPACIDAD DE CARGA 1800 MAH/13WH*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "BF-H5 - RADIO PORTABLE VHF/UHF*DUAL BAND 136-174/400-520MHZ*HASTA 128 CANALES*POTENCIA  10W*CON PANTALLA*BATERIA 1800 MAH*IP57 RESISTENTE AL AGUA/POLVO* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BFH5-image-1-11-59-56.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "BF-H5 - RADIO PORTABLE VHF/UHF*DUAL BAND 136-174/400-520MHZ*HASTA 128 CANALES*POTENCIA  10W*CON PANTALLA*BATERIA 1800 MAH*IP57 RESISTENTE AL AGUA/POLVO*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "BF-H6 - RADIO PORTABLE VHF/UHF*DUAL BAND 136-174/400-520MHZ*HASTA 128 CANALES*POTENCIA  10W*CON PANTALLA*BATERIA 1800 MAH*IP57 RESISTENTE AL AGUA/POLVO* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BF-H6_550776.webp",
+            "categoria": "RADIOCOMUNICACION"
+        },
+        {
+            "nombre": "BF-H6 - RADIO PORTABLE VHF/UHF*DUAL BAND 136-174/400-520MHZ*HASTA 128 CANALES*POTENCIA  10W*CON PANTALLA*BATERIA 1800 MAH*IP57 RESISTENTE AL AGUA/POLVO*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
             "categoria": "RADIOCOMUNICACION"
         },
