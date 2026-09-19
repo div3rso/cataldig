@@ -1,5 +1,5 @@
 {
-    "version": "09152026.22.44",
+    "version": "09182026.22.36",
     "productos": [
         {
             "nombre": "N133 - CERRADURA ELÉCTRICA CON BOTON - Iniciar sesión",
@@ -329,26 +329,6 @@
         {
             "nombre": "G102 - Regleta Cortapico 2 mts, 6 tomas, NEMA 5 grado industrial 220 V, 13 A, 50 Hz. Puertos USB (1 USB A + 1 USB C, 2.1 A). Material Metalico. Color a",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "CA-A470-A - MÓDULO DE EXPANSIÓN DE 2 PUERTAS CENTAUR *COMPATIBLE CON C900IP *2 SALIDAS DE CERRADURA +4 ENTRADAS (CONTACTO MAGNETICO DE PUERTA Y DISPOSITIVO REX) - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CA-A470-A_433209.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "CA-A470-A - MÓDULO DE EXPANSIÓN DE 2 PUERTAS CENTAUR *COMPATIBLE CON C900IP *2 SALIDAS DE CERRADURA +4 ENTRADAS (CONTACTO MAGNETICO DE PUERTA Y DISPOSITIVO REX)",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cdvi.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "C900IP - CONTROLADOR DE ACCESO P/ 2 PUERTAS *CAP. USUARIOS: 50000 *COMUNICACIÓN: TCP-IP (RJ45) *GABINETE METALICO *PLACA PCB - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/C900IP_441772.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "C900IP - CONTROLADOR DE ACCESO P/ 2 PUERTAS *CAP. USUARIOS: 50000 *COMUNICACIÓN: TCP-IP (RJ45) *GABINETE METALICO *PLACA PCB",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cdvi.webp",
             "categoria": "NOVEDADES"
         },
         {
@@ -908,6 +888,26 @@
         },
         {
             "nombre": "UTP3305II - Fuente de alimentacion Lineal de 3 canal",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/uni-t.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UT251C+ - PINZA PARA MEDIR CORRIENTES DE FUGA DE ALTA SENSIBILIDAD 3 mA - 60A Y ARMONICOS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UT251C_730060.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UT251C+ - PINZA PARA MEDIR CORRIENTES DE FUGA DE ALTA SENSIBILIDAD 3 mA - 60A Y ARMONICOS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/uni-t.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UT381PV - MEDIDOR DE IRRADIANCIA SOLAR,  0 - 1400W/m2, TEMP. -40 a 120° C, ANGULO DE INCLINACION -90° +90°, AZIMUY 0 -360°, IP 65 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UT381PV_740502.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UT381PV - MEDIDOR DE IRRADIANCIA SOLAR,  0 - 1400W/m2, TEMP. -40 a 120° C, ANGULO DE INCLINACION -90° +90°, AZIMUY 0 -360°, IP 65",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/uni-t.webp",
             "categoria": "NOVEDADES"
         },
@@ -1837,16 +1837,6 @@
             "categoria": "Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores"
         },
         {
-            "nombre": "DH-HAC-B1A21N-U-A-0280B - CAMARA HDCVI COOPER BALA 2MP PLASTICA *CON AUDIO *LENTE 2.8MM *MAX. 30 FPS@1080P *MAX IR30 MTS *CVI/CVBS/AHD/TVI *IP67 *BLC, DWDR, 2D NR - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHHACB1A21NUA0280B-image-0-1736348664016.webp",
-            "categoria": "VIDEOVIGILANCIA"
-        },
-        {
-            "nombre": "DH-HAC-B1A21N-U-A-0280B - CAMARA HDCVI COOPER BALA 2MP PLASTICA *CON AUDIO *LENTE 2.8MM *MAX. 30 FPS@1080P *MAX IR30 MTS *CVI/CVBS/AHD/TVI *IP67 *BLC, DWDR, 2D NR",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "VIDEOVIGILANCIA"
-        },
-        {
             "nombre": "IPC-P3DP-3F-PV-0280B/0600 - CAMARA IP WIFI 3X3 MP DOBLE LENTE TIPO PT *DETECCIÓN DUAL *CONTROL DE RONDA *SIRENA Y LUZ DE ALARMA *DETEC. PERSONAS Y VEHICULOS IA *IP66 *MICRO SD HASTA 256GB - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPCP3DP3FPV0280B0600-image-0-1737213205241.webp",
             "categoria": "VIDEOVIGILANCIA"
@@ -2477,16 +2467,6 @@
             "categoria": "VIDEOVIGILANCIA"
         },
         {
-            "nombre": "IPC-HFW1239S1-LED-0280-S6 - CAMARA IP BALA 2MP FULL COLOR *METAL/PLASTICA *SENSOR 1/2.8\" CMOS *DWDR, 3D NR, HLC, BLC * DIST. ILUMINACION 30M *POE *IP67 *1 RJ45  (10/100 Base-T) - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPCHFW1239S1LED0280S6-image-0-1727299936600.webp",
-            "categoria": "VIDEOVIGILANCIA"
-        },
-        {
-            "nombre": "IPC-HFW1239S1-LED-0280-S6 - CAMARA IP BALA 2MP FULL COLOR *METAL/PLASTICA *SENSOR 1/2.8\" CMOS *DWDR, 3D NR, HLC, BLC * DIST. ILUMINACION 30M *POE *IP67 *1 RJ45  (10/100 Base-T)",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "VIDEOVIGILANCIA"
-        },
-        {
             "nombre": "TAPO C520WS - CAMARA WIFI TAPO C325WB* CAMARA GIRATORIA* 2K QHD 4MP (2560X1520 PX)* DETECCION VEHICULO/MASCOTA* ALARMA DE LUZ/SONIDO* VISION NOCTURNA 30M* IP66* EXTERIOR* - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TAPOC520WS-image-0-1719263964756.webp",
             "categoria": "VIDEOVIGILANCIA"
@@ -2657,14 +2637,14 @@
             "categoria": "VIDEOVIGILANCIA"
         },
         {
-            "nombre": "P00196 - BARRA DE CREMALLERA DOMICILIARIA 1,50MT. *COMPATIBLE: F01106-GCT, F03085, F04821, F04822, *BASE METALICA CON PIEZAS DE NYLON - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/P1719323152692.webp",
-            "categoria": "CONTROL DE ACCESO"
+            "nombre": "DH-SD3E405DB-GNY-A-PV1 - CAMARA IP PTZ TIOC 4MP CON AUDIO BIDIRECCIONAL *ZOOM OPTICO DE 5X *Max. 25/30fps@4MP *DIST. ILUM. 30M *SMD 3.0 *PROTE. PERIMETRAL, DETEC. FACIAL *ALARMA 1I/1O - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHSD3E405DBGNYAPV1-image-1-10-37-59.webp",
+            "categoria": "VIDEOVIGILANCIA"
         },
         {
-            "nombre": "P00196 - BARRA DE CREMALLERA DOMICILIARIA 1,50MT. *COMPATIBLE: F01106-GCT, F03085, F04821, F04822, *BASE METALICA CON PIEZAS DE NYLON",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
-            "categoria": "CONTROL DE ACCESO"
+            "nombre": "DH-SD3E405DB-GNY-A-PV1 - CAMARA IP PTZ TIOC 4MP CON AUDIO BIDIRECCIONAL *ZOOM OPTICO DE 5X *Max. 25/30fps@4MP *DIST. ILUM. 30M *SMD 3.0 *PROTE. PERIMETRAL, DETEC. FACIAL *ALARMA 1I/1O",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "VIDEOVIGILANCIA"
         },
         {
             "nombre": "DHI-ASA1222EL-S - CONTROL DE ASISTENCIA STANDALONE *PANTALLA 2.4\" *SOPORTA 1.000 USUARIOS, 2.000 HUELLAS, 1.000 PASSWORDS *IMPORTA Y EXPORTA DATOS CON UN USB FLASH *1 RJ45 - Iniciar sesión",
@@ -2917,16 +2897,6 @@
             "categoria": "CONTROL DE ACCESO"
         },
         {
-            "nombre": "F12019-G - MOTOR DESLIZANTE KDZ TSI FIT *MOTOR 1/4 HP *CENTRAL TSI FIT *2 CONTROLES REMOTOS *VOLTAJE 127/220 VAC *SIN CREMALLERA - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F12019G-image-0-1725045421874.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "F12019-G - MOTOR DESLIZANTE KDZ TSI FIT *MOTOR 1/4 HP *CENTRAL TSI FIT *2 CONTROLES REMOTOS *VOLTAJE 127/220 VAC *SIN CREMALLERA",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
             "nombre": "F12831-G - MOTOR DESLIZANTE DZMAX TSI FIT *MOTOR DE 1/3HP TSI FIT *CONEXIÓN 220V *CENTRAL TSI FIT *INCLUYE 2 CONTROLES 433MHz *PESO MAXIMO: 700Kgs   *SIN CREMALLERA - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F12831G-image-0-1760545123758.webp",
             "categoria": "CONTROL DE ACCESO"
@@ -3097,16 +3067,6 @@
             "categoria": "CONTROL DE ACCESO"
         },
         {
-            "nombre": "DHI-ASI3204E - CONTROL DE ACCESO CON REC. FACIAL 2MP CMOS *PANTALLA 2.4\" LCD *REC. FACIAL, TARJETA IC , PASSWORD Y HUELLA *SOPORTA EXTENSIÓN DE MODULOS *CONEXIÓN TCP/IP *ONVIF - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHIASI3204E-image-0-1740143442321.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "DHI-ASI3204E - CONTROL DE ACCESO CON REC. FACIAL 2MP CMOS *PANTALLA 2.4\" LCD *REC. FACIAL, TARJETA IC , PASSWORD Y HUELLA *SOPORTA EXTENSIÓN DE MODULOS *CONEXIÓN TCP/IP *ONVIF",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
             "nombre": "A01755 - MODULO ALTERNATIVO 8 FUNCIONES (CON CAJA) *PERMITE SELECCIONAR EL ACCESORIO Y PROGRAMARLO A TRAVÉS DE JUMPER *ESPECIAL PARA: LUZ DE GARAJE, CERRADURA, 3 SEG, - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A01755-image-0-1716472340362.webp",
             "categoria": "CONTROL DE ACCESO"
@@ -3124,16 +3084,6 @@
         {
             "nombre": "G3 Pro/ID/ Backup battery - CONTROL ACCESO & ASISTENCIA FACIAL/HUELLA/PALMA/RFID *CAP ROSTROS 12000 *CAP HUELLAS: 20000 *CAP REGISTROS: 200000 *COM: TCP/IP, USB *12V 3A (SI INCLUYE)",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "GA-FB0507 - CERRADURA BIOMETRICA SMART *TARJETA MIFARE *CONTRASEÑA *COMUNICACION WIFI 2,4GHz *TECLADO TOUCH *PARA PUERTAS DE 45 - 70MM DE ESPESOR - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/GAFB0507-image-1-9-18-49.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "GA-FB0507 - CERRADURA BIOMETRICA SMART *TARJETA MIFARE *CONTRASEÑA *COMUNICACION WIFI 2,4GHz *TECLADO TOUCH *PARA PUERTAS DE 45 - 70MM DE ESPESOR",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
             "categoria": "CONTROL DE ACCESO"
         },
         {
@@ -3254,16 +3204,6 @@
         {
             "nombre": "C901 - TARJETA DE PROXIMIDAD EM4100 *FRECUENCIA 125KHZ *SIN PERFORAR *DELGADA *64BITS  *TAMAÑO 54 X 86 X 0,76 MM. *PAQUETE DE 10 UNIDADES",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "GA-ID08 - TARJETA RFID 125KHZ - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/G1719956741147.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "GA-ID08 - TARJETA RFID 125KHZ",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
             "categoria": "CONTROL DE ACCESO"
         },
         {
@@ -3437,16 +3377,6 @@
             "categoria": "CONTROL DE ACCESO"
         },
         {
-            "nombre": "HBL400-Left - CERRADURA SMART *TELEFONO *ROSTRO: 50 *HUELLA: 100 *CONTRASEÑA: 50 *TARJETAS IC S50: 50 *COMUNICACION: WIFI *ALIMENTACIÓN: BATERIA INTERNA 4.200mA - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HBL400LEFT-image-1.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "HBL400-Left - CERRADURA SMART *TELEFONO *ROSTRO: 50 *HUELLA: 100 *CONTRASEÑA: 50 *TARJETAS IC S50: 50 *COMUNICACION: WIFI *ALIMENTACIÓN: BATERIA INTERNA 4.200mA",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
             "nombre": "C764 - BRACKET ZL P/CERRADURA PARA 280 KG *MADERA/BLINDEX/ALUMINIO/METAL *MATERIAL ALUMINIO DE ALTA RESISTENCIA - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/C764-image-1.webp",
             "categoria": "CONTROL DE ACCESO"
@@ -3517,6 +3447,66 @@
             "categoria": "CONTROL DE ACCESO"
         },
         {
+            "nombre": "C781 - ACTIVADOR DE ENERGIA PARA HABITACIONES CON SISTEMA DE RFID PARA HOTELES *COMPATIBLE CON SOLO TARJETAS MIFARE 13,56MHZ *\nVOLTAJE DE FUNCIONAMIENTO: 110-240V. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1715441802510.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "C781 - ACTIVADOR DE ENERGIA PARA HABITACIONES CON SISTEMA DE RFID PARA HOTELES *COMPATIBLE CON SOLO TARJETAS MIFARE 13,56MHZ *\nVOLTAJE DE FUNCIONAMIENTO: 110-240V.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "GA800 - MOTOR PARA PUERTA ARROLLABLE *1 2/7HP 950W *CARGA MAXIMA 720Kg *ALTURA MAXIMA 7MTS *DIAMETRO INTERNO DEL EJE 8\" / 152.4mm - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1719328328697.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "GA800 - MOTOR PARA PUERTA ARROLLABLE *1 2/7HP 950W *CARGA MAXIMA 720Kg *ALTURA MAXIMA 7MTS *DIAMETRO INTERNO DEL EJE 8\" / 152.4mm",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "F02049-G - MOTOR BASCULANTE BV FIT *MOTOR 1/4HP *CENTRAL TSI FIT *2 CONTROLES REMOTOS *MOTOR VOLTAJE 127/220Vac *ACCIONAMIENTO: F01853 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F02049G-image-0-1725046394989.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "F02049-G - MOTOR BASCULANTE BV FIT *MOTOR 1/4HP *CENTRAL TSI FIT *2 CONTROLES REMOTOS *MOTOR VOLTAJE 127/220Vac *ACCIONAMIENTO: F01853",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "C769 - *ACTIVADOR DE AHORRO DE ENERGÍA PARA HABITACIONES *SOPORTA HASTA 40A Y VOLTAJES 80-240V. *PERMITE REDUCIR EL CONSUMO ELÉCTRICO DEL HOTEL. *APAGA EL SUMINISTRO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1715441708030.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "C769 - *ACTIVADOR DE AHORRO DE ENERGÍA PARA HABITACIONES *SOPORTA HASTA 40A Y VOLTAJES 80-240V. *PERMITE REDUCIR EL CONSUMO ELÉCTRICO DEL HOTEL. *APAGA EL SUMINISTRO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "F00437-G - CONTROL REMOTO TX PLAY *COLOR NEGRO *FRECUENCIA 433 MHz - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F01720794570973.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "F00437-G - CONTROL REMOTO TX PLAY *COLOR NEGRO *FRECUENCIA 433 MHz",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "R322 - KIT DE BLOQUEO DE HUELLA DIGITAL INALÁMBRICO IP65, 4 FORMAS DE APERTURA, INSTALACIÓN SENCILLA, APERTURA SIMPLE - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/R322-image-0-1758572201260.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "R322 - KIT DE BLOQUEO DE HUELLA DIGITAL INALÁMBRICO IP65, 4 FORMAS DE APERTURA, INSTALACIÓN SENCILLA, APERTURA SIMPLE",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
             "nombre": "SMARTCLOUD 32 - CENTRAL DE ALARMA, SOPORTA 28 ZONAS INALAMBRICAD + 4 ZONAS HIBRIDAS, APLICACIÓN PROGRAMADOR POR BLUETOOTH O NUBE, WIFI Y ETHERNET INTEGRADOS, INCLUYE CONTROL R. - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SMARTCLOUD32-image-0-1732302416688.webp",
             "categoria": "ALARMAS Y DOMOTICA"
@@ -3574,16 +3564,6 @@
         {
             "nombre": "TX4R 4.0 PR - FRECUENCIA FIJA 433,92 MHZ*RANGO DE100 MTS SIN OBSTACULOS*DISPONIBLE EN COLOR NEGRO*BATERIA INCLUIDA.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
-            "nombre": "G105 - CÁMARA SOCKET PTZ 4MP, PARA INTERIOR, VISIÓN NOCTURNA, DETECCIÓN DE MOVIMIENTO, AUDIO BIDIRECCIONAL,SOPORTA ALMACENAMIENTO DE 128GB, PUERTO DE ALIMENTACIÓN E27. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/G105-image-1.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
-            "nombre": "G105 - CÁMARA SOCKET PTZ 4MP, PARA INTERIOR, VISIÓN NOCTURNA, DETECCIÓN DE MOVIMIENTO, AUDIO BIDIRECCIONAL,SOPORTA ALMACENAMIENTO DE 128GB, PUERTO DE ALIMENTACIÓN E27.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
@@ -4399,6 +4379,16 @@
         {
             "nombre": "GD518-NR - DETECTOR DE GAS CONMBUSTIBLE*DISEÑO DE CIRCUITO SMD*PARA DETECCION DE GAS NATURAL Y GAS LICUADO*SONIDO ALARMA >75dB*CONSUMO DE ENERGIA 2W*LEL 10%",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sentek.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
+        },
+        {
+            "nombre": "W029 - BOTÓN DE EMERGENCIA CON LLAVE * AL SER PRESIONADO QUEDA ENCLAVADO Y ES NECESARIO UNA LLAVE PARA VOLVER AL ESTADO ANTERIOR, TAMAÑO 54X54X32 MM - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/W029-image-1.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
+        },
+        {
+            "nombre": "W029 - BOTÓN DE EMERGENCIA CON LLAVE * AL SER PRESIONADO QUEDA ENCLAVADO Y ES NECESARIO UNA LLAVE PARA VOLVER AL ESTADO ANTERIOR, TAMAÑO 54X54X32 MM",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
@@ -5568,7 +5558,7 @@
         },
         {
             "nombre": "MC210CS - MEDIA CONVERTER MONO MODO GIGABIT *DISTANCIA DE FIBRA DE HASTA 15KM *1310NM *FULL DUPLEX SC *1 PUERTO ETHERNET AUTO MDI/MDIX",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/omada.webp",
             "categoria": "REDES"
         },
         {
@@ -5878,7 +5868,7 @@
         },
         {
             "nombre": "SG3428 - SWITCH JETSTREAM*24 PUERTOS GIGABIT L2*4 PUERTOS SFP*SOPORTA VLAN *SOPORTA QOS*ADMINISTRACION WEB/CLI*SOPORTA SNMP-ROM*STP/RSTP/MSTP *RACKEABLE*CAPA 2*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/omada.webp",
             "categoria": "REDES"
         },
         {
@@ -6048,7 +6038,7 @@
         },
         {
             "nombre": "EAP225-Outdoor - ACCESS POINT OMADA MESH AC1200*INTERIOR/EXTERIORES*2,4/5GHZ *1 PUERTO GIGABIT *1300MBPS *MIMO 2X2 *ROAMING DE USUARIOS *HOTSPOT*4 SSID*PORTAL CAUTIVO*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/omada.webp",
             "categoria": "REDES"
         },
         {
@@ -6078,7 +6068,7 @@
         },
         {
             "nombre": "EAP610-OUTDOOR - ACCESS POINT WIFI 6 OMADA MESH AX1800 *INTERIOR/EXTERIORES*2,4/5GHZ *1 PUERTO GIGA*1800MBPS* MU MIMO* ROAMING DE USUARIOS* HOTSPOT*16 SSID*PORTAL CAUTIVO*IP67",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/omada.webp",
             "categoria": "REDES"
         },
         {
@@ -10802,16 +10792,6 @@
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "DHI-USB-A20AP32G0121B - FLASH MEMORY DE 32GB DAHUA *INTERFACE USB2.0 *VEL. LECTURA 10-25MB/s *VEL. ESCRITURA 3-10MB/s *FAT32 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHIUSBA20AP32G1715873336611.webp",
-            "categoria": "COMPUTO"
-        },
-        {
-            "nombre": "DHI-USB-A20AP32G0121B - FLASH MEMORY DE 32GB DAHUA *INTERFACE USB2.0 *VEL. LECTURA 10-25MB/s *VEL. ESCRITURA 3-10MB/s *FAT32",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "COMPUTO"
-        },
-        {
             "nombre": "BOYAMIC 2-02 - MICROFONO INALAMBRICO TODO EN UNO*TRUE AI*VERSION DUAL SIMPLE - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BOYAMIC202-image-0-1757621960301.webp",
             "categoria": "COMPUTO"
@@ -11072,16 +11052,6 @@
             "categoria": "COMPUTO"
         },
         {
-            "nombre": "DHI-USB-A20AP64G0121B - FLASH MEMORY DE 64GB DAHUA *INTERFACE USB2.0 *VEL. LECTURA 10-25MB/s *VEL. ESCRITURA 3-10MB/s *exFAT - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHIUSBA20AP64G1716479038327.webp",
-            "categoria": "COMPUTO"
-        },
-        {
-            "nombre": "DHI-USB-A20AP64G0121B - FLASH MEMORY DE 64GB DAHUA *INTERFACE USB2.0 *VEL. LECTURA 10-25MB/s *VEL. ESCRITURA 3-10MB/s *exFAT",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "COMPUTO"
-        },
-        {
             "nombre": "Y014 - MICROFONO PARA CONFERENCIAS, INALAMBRICO DE 2,4GHZ, POTENCIA DE 10DB, DISTANCIA HASTA 50MTS MAX, 8HRS DE FUNCIONAMIENTO, INCLUYE ADAPTADOR TRS Y TRANSMISOR. - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y014-image-0-1722947796946.webp",
             "categoria": "COMPUTO"
@@ -11209,6 +11179,26 @@
         {
             "nombre": "Fuxi-H5d-WH - AUDIFONO MULTIPLATAFORMAS*5 MODOS DE CONEXION*COMPATIBLE CON WINDOWS/MAC*PS4,PS5, XBOX, NINTENDO SWITCH*ANDROID/IPHONE*MIC DESMONTABLE*BLANCO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "COMPUTO"
+        },
+        {
+            "nombre": "SK851BT - KARAOKE PORTATIL BLUETOOTH*MICROFONO PORTATIL CON BATERIA INTERNA*BT V5.0*BATERIA DE 6HR DURACION*BLUETOOTH/AUX/BOTON DE SILENCIO/LECTOR MICRO SD*ANDROID/iOS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SK851BT-image-1-11-6-56.webp",
+            "categoria": "COMPUTO"
+        },
+        {
+            "nombre": "SK851BT - KARAOKE PORTATIL BLUETOOTH*MICROFONO PORTATIL CON BATERIA INTERNA*BT V5.0*BATERIA DE 6HR DURACION*BLUETOOTH/AUX/BOTON DE SILENCIO/LECTOR MICRO SD*ANDROID/iOS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "COMPUTO"
+        },
+        {
+            "nombre": "NT02P500PRO-512G-R - MEMORIA MICRO SD 512GB EXTREME PRO* SDXC 512GB V30/A1/C10 HASTA 100MB/s, INCLUYE ADAPTADOR - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/NT02P500PRO1716402167756.webp",
+            "categoria": "COMPUTO"
+        },
+        {
+            "nombre": "NT02P500PRO-512G-R - MEMORIA MICRO SD 512GB EXTREME PRO* SDXC 512GB V30/A1/C10 HASTA 100MB/s, INCLUYE ADAPTADOR",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/netac.webp",
             "categoria": "COMPUTO"
         },
         {
