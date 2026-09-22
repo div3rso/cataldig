@@ -1,5 +1,5 @@
 {
-    "version": "09182026.22.36",
+    "version": "09212026.22.45",
     "productos": [
         {
             "nombre": "N133 - CERRADURA ELÉCTRICA CON BOTON - Iniciar sesión",
@@ -5558,7 +5558,7 @@
         },
         {
             "nombre": "MC210CS - MEDIA CONVERTER MONO MODO GIGABIT *DISTANCIA DE FIBRA DE HASTA 15KM *1310NM *FULL DUPLEX SC *1 PUERTO ETHERNET AUTO MDI/MDIX",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/omada.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
             "categoria": "REDES"
         },
         {
@@ -5868,7 +5868,7 @@
         },
         {
             "nombre": "SG3428 - SWITCH JETSTREAM*24 PUERTOS GIGABIT L2*4 PUERTOS SFP*SOPORTA VLAN *SOPORTA QOS*ADMINISTRACION WEB/CLI*SOPORTA SNMP-ROM*STP/RSTP/MSTP *RACKEABLE*CAPA 2*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/omada.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
             "categoria": "REDES"
         },
         {
@@ -6038,7 +6038,7 @@
         },
         {
             "nombre": "EAP225-Outdoor - ACCESS POINT OMADA MESH AC1200*INTERIOR/EXTERIORES*2,4/5GHZ *1 PUERTO GIGABIT *1300MBPS *MIMO 2X2 *ROAMING DE USUARIOS *HOTSPOT*4 SSID*PORTAL CAUTIVO*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/omada.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
             "categoria": "REDES"
         },
         {
@@ -6068,7 +6068,7 @@
         },
         {
             "nombre": "EAP610-OUTDOOR - ACCESS POINT WIFI 6 OMADA MESH AX1800 *INTERIOR/EXTERIORES*2,4/5GHZ *1 PUERTO GIGA*1800MBPS* MU MIMO* ROAMING DE USUARIOS* HOTSPOT*16 SSID*PORTAL CAUTIVO*IP67",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/omada.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
             "categoria": "REDES"
         },
         {
