@@ -1,6 +1,131 @@
 {
-    "version": "09212026.22.45",
+    "version": "09242026.22.52",
     "productos": [
+        {
+            "nombre": "Tipo de Cambio: - 12,22 Bs - tiktok",
+            "imagen": "https://www.digicorp.com.bo/images/banderas/bo.svg",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "BF-H6 - RADIO PORTABLE VHF/UHF*DUAL BAND 136-174/400-520MHZ*HASTA 128 CANALES*POTENCIA  10W*CON PANTALLA*BATERIA 1800 MAH*IP57 RESISTENTE AL AGUA/POLVO* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BF-H6_550776.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "BF-H6 - RADIO PORTABLE VHF/UHF*DUAL BAND 136-174/400-520MHZ*HASTA 128 CANALES*POTENCIA  10W*CON PANTALLA*BATERIA 1800 MAH*IP57 RESISTENTE AL AGUA/POLVO*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "CBK01332 - YABER L1 PRO 500 ANSI LUMENES 1080P*SOPORTE INTEGRADO CON ROTACION 330°*OS SMART TV CON NETFLIX, YOUTUBE, ETC*PARLANTE CON POTENCIA DE 8W*PROYECTA 40\"-100\"* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CBK01332_945517.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "CBK01332 - YABER L1 PRO 500 ANSI LUMENES 1080P*SOPORTE INTEGRADO CON ROTACION 330°*OS SMART TV CON NETFLIX, YOUTUBE, ETC*PARLANTE CON POTENCIA DE 8W*PROYECTA 40\"-100\"*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yaber.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DHI-LM32-F200N-B4-V1 - MONITOR LED FULL-HD *32 PULGADAS *PANTALLA IPS *TRABAJA 24/7 *VESA *AUDIO 1I/1O *PARLANTE 2 × 8 W *TIEMPO DE RESPUESTA 8 ms - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHI-LM32-F200N-B4-V1_494556.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DHI-LM32-F200N-B4-V1 - MONITOR LED FULL-HD *32 PULGADAS *PANTALLA IPS *TRABAJA 24/7 *VESA *AUDIO 1I/1O *PARLANTE 2 × 8 W *TIEMPO DE RESPUESTA 8 ms",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "IPC-HDW1230T1-A-028-S6-QH - CAMARA IP DOMO 2MP CON AUDIO *METAL/PLASTICA *SENSOR 1/2.9\" CMOS *DIST. ILUMINACIÓN 30M *DWDR, 3D NR, HLC, BLC *MIC INTEGRADO *12 VDC/PoE *IP67 *1 RJ45 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-HDW1230T1-A-028-S6-QH_164998.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "IPC-HDW1230T1-A-028-S6-QH - CAMARA IP DOMO 2MP CON AUDIO *METAL/PLASTICA *SENSOR 1/2.9\" CMOS *DIST. ILUMINACIÓN 30M *DWDR, 3D NR, HLC, BLC *MIC INTEGRADO *12 VDC/PoE *IP67 *1 RJ45",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HAC-HDW1249SM-IL-A-PR-DIP - CAMARA HDCVI 2MP WIZCOLOR CON AUDIO *METALICA *DIST. ILUM. 30M *MIC INTEGRADO *LENTE 2.8MM *IP67 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HAC-HDW1249SM-IL-A-PR-DIP_331040.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HAC-HDW1249SM-IL-A-PR-DIP - CAMARA HDCVI 2MP WIZCOLOR CON AUDIO *METALICA *DIST. ILUM. 30M *MIC INTEGRADO *LENTE 2.8MM *IP67",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "F363 - CAJA DE SOBREPONER INTERIOR 8,5X8,5X5 CM - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F363_397440.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "F363 - CAJA DE SOBREPONER INTERIOR 8,5X8,5X5 CM",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "C984 - CORTADOR DE TUBO BUFFER (3,2 A 5,6MM) ESTA HERRAMIENTA DE DESPRENDIMIENTO DE FIBRA ÓPTICA Y COAXIAL PROPORCIONA UN AGARRE CÓMODO Y SEGURO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/C984-image-0-1761338061278.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "C984 - CORTADOR DE TUBO BUFFER (3,2 A 5,6MM) ESTA HERRAMIENTA DE DESPRENDIMIENTO DE FIBRA ÓPTICA Y COAXIAL PROPORCIONA UN AGARRE CÓMODO Y SEGURO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TF-K21-BL - CARGADOR TRANSFORMERS AUTOBOT 35W GaN AZUL*PUERTO DUAL DE CARGA USB-A,USB-C*ENCHUFE PLEGABLE*AMPLIA COMPATIBILIDAD - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TF-K21-BL_956367.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TF-K21-BL - CARGADOR TRANSFORMERS AUTOBOT 35W GaN AZUL*PUERTO DUAL DE CARGA USB-A,USB-C*ENCHUFE PLEGABLE*AMPLIA COMPATIBILIDAD",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/transformers.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TF-K21-SILVER - CARGADOR TRANSFORMERS MAXIMALS 35W GaN PLATEADO*PUERTO DUAL DE CARGA USB-A,USB-C*ENCHUFE PLEGABLE*AMPLIA COMPATIBILIDAD - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TF-K21-SILVER_725170.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "TF-K21-SILVER - CARGADOR TRANSFORMERS MAXIMALS 35W GaN PLATEADO*PUERTO DUAL DE CARGA USB-A,USB-C*ENCHUFE PLEGABLE*AMPLIA COMPATIBILIDAD",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/transformers.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "95432 - SERVIDOR NAS UGREEN 2 BAHIAS DH2300 BUNDLE*4GB RAM LPDDR4X NO AMPLIABLE*SOPORTA 60TB* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/95432-image-0-1783007753997.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "95432 - SERVIDOR NAS UGREEN 2 BAHIAS DH2300 BUNDLE*4GB RAM LPDDR4X NO AMPLIABLE*SOPORTA 60TB*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "M011 - FUENTE DE ALIMENTACIÓN 24V-5A*IDEAL PARA EQUIPOS CONTRA INCENDIOS-ACCESOS *VOLTAJE DE ENTRADA 110-240*AUTONOMIA 24HRS STAND BY/5MIN EN ALARMA*NO INCLUYE BATERIA - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/M011_470870.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "M011 - FUENTE DE ALIMENTACIÓN 24V-5A*IDEAL PARA EQUIPOS CONTRA INCENDIOS-ACCESOS *VOLTAJE DE ENTRADA 110-240*AUTONOMIA 24HRS STAND BY/5MIN EN ALARMA*NO INCLUYE BATERIA",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "N134 - CERRADURA BIDIRECCIONAL *LECTOR RFID 13,56MHz *ALIMENTACIÓN: DC 6V, 4 PILAS AA *INCLUYE: 3 LLAVES, 2 LLAVEROS *CUERPO DE ACERO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/N134_467054.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "N134 - CERRADURA BIDIRECCIONAL *LECTOR RFID 13,56MHz *ALIMENTACIÓN: DC 6V, 4 PILAS AA *INCLUYE: 3 LLAVES, 2 LLAVEROS *CUERPO DE ACERO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "N133 - CERRADURA ELÉCTRICA CON BOTON - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/N133_841418.webp",
@@ -789,126 +914,6 @@
         {
             "nombre": "DCM5 - EXTENSION DE PANTALLA PORTATIL DOBLE 14\"*IPS LCD",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SCM5 - EXTENSION DE PANTALLA PARA LAPTOP 14\"*IPS LCD - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SCM5_634505.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SCM5 - EXTENSION DE PANTALLA PARA LAPTOP 14\"*IPS LCD",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SCM8 - EXTENSOR DE PANTALLA PORTATIL 15,3\" - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SCM8_864258.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SCM8 - EXTENSOR DE PANTALLA PORTATIL 15,3\"",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TAB 9-BK - MONITOR PORTATIL 16\" - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TAB9-BK_749771.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TAB 9-BK - MONITOR PORTATIL 16\"",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TAB 10-BK - MONITOR PORTATIL 23,8\" - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TAB10-BK_689410.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TAB 10-BK - MONITOR PORTATIL 23,8\"",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "R50-WR - SMARTWATCH BLACKVIEW R50 ROJO VINO*BATERIA 25 DIAS EN STANDBY/5 DIAS DE USO REGULAR*RECIBE LLAMADAS*NOTIFICACIONES*MONITOREA ACTIVIDAD FISICA*IP66 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/R50-WR_125584.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "R50-WR - SMARTWATCH BLACKVIEW R50 ROJO VINO*BATERIA 25 DIAS EN STANDBY/5 DIAS DE USO REGULAR*RECIBE LLAMADAS*NOTIFICACIONES*MONITOREA ACTIVIDAD FISICA*IP66",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "R50-BK - SMARTWATCH BLACKVIEW R50 NEGRO*BATERIA 25 DIAS EN STANDBY/5 DIAS DE USO REGULAR*RECIBE LLAMADAS*NOTIFICACIONES*MONITOREA ACTIVIDAD FISICA*IP66 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/R50-BK_945638.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "R50-BK - SMARTWATCH BLACKVIEW R50 NEGRO*BATERIA 25 DIAS EN STANDBY/5 DIAS DE USO REGULAR*RECIBE LLAMADAS*NOTIFICACIONES*MONITOREA ACTIVIDAD FISICA*IP66",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "D1 PRO - GAFAS INTELIGENTES ESTILO AVIADOR*RESISTENTES AL AGUA IP54*MIC CON CANCELACION DE RUIDO*SONIDO ESPACIAL 360°*6HR DE BATERIA*PROTECCION UV*ULTRTA FINOS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/D1PRO_681065.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "D1 PRO - GAFAS INTELIGENTES ESTILO AVIADOR*RESISTENTES AL AGUA IP54*MIC CON CANCELACION DE RUIDO*SONIDO ESPACIAL 360°*6HR DE BATERIA*PROTECCION UV*ULTRTA FINOS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "WAVE 7C-ORANGE - WAVE 7C 4GB RAM+128GB ROM*PANTALLA HD+ IPS 6,56\" 60Hz*MEMORIA RAM EXPANDIBLE HASTA 12GB*CAMARAS 13MP/32MP+0,3MP*ANDROID 16*4G LTE - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/WAVE7C-ORANGE_580013.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "WAVE 7C-ORANGE - WAVE 7C 4GB RAM+128GB ROM*PANTALLA HD+ IPS 6,56\" 60Hz*MEMORIA RAM EXPANDIBLE HASTA 12GB*CAMARAS 13MP/32MP+0,3MP*ANDROID 16*4G LTE",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ACEBOOK 8 PRO - ACEBOOK 8 PRO 16GB RAM+512GB SSD*CPU AMD 3700U*PANTALLA 16\" 60Hz 1920X1200*WIFI 5 /BT4,2*WIN 11 PRO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ACEBOOK8PRO_152289.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ACEBOOK 8 PRO - ACEBOOK 8 PRO 16GB RAM+512GB SSD*CPU AMD 3700U*PANTALLA 16\" 60Hz 1920X1200*WIFI 5 /BT4,2*WIN 11 PRO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UTP3305II - Fuente de alimentacion Lineal de 3 canal - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UTP3305II_800594.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UTP3305II - Fuente de alimentacion Lineal de 3 canal",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/uni-t.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UT251C+ - PINZA PARA MEDIR CORRIENTES DE FUGA DE ALTA SENSIBILIDAD 3 mA - 60A Y ARMONICOS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UT251C_730060.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UT251C+ - PINZA PARA MEDIR CORRIENTES DE FUGA DE ALTA SENSIBILIDAD 3 mA - 60A Y ARMONICOS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/uni-t.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UT381PV - MEDIDOR DE IRRADIANCIA SOLAR,  0 - 1400W/m2, TEMP. -40 a 120° C, ANGULO DE INCLINACION -90° +90°, AZIMUY 0 -360°, IP 65 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UT381PV_740502.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "UT381PV - MEDIDOR DE IRRADIANCIA SOLAR,  0 - 1400W/m2, TEMP. -40 a 120° C, ANGULO DE INCLINACION -90° +90°, AZIMUY 0 -360°, IP 65",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/uni-t.webp",
             "categoria": "NOVEDADES"
         },
         {
@@ -3057,16 +3062,6 @@
             "categoria": "CONTROL DE ACCESO"
         },
         {
-            "nombre": "VR10 PRO - RADAR DETECCION DE VEHICULOS *RANGO DETECCION 0 - 6Mts *FRECUENCIA DE TRABAJO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/VR10PRO-image-1.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
-            "nombre": "VR10 PRO - RADAR DETECCION DE VEHICULOS *RANGO DETECCION 0 - 6Mts *FRECUENCIA DE TRABAJO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "CONTROL DE ACCESO"
-        },
-        {
             "nombre": "A01755 - MODULO ALTERNATIVO 8 FUNCIONES (CON CAJA) *PERMITE SELECCIONAR EL ACCESORIO Y PROGRAMARLO A TRAVÉS DE JUMPER *ESPECIAL PARA: LUZ DE GARAJE, CERRADURA, 3 SEG, - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A01755-image-0-1716472340362.webp",
             "categoria": "CONTROL DE ACCESO"
@@ -3503,6 +3498,16 @@
         },
         {
             "nombre": "R322 - KIT DE BLOQUEO DE HUELLA DIGITAL INALÁMBRICO IP65, 4 FORMAS DE APERTURA, INSTALACIÓN SENCILLA, APERTURA SIMPLE",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "R320 - CONTROL DE ACCESO POR HUELLA DACTILAR WIFI, LARGA VIDA ÚTIL, PROTECCIÓN IP66, TECLADO RETROILUMINADO, PANTALLA DE ESTADO LED - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/R320-image-0-1735340836259.webp",
+            "categoria": "CONTROL DE ACCESO"
+        },
+        {
+            "nombre": "R320 - CONTROL DE ACCESO POR HUELLA DACTILAR WIFI, LARGA VIDA ÚTIL, PROTECCIÓN IP66, TECLADO RETROILUMINADO, PANTALLA DE ESTADO LED",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
             "categoria": "CONTROL DE ACCESO"
         },
@@ -7398,16 +7403,6 @@
         },
         {
             "nombre": "BF-H5 - RADIO PORTABLE VHF/UHF*DUAL BAND 136-174/400-520MHZ*HASTA 128 CANALES*POTENCIA  10W*CON PANTALLA*BATERIA 1800 MAH*IP57 RESISTENTE AL AGUA/POLVO*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "BF-H6 - RADIO PORTABLE VHF/UHF*DUAL BAND 136-174/400-520MHZ*HASTA 128 CANALES*POTENCIA  10W*CON PANTALLA*BATERIA 1800 MAH*IP57 RESISTENTE AL AGUA/POLVO* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BF-H6_550776.webp",
-            "categoria": "RADIOCOMUNICACION"
-        },
-        {
-            "nombre": "BF-H6 - RADIO PORTABLE VHF/UHF*DUAL BAND 136-174/400-520MHZ*HASTA 128 CANALES*POTENCIA  10W*CON PANTALLA*BATERIA 1800 MAH*IP57 RESISTENTE AL AGUA/POLVO*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/baofeng.webp",
             "categoria": "RADIOCOMUNICACION"
         },
