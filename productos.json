@@ -1,9 +1,84 @@
 {
-    "version": "10032026.23.42",
+    "version": "10062026.23.40",
     "productos": [
         {
-            "nombre": "Tipo de Cambio: - 12,00 Bs - tiktok",
-            "imagen": "https://www.digicorp.com.bo/images/banderas/bo.svg",
+            "nombre": "JBLT520BTBLUAM - AUDIFONO JBL TUNE 520BT AZUL*JBL PURE BASS*BT V5.3*57HRS DE BATERIA*COMPATIBLE CON APP JBL*MANOS LIBRES*PLEGABLES* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/JBLT520BTBLUAM_603978.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "JBLT520BTBLUAM - AUDIFONO JBL TUNE 520BT AZUL*JBL PURE BASS*BT V5.3*57HRS DE BATERIA*COMPATIBLE CON APP JBL*MANOS LIBRES*PLEGABLES*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jbl.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "JBLBAR500M2BLKAM - BARRA DE SONIDO JBL 500MK2 CON SUBWOOFER*SONIDO 5.1*POTENCIA DEMOLEDORA 750W*CONECTIVIDAD WI-FI 6 DOBLE BANDA*AUDIO 3D DOLBY ATMOS Y DTS VIRTUAL X*HDMI ARC - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/JBLBAR500M2BLKAM_644658.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "JBLBAR500M2BLKAM - BARRA DE SONIDO JBL 500MK2 CON SUBWOOFER*SONIDO 5.1*POTENCIA DEMOLEDORA 750W*CONECTIVIDAD WI-FI 6 DOBLE BANDA*AUDIO 3D DOLBY ATMOS Y DTS VIRTUAL X*HDMI ARC",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jbl.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HKLUNAGRYAM - ALTAVOZ HARMAN KARDON LUNA GRIS*DISEÑO ELEGANTE Y PREMIUM*RESITENCIA AL AGUA IP67*AUTONOMIA 12HR* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HKLUNAGRYAM_169327.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HKLUNAGRYAM - ALTAVOZ HARMAN KARDON LUNA GRIS*DISEÑO ELEGANTE Y PREMIUM*RESITENCIA AL AGUA IP67*AUTONOMIA 12HR*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/harman.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "JBLSB180BLKBR2 - JBL CINEMA SB180 CON SUBWOOFER*POTENCIA 220W RMS*SUBWOOFER INALAMBRICO 2.5\"*CONEXION BLUETOOTH 5.2*ENTRADA OPTICA Y USB*DISEÑO ESTILIZADO Y MONTAJE EN PARED - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/JBLSB180BLKBR2_465914.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "JBLSB180BLKBR2 - JBL CINEMA SB180 CON SUBWOOFER*POTENCIA 220W RMS*SUBWOOFER INALAMBRICO 2.5\"*CONEXION BLUETOOTH 5.2*ENTRADA OPTICA Y USB*DISEÑO ESTILIZADO Y MONTAJE EN PARED",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jbl.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HKLUNABLKAM - ALTAVOZ HARMAN KARDON LUNA BLACK*DISEÑO ELEGANTE Y PREMIUM*RESITENCIA AL AGUA IP67*AUTONOMIA 12HR* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HKLUNABLKAM_953107.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HKLUNABLKAM - ALTAVOZ HARMAN KARDON LUNA BLACK*DISEÑO ELEGANTE Y PREMIUM*RESITENCIA AL AGUA IP67*AUTONOMIA 12HR*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/harman.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "CCK02220 - PROYECTOR YABER K3 1600 ANSI LUM*RESOLUCION NATIVA 1080P CON SOPORTE 4K*PROYECCION 40\"-200\"ALTAVOCES JBL 15W DOLBY AUDIO*GOOGLE TV INTEGRADO*NOVAGLOW*USA - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CCK02220_361401.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "CCK02220 - PROYECTOR YABER K3 1600 ANSI LUM*RESOLUCION NATIVA 1080P CON SOPORTE 4K*PROYECCION 40\"-200\"ALTAVOCES JBL 15W DOLBY AUDIO*GOOGLE TV INTEGRADO*NOVAGLOW*USA",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yaber.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "CCK02175 - PROYECTOR YABER K2S 800ANSI LUM*RESOLUCION NATIVA FHD 1080P CON SOPORTE A 4K*PROYECCION DE 40\"-200\"*SONIDO JBL 10W INTEGRADO DOLBY AUDIO*ANDROID TV 12*WIFI6*USA - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CCK02175_527393.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "CCK02175 - PROYECTOR YABER K2S 800ANSI LUM*RESOLUCION NATIVA FHD 1080P CON SOPORTE A 4K*PROYECCION DE 40\"-200\"*SONIDO JBL 10W INTEGRADO DOLBY AUDIO*ANDROID TV 12*WIFI6*USA",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yaber.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HAC-HFW1219SLN-IL-A-PRO - CAMARA HDCVI BALA 2MP WIZCOLOR C/ MIC INTEGRADO *pPLASTICA *MAX 30 fps@1080p *DIST. ILUM. 30M *LENTE 2.8MM *CVI/CVBS/AHD/TVI * IP67 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HAC-HFW1219SLN-IL-A-PRO_881955.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HAC-HFW1219SLN-IL-A-PRO - CAMARA HDCVI BALA 2MP WIZCOLOR C/ MIC INTEGRADO *pPLASTICA *MAX 30 fps@1080p *DIST. ILUM. 30M *LENTE 2.8MM *CVI/CVBS/AHD/TVI * IP67",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
             "categoria": "NOVEDADES"
         },
         {
@@ -837,86 +912,6 @@
             "categoria": "NOVEDADES"
         },
         {
-            "nombre": "WIT12K-HU - Inversor Hibrido Trifasico 12 kW, 380/220 Vac, 50 Hz. 2 entradas MPPT,  40 A de entrada por MPPT. Isc: 50 A. Eficiencia de 97.6 %. Rango de voltaje MPPT:  150 V - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/WIT12K-HU_652422.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "WIT12K-HU - Inversor Hibrido Trifasico 12 kW, 380/220 Vac, 50 Hz. 2 entradas MPPT,  40 A de entrada por MPPT. Isc: 50 A. Eficiencia de 97.6 %. Rango de voltaje MPPT:  150 V",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/growatt.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "Hope5.0LW-B1 Cable - Cable Conexion a Baterias Hope - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Hope50LW-B1Cable_666669.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "Hope5.0LW-B1 Cable - Cable Conexion a Baterias Hope",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/growatt.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "Hope5.0LW-B1 - Bateria de Litio de Pared LiFePO4 de 51.2 V, 100 A, 5.12 kWh. Voltaje de Operacion 40V - 58.4 V. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Hope50LW-B1_905347.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "Hope5.0LW-B1 - Bateria de Litio de Pared LiFePO4 de 51.2 V, 100 A, 5.12 kWh. Voltaje de Operacion 40V - 58.4 V.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/growatt.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SPE12000ES - Inversor Off Grid 12 kW Monofasico 220 Vac 50 Hz. 2 Entradas MPPT, 27A de entrada x MPPT. Efi. 96.5%. Rango de Voltaje MPPT: 60V -480V - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SPE12000ES_620783.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SPE12000ES - Inversor Off Grid 12 kW Monofasico 220 Vac 50 Hz. 2 Entradas MPPT, 27A de entrada x MPPT. Efi. 96.5%. Rango de Voltaje MPPT: 60V -480V",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/growatt.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MID50KTL3-X2 - Inversor trifasico 50 kW, 380 /200 Vac, 50 Hz. 4 entradas MPPT (2 Strings x 16 A),  32 A de entrada por MPPT. Isc: 40A. Eficiencia de 98.8 %. Rango de voltaje M - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MID50KTL3-X2_660214.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MID50KTL3-X2 - Inversor trifasico 50 kW, 380 /200 Vac, 50 Hz. 4 entradas MPPT (2 Strings x 16 A),  32 A de entrada por MPPT. Isc: 40A. Eficiencia de 98.8 %. Rango de voltaje M",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/growatt.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MID40KTL3-X2 - Inversor trifasico 40 kW, 380 /200 Vac, 50 Hz. 4 entradas MPPT (2 Strings 16 A),  32 A de entrada por MPPT. Isc: 40A Eficiencia de 98.8 %. Rango de voltaje MPPT - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MID40KTL3-X2_612950.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MID40KTL3-X2 - Inversor trifasico 40 kW, 380 /200 Vac, 50 Hz. 4 entradas MPPT (2 Strings 16 A),  32 A de entrada por MPPT. Isc: 40A Eficiencia de 98.8 %. Rango de voltaje MPPT",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/growatt.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "NEO 2500M-X2 - Microinversor monofasico 2500 W, 220 Vac 50 Hz con 4 entradas MPPT independiente. Soporta hasta 18 A de entrada por MPPT. Isc: 20A. Eficiencia de 96.5 %. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/NEO2500M-X2_227961.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "NEO 2500M-X2 - Microinversor monofasico 2500 W, 220 Vac 50 Hz con 4 entradas MPPT independiente. Soporta hasta 18 A de entrada por MPPT. Isc: 20A. Eficiencia de 96.5 %.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/growatt.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DCM5 - EXTENSION DE PANTALLA PORTATIL DOBLE 14\"*IPS LCD - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DCM5_196680.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DCM5 - EXTENSION DE PANTALLA PORTATIL DOBLE 14\"*IPS LCD",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
             "nombre": "Metodos de pago",
             "imagen": "https://www.digicorp.com.bo/images/payment-methods/LINKSER.svg",
             "categoria": "NOVEDADES"
@@ -1073,7 +1068,7 @@
         },
         {
             "nombre": "P109 - BATERIA SECA RECARGABLE 12V-9A*12VOLTIOS 9AMPERES*IDEAL PARA UPS ON LINE E INTERACTIVOS*SISTEMAS DE RESPALDO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/P109-image-1-1751664884962.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/P109-image-0-1751664874913.webp",
             "categoria": "Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores"
         },
         {
@@ -1103,7 +1098,7 @@
         },
         {
             "nombre": "P107 - BATERIA SECA RECARGABLE*12 VOLTIOS*4AMPERES*IDEAL PARA PANELES DE ALARMAS Y CERCOS ELECTRICOS*MEDIDAS 10X9X7CM. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/P107-image-1-1751664693385.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/P107-image-0-1751664683607.webp",
             "categoria": "Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores"
         },
         {
@@ -1333,7 +1328,7 @@
         },
         {
             "nombre": "Z054 - CABLE UTP CAT5E CCA EXT* ALEACION* 24 AWG*4 PARES* 0.5MM* PASS FLUKE* CHAQUETA SIMPLE* 305 METROS* CARRETE DE MADERA* COLOR NEGRO* - Iniciar sesión",
-            "imagen": "https://www.digicorp.com.bo/images/social/digicorp-placeholder.jpg",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Z054_456978.webp",
             "categoria": "Cámaras - Control Remoto - Energía - Cables - Soportes - Conectores"
         },
         {
@@ -4068,7 +4063,7 @@
         },
         {
             "nombre": "X002 - FOTOCELULA PARA EXTERIORES, PROTECCION PERIMETRAL: 100M, DOS HAZ DE LUZ QUE EVITAN FALSAS ALARMAS, IR, 4CH SELECCIONABLES, ACCESORIOS INCLUIDOS, SALIDA NO/NC. - Iniciar sesión",
-            "imagen": "https://www.digicorp.com.bo/images/social/digicorp-placeholder.jpg",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/X002_755400.webp",
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
@@ -7458,7 +7453,7 @@
         },
         {
             "nombre": "C908 - CABLE UTP CAT5E BC EXT* 100% COBRE* 25 AWG* 4 PARES* 0.46MM* PASS FLUKE* CHAQUETA SIMPLE* 305 METROS* CARRETE DE MADERA* COLOR NEGRO* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/C908-image-1-1762369802806.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/C908-image-0-1762369794630.webp",
             "categoria": "CABLEADO ESTRUCTURADO Y FO."
         },
         {
@@ -7488,7 +7483,7 @@
         },
         {
             "nombre": "C922 - CABLE UTP CAT5E CCA EXT* ALEACION* 24 AWG* 4 PARES* 0.5MM* PASS FLUKE* CHAQUETA SIMPLE* 100 METROS* CARRETE DE MADERA* COLOR NEGRO* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/C922-image-1-1752668390366.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/C922-image-0-1752668376793.webp",
             "categoria": "CABLEADO ESTRUCTURADO Y FO."
         },
         {
