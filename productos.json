@@ -1,6 +1,186 @@
 {
-    "version": "10132026.00.54",
+    "version": "10152026.22.36",
     "productos": [
+        {
+            "nombre": "BY-K4 - ADAPTADOR DE AUDIO USB-C a TRS HEMBRA 3.5mm*INTEGRACION TOTAL CON ANDROID*CONEXION LIMPIA Y DIRECTA*DISEÑO ULTRA COMPACTO Y PORTATIL - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BY-K4_732248.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "BY-K4 - ADAPTADOR DE AUDIO USB-C a TRS HEMBRA 3.5mm*INTEGRACION TOTAL CON ANDROID*CONEXION LIMPIA Y DIRECTA*DISEÑO ULTRA COMPACTO Y PORTATIL",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/boya.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "BOYA NOTRA-BLACK - GRABADOR DE AUDIO CON IA 3en1*GRABA A 10M A LA REDONDA*COMPATIBLE CON ChatGPT, Claude, Gemini y Grok*+140 IDIOMAS*2MIC MEMS/1 SENSOR VPU*24HR DE BATERIA*64GB - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BOYANOTRA-BLACK_736266.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "BOYA NOTRA-BLACK - GRABADOR DE AUDIO CON IA 3en1*GRABA A 10M A LA REDONDA*COMPATIBLE CON ChatGPT, Claude, Gemini y Grok*+140 IDIOMAS*2MIC MEMS/1 SENSOR VPU*24HR DE BATERIA*64GB",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/boya.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "S220-48P4X - 48 x 10/100/1000BASE-T ports, 4 x 10GE SFP+ ports | 380W PoE+ | built-in AC power | Packet forwarding rate: 131 Mpps | Switching capacity: 176 Gbit/s - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/S220-48P4X_591128.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "S220-48P4X - 48 x 10/100/1000BASE-T ports, 4 x 10GE SFP+ ports | 380W PoE+ | built-in AC power | Packet forwarding rate: 131 Mpps | Switching capacity: 176 Gbit/s",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "96422 - DESTORNILLADOR DE IMPACTO INALAMBRICO*BATERIA 12V*VELOCIDAD 0-2400RPM*TASA DE IMPACTO 3100bpm*MAX TORSION 100Nm*PORTAPUNTAS DE LIBERACION RAPIDA 1/4\"(6,35mm)* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/96422_359017.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "96422 - DESTORNILLADOR DE IMPACTO INALAMBRICO*BATERIA 12V*VELOCIDAD 0-2400RPM*TASA DE IMPACTO 3100bpm*MAX TORSION 100Nm*PORTAPUNTAS DE LIBERACION RAPIDA 1/4\"(6,35mm)*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tolsen.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y032 - GUARDACABO DEDALADOR DE CABLE DE ADEREZAMIENTO / FTTH - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y032_742645.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y032 - GUARDACABO DEDALADOR DE CABLE DE ADEREZAMIENTO / FTTH",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y031 - LÁPIZ LIMPIADOR FTTH DE UN SOLO CLICK SC/FC/ST - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y031_648659.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y031 - LÁPIZ LIMPIADOR FTTH DE UN SOLO CLICK SC/FC/ST",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y030 - ANILLO GUÍA PARA CABLE DE BAJADA - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y030_225807.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y030 - ANILLO GUÍA PARA CABLE DE BAJADA",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y029 - CORREA DE 3/4\" 0,5 MM - 25 M/ROLLO CARTÓN - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y029_832947.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y029 - CORREA DE 3/4\" 0,5 MM - 25 M/ROLLO CARTÓN",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y028 - HEBILLA DE CORREA DE 3/4\" - 100/BOLSA - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y028_746078.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y028 - HEBILLA DE CORREA DE 3/4\" - 100/BOLSA",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y027 - ABRAZADERA DE ANCLAJE MINIRACK DE 20 KN - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y027_211250.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y027 - ABRAZADERA DE ANCLAJE MINIRACK DE 20 KN",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y026 - MINI CAJA DE EMPALME CON 1 TUBO TERMORRETRÁCTIL PC+ABS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y026_509442.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y026 - MINI CAJA DE EMPALME CON 1 TUBO TERMORRETRÁCTIL PC+ABS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y025 - CONECTOR MECANICO INTELIGENTE SC UPC - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y025_370320.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y025 - CONECTOR MECANICO INTELIGENTE SC UPC",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y024 - CONECTOR MECANICO INTELIGENTE SC APC - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y024_549735.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y024 - CONECTOR MECANICO INTELIGENTE SC APC",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y023 - CONECTOR PLC SPLITTER 1×2 - SC APC G657A - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y023_635903.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y023 - CONECTOR PLC SPLITTER 1×2 - SC APC G657A",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y020 - SM SX PATCH CORD 3MM 3M SC APC - SC UPC G657A2 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y020_856649.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y020 - SM SX PATCH CORD 3MM 3M SC APC - SC UPC G657A2",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y019 - SM SX PATCH CORD 3MM 3M SC UPC - SC UPC G657A2 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y019_771426.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y019 - SM SX PATCH CORD 3MM 3M SC UPC - SC UPC G657A2",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y018 - SM SX PATCH CORD 3MM 3M SC APC - SC APC G657A2 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y018_426654.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y018 - SM SX PATCH CORD 3MM 3M SC APC - SC APC G657A2",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y017 - SM SX PATCH CORD 3MM 3M SC APC - SC UPC G657A1 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y017_269031.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y017 - SM SX PATCH CORD 3MM 3M SC APC - SC UPC G657A1",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "Y016 - SM SX PATCH CORD 3MM 3M SC UPC - SC UPC G657A1 - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y016_543883.webp",
@@ -372,16 +552,6 @@
             "categoria": "NOVEDADES"
         },
         {
-            "nombre": "95432 - SERVIDOR NAS UGREEN 2 BAHIAS DH2300 BUNDLE*4GB RAM LPDDR4X NO AMPLIABLE*SOPORTA 60TB* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/95432-image-0-1783007753997.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "95432 - SERVIDOR NAS UGREEN 2 BAHIAS DH2300 BUNDLE*4GB RAM LPDDR4X NO AMPLIABLE*SOPORTA 60TB*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/ugreen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
             "nombre": "M011 - FUENTE DE ALIMENTACIÓN 24V-5A*IDEAL PARA EQUIPOS CONTRA INCENDIOS-ACCESOS *VOLTAJE DE ENTRADA 110-240*AUTONOMIA 24HRS STAND BY/5MIN EN ALARMA*NO INCLUYE BATERIA - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/M011_470870.webp",
             "categoria": "NOVEDADES"
@@ -739,176 +909,6 @@
         {
             "nombre": "ZKC0508X - CAJON DE DINERO *5 ESPACIOS PARA BILLETES, 8 PARA MONEDAS, 1 PARA CHEQUES. *CERRADURA DE 3 POSICIONES. *SUJETA-BILLETES METÁLICO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "A42G-HBEP - HAP BE LITE* WIFI 7 BE3600* DOBLE  BANDA 2,4/5/ GHZ* CPU ARM DUAL CORE 950 MHz* 1 PUERTO  2,5G* 3 PUERTOS GIGAS* OS V7* LIC 6* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A42G-HBEP_295536.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "A42G-HBEP - HAP BE LITE* WIFI 7 BE3600* DOBLE  BANDA 2,4/5/ GHZ* CPU ARM DUAL CORE 950 MHz* 1 PUERTO  2,5G* 3 PUERTOS GIGAS* OS V7* LIC 6*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/mikrotik.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DQ+BC0003-DS+ - CABLE DIVISOR QSFP56* COMPATIBLE 200G A 4 DE 50G* COMPATIBLES CON 100G Y 40G* CRS812 DDQ/CRS804 DDQ* 3 METROS* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DQBC0003-DS_730245.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DQ+BC0003-DS+ - CABLE DIVISOR QSFP56* COMPATIBLE 200G A 4 DE 50G* COMPATIBLES CON 100G Y 40G* CRS812 DDQ/CRS804 DDQ* 3 METROS*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/mikrotik.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DH-DSS-OneBox-H1/128 - ESTACION DE TRABAJO TODO EN UNO CON LICENCIA PRE INSTALADA *SOPORTA 128CH DE VIDEO *PROCESADOR INTEL CORE i7 DE 13va GENERACION *MEMORIA RAM 32GB - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHDSSONEBOXH1128-image-0-1777478700068.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DH-DSS-OneBox-H1/128 - ESTACION DE TRABAJO TODO EN UNO CON LICENCIA PRE INSTALADA *SOPORTA 128CH DE VIDEO *PROCESADOR INTEL CORE i7 DE 13va GENERACION *MEMORIA RAM 32GB",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SFP+STACK-CU1M5 - CABLE PARA STACKING SFP+* 1,5METROS PARA SWITCHES HUAWEI EKIT SERIES 200+ - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SFPSTACKCU1M5-image-0-1760026255762.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SFP+STACK-CU1M5 - CABLE PARA STACKING SFP+* 1,5METROS PARA SWITCHES HUAWEI EKIT SERIES 200+",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "S530-24T4XE - 24 PUERTOS 10/100/1000BASE-T, 4 PUERTOS SFP+ DE 10 GIGABIT ETHERNET (10GE), 2 PUERTOS DE APILAMIENTO (STACK) DE 10GE | TASA DE REENVÍO DE PAQUETES: 125 MPPS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/S53024T4XE-image-0-1764871543043.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "S530-24T4XE - 24 PUERTOS 10/100/1000BASE-T, 4 PUERTOS SFP+ DE 10 GIGABIT ETHERNET (10GE), 2 PUERTOS DE APILAMIENTO (STACK) DE 10GE | TASA DE REENVÍO DE PAQUETES: 125 MPPS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "S220-48T4X - Switch Administrable Capa 2 | 48 Puertos Gigabit | 4 Puertos 10GE SFP+ | Capacidad de Conmutación de 176 Gbps | Fuente de Alimentación Integrada - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/S22048T4X-image-0-1765264391890.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "S220-48T4X - Switch Administrable Capa 2 | 48 Puertos Gigabit | 4 Puertos 10GE SFP+ | Capacidad de Conmutación de 176 Gbps | Fuente de Alimentación Integrada",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AR180 Plus - ROUTER EMPRESARIAL | WI-FI 7 | HASTA 2 GBPS | VPN IPSEC | GESTIONA HASTA 8 AP | SOPORTA HASTA 100 USUARIOS | 4 GE + 1 PUERTO 2.5GE - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AR180Plus_848215.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AR180 Plus - ROUTER EMPRESARIAL | WI-FI 7 | HASTA 2 GBPS | VPN IPSEC | GESTIONA HASTA 8 AP | SOPORTA HASTA 100 USUARIOS | 4 GE + 1 PUERTO 2.5GE",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AP772E - AP OUTDOOR | WI-FI 7 | VELOCIDAD DE 6.45 GBPS | DOBLE RADIO | 130 USUARIOS RECOMENDADOS | MÁX. 1024 USUARIOS | POTENCIA DE TRANSMISIÓN DE 30 DBM | 250 METROS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AP772E-image-3-1778367173380.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AP772E - AP OUTDOOR | WI-FI 7 | VELOCIDAD DE 6.45 GBPS | DOBLE RADIO | 130 USUARIOS RECOMENDADOS | MÁX. 1024 USUARIOS | POTENCIA DE TRANSMISIÓN DE 30 DBM | 250 METROS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AP771 - ACCESS POINT OUTDOOR | Wi-Fi 7 | Velocidad de hasta 3.57 Gbps | Doble radio | Recomendado para hasta 130 usuarios simultáneos | Soporta hasta 256 usu - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AP771-image-0-1774227494947.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AP771 - ACCESS POINT OUTDOOR | Wi-Fi 7 | Velocidad de hasta 3.57 Gbps | Doble radio | Recomendado para hasta 130 usuarios simultáneos | Soporta hasta 256 usu",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AP673 - Punto de Acceso Wi-Fi 7 | Hasta 13.66 Gbps | Triple Radio | Antena Inteligente | Cobertura de hasta 40 m | Hasta 300 Usuarios Recomendados - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AP673-image-0-1764688011044.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AP673 - Punto de Acceso Wi-Fi 7 | Hasta 13.66 Gbps | Triple Radio | Antena Inteligente | Cobertura de hasta 40 m | Hasta 300 Usuarios Recomendados",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AP271E - AP DE PARED | WI-FI 7 | 3.57 GBPS | DOBLE BANDA | RECOMENDADO: 80 USUARIOS (MÁX. 256) | POTENCIA DE TRANSMISIÓN: 23 DBM | 4 PUERTOS GE | ANTENA INTELIGENTE. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AP271E_665720.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AP271E - AP DE PARED | WI-FI 7 | 3.57 GBPS | DOBLE BANDA | RECOMENDADO: 80 USUARIOS (MÁX. 256) | POTENCIA DE TRANSMISIÓN: 23 DBM | 4 PUERTOS GE | ANTENA INTELIGENTE.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "D1-1 - CONECTORES PARA EMPALME DE CABLES*MATERIAL DE AISLANTE PC*PRESENTACIÓN DE 34 UNIDADES*SOPORTA HASTA 250 VOLT&32 AMP*CON CABLES 0.2 MM HASTA 2.5 MM - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/D1-1_289496.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "D1-1 - CONECTORES PARA EMPALME DE CABLES*MATERIAL DE AISLANTE PC*PRESENTACIÓN DE 34 UNIDADES*SOPORTA HASTA 250 VOLT&32 AMP*CON CABLES 0.2 MM HASTA 2.5 MM",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "X6A - Cable de Conexión,  XT-60 to Anderson Cable 1.5 m - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/X6A_254011.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "X6A - Cable de Conexión,  XT-60 to Anderson Cable 1.5 m",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/togo.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "VR1213M - Cargador de Bateroa Solar 13W, Marca TogoPower - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/VR1213M_347626.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "VR1213M - Cargador de Bateroa Solar 13W, Marca TogoPower",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/togo.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "PC4200-V2 - Panel Solar Portátil 200W, Marca Togopower - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PC4200-V2_414775.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "PC4200-V2 - Panel Solar Portátil 200W, Marca Togopower",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/togo.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "PC4120-V2 - Panel Solar Portátil 120W, Marca Togopower - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PC4120-V2_389569.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "PC4120-V2 - Panel Solar Portátil 120W, Marca Togopower",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/togo.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "PC4040 - Panel Solar Portátil 40W, Marca Togopower - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PC4040_139627.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "PC4040 - Panel Solar Portátil 40W, Marca Togopower",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/togo.webp",
             "categoria": "NOVEDADES"
         },
         {
@@ -6763,7 +6763,7 @@
         },
         {
             "nombre": "4501013 - PORTERO ELECTRONICO UNIVERSAL XPE1013 PLUS *13 TECLAS LUMINOSAS*MARCACION DTMF*PROGRAMACION HASTA 10 DIGITOS PREFIJO Y CLAVE DE ACCESO* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4501013-image-1.webp",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4501013_170444.webp",
             "categoria": "TELEFONIA"
         },
         {
