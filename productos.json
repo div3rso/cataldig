@@ -1,66 +1,6 @@
 {
-    "version": "10152026.22.36",
+    "version": "10182026.22.43",
     "productos": [
-        {
-            "nombre": "BY-K4 - ADAPTADOR DE AUDIO USB-C a TRS HEMBRA 3.5mm*INTEGRACION TOTAL CON ANDROID*CONEXION LIMPIA Y DIRECTA*DISEÑO ULTRA COMPACTO Y PORTATIL - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BY-K4_732248.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "BY-K4 - ADAPTADOR DE AUDIO USB-C a TRS HEMBRA 3.5mm*INTEGRACION TOTAL CON ANDROID*CONEXION LIMPIA Y DIRECTA*DISEÑO ULTRA COMPACTO Y PORTATIL",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/boya.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "BOYA NOTRA-BLACK - GRABADOR DE AUDIO CON IA 3en1*GRABA A 10M A LA REDONDA*COMPATIBLE CON ChatGPT, Claude, Gemini y Grok*+140 IDIOMAS*2MIC MEMS/1 SENSOR VPU*24HR DE BATERIA*64GB - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BOYANOTRA-BLACK_736266.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "BOYA NOTRA-BLACK - GRABADOR DE AUDIO CON IA 3en1*GRABA A 10M A LA REDONDA*COMPATIBLE CON ChatGPT, Claude, Gemini y Grok*+140 IDIOMAS*2MIC MEMS/1 SENSOR VPU*24HR DE BATERIA*64GB",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/boya.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "S220-48P4X - 48 x 10/100/1000BASE-T ports, 4 x 10GE SFP+ ports | 380W PoE+ | built-in AC power | Packet forwarding rate: 131 Mpps | Switching capacity: 176 Gbit/s - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/S220-48P4X_591128.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "S220-48P4X - 48 x 10/100/1000BASE-T ports, 4 x 10GE SFP+ ports | 380W PoE+ | built-in AC power | Packet forwarding rate: 131 Mpps | Switching capacity: 176 Gbit/s",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "96422 - DESTORNILLADOR DE IMPACTO INALAMBRICO*BATERIA 12V*VELOCIDAD 0-2400RPM*TASA DE IMPACTO 3100bpm*MAX TORSION 100Nm*PORTAPUNTAS DE LIBERACION RAPIDA 1/4\"(6,35mm)* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/96422_359017.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "96422 - DESTORNILLADOR DE IMPACTO INALAMBRICO*BATERIA 12V*VELOCIDAD 0-2400RPM*TASA DE IMPACTO 3100bpm*MAX TORSION 100Nm*PORTAPUNTAS DE LIBERACION RAPIDA 1/4\"(6,35mm)*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tolsen.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "Y032 - GUARDACABO DEDALADOR DE CABLE DE ADEREZAMIENTO / FTTH - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y032_742645.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "Y032 - GUARDACABO DEDALADOR DE CABLE DE ADEREZAMIENTO / FTTH",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "Y031 - LÁPIZ LIMPIADOR FTTH DE UN SOLO CLICK SC/FC/ST - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y031_648659.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "Y031 - LÁPIZ LIMPIADOR FTTH DE UN SOLO CLICK SC/FC/ST",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "NOVEDADES"
-        },
         {
             "nombre": "Y030 - ANILLO GUÍA PARA CABLE DE BAJADA - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y030_225807.webp",
@@ -909,6 +849,66 @@
         {
             "nombre": "ZKC0508X - CAJON DE DINERO *5 ESPACIOS PARA BILLETES, 8 PARA MONEDAS, 1 PARA CHEQUES. *CERRADURA DE 3 POSICIONES. *SUJETA-BILLETES METÁLICO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "A42G-HBEP - HAP BE LITE* WIFI 7 BE3600* DOBLE  BANDA 2,4/5/ GHZ* CPU ARM DUAL CORE 950 MHz* 1 PUERTO  2,5G* 3 PUERTOS GIGAS* OS V7* LIC 6* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A42G-HBEP_295536.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "A42G-HBEP - HAP BE LITE* WIFI 7 BE3600* DOBLE  BANDA 2,4/5/ GHZ* CPU ARM DUAL CORE 950 MHz* 1 PUERTO  2,5G* 3 PUERTOS GIGAS* OS V7* LIC 6*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/mikrotik.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DQ+BC0003-DS+ - CABLE DIVISOR QSFP56* COMPATIBLE 200G A 4 DE 50G* COMPATIBLES CON 100G Y 40G* CRS812 DDQ/CRS804 DDQ* 3 METROS* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DQBC0003-DS_730245.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DQ+BC0003-DS+ - CABLE DIVISOR QSFP56* COMPATIBLE 200G A 4 DE 50G* COMPATIBLES CON 100G Y 40G* CRS812 DDQ/CRS804 DDQ* 3 METROS*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/mikrotik.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-DSS-OneBox-H1/128 - ESTACION DE TRABAJO TODO EN UNO CON LICENCIA PRE INSTALADA *SOPORTA 128CH DE VIDEO *PROCESADOR INTEL CORE i7 DE 13va GENERACION *MEMORIA RAM 32GB - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHDSSONEBOXH1128-image-0-1777478700068.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DH-DSS-OneBox-H1/128 - ESTACION DE TRABAJO TODO EN UNO CON LICENCIA PRE INSTALADA *SOPORTA 128CH DE VIDEO *PROCESADOR INTEL CORE i7 DE 13va GENERACION *MEMORIA RAM 32GB",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SFP+STACK-CU1M5 - CABLE PARA STACKING SFP+* 1,5METROS PARA SWITCHES HUAWEI EKIT SERIES 200+ - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SFPSTACKCU1M5-image-0-1760026255762.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SFP+STACK-CU1M5 - CABLE PARA STACKING SFP+* 1,5METROS PARA SWITCHES HUAWEI EKIT SERIES 200+",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "S530-24T4XE - 24 PUERTOS 10/100/1000BASE-T, 4 PUERTOS SFP+ DE 10 GIGABIT ETHERNET (10GE), 2 PUERTOS DE APILAMIENTO (STACK) DE 10GE | TASA DE REENVÍO DE PAQUETES: 125 MPPS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/S53024T4XE-image-0-1764871543043.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "S530-24T4XE - 24 PUERTOS 10/100/1000BASE-T, 4 PUERTOS SFP+ DE 10 GIGABIT ETHERNET (10GE), 2 PUERTOS DE APILAMIENTO (STACK) DE 10GE | TASA DE REENVÍO DE PAQUETES: 125 MPPS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "S220-48T4X - Switch Administrable Capa 2 | 48 Puertos Gigabit | 4 Puertos 10GE SFP+ | Capacidad de Conmutación de 176 Gbps | Fuente de Alimentación Integrada - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/S22048T4X-image-0-1765264391890.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "S220-48T4X - Switch Administrable Capa 2 | 48 Puertos Gigabit | 4 Puertos 10GE SFP+ | Capacidad de Conmutación de 176 Gbps | Fuente de Alimentación Integrada",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
             "categoria": "NOVEDADES"
         },
         {
@@ -3972,16 +3972,6 @@
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
-            "nombre": "DMS-MC11-W - MOTOR SMART PÁRA APERTURA DE CORTINAS TIPO PERSIANAS, CON BATERIA RECARGABLE - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DMSMC11W-ima1720730209025.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
-            "nombre": "DMS-MC11-W - MOTOR SMART PÁRA APERTURA DE CORTINAS TIPO PERSIANAS, CON BATERIA RECARGABLE",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
             "nombre": "H364 - NEUTRO+CABLE VIVO, CORRIENTE NOMINAL: 15A (MÁX.), TENSIÓN NOMINAL: AC 100-220V (50/60Hz), USB: 5V/2.1A, CONTROL POR VOZ ALEXA Y GOOGLE, SMART LIFE. - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1714165049607.webp",
             "categoria": "ALARMAS Y DOMOTICA"
@@ -4132,16 +4122,6 @@
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
-            "nombre": "TM50 - TECLADO, TOUCH SCREEN *PERMITE PERSONALIZAR ETIQUETAS DE ZONAS, IMÁGENES COMO PROTECTOR DE PANTALLA COMPATIBLE CON PANELES SWAN, SPECTRA, MAGELLAN Y EVO. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TM50-image-1.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
-            "nombre": "TM50 - TECLADO, TOUCH SCREEN *PERMITE PERSONALIZAR ETIQUETAS DE ZONAS, IMÁGENES COMO PROTECTOR DE PANTALLA COMPATIBLE CON PANELES SWAN, SPECTRA, MAGELLAN Y EVO.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/paradox.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
             "nombre": "ZX8SP - MÓDULO DE EXPANSIÓN UNIVERSAL DE 8 ZONAS*NO DOBLA ZONAS*1 SALIDA PGM* COMPATIBLE CON E55, MAGELLAN, SPECTRA (NO COMPATIBLE CON EVO). - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZX8SP-image-1.webp",
             "categoria": "ALARMAS Y DOMOTICA"
@@ -4172,16 +4152,6 @@
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
-            "nombre": "DMS-MC15-B - ROBOT SMART PARA APERTURA DE CORTINAS INDIVIDUALES, COMUNICACION VIA BLUETOOTH, NO COMPATIBLE CON ASISTENTES DE VOZ - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DMSMC15B-image-1-13-22-23.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
-            "nombre": "DMS-MC15-B - ROBOT SMART PARA APERTURA DE CORTINAS INDIVIDUALES, COMUNICACION VIA BLUETOOTH, NO COMPATIBLE CON ASISTENTES DE VOZ",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
             "nombre": "REM25 - Control remoto inalámbrico. Realiza seis acciones diferentes, como armar y desarmar su sistema, habilitar y deshabilitar PGM, compatible solo con RTX3 - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/REM25-image-0-1721157101813.webp",
             "categoria": "ALARMAS Y DOMOTICA"
@@ -4208,16 +4178,6 @@
         },
         {
             "nombre": "S109 - CONTACTO MAGNÉTICO SMART, DC 3V, WIFI O BLUETOOTH, CONTROL DE VOZ ALEXA Y GOOGLE,SMART LIFE, INCLUYE PILAS AAA, DISTANCIA INALÁMBRICA 15M. ALARMA: =90dB-1 M.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
-            "nombre": "DMS-WB080-RGB-WB - BOMBILLO SMART, DE LUZ LCD, 9W, RGB,WIFI, BLUETOOTH, 220V AC - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DMSWB0801715112560039.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
-            "nombre": "DMS-WB080-RGB-WB - BOMBILLO SMART, DE LUZ LCD, 9W, RGB,WIFI, BLUETOOTH, 220V AC",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
             "categoria": "ALARMAS Y DOMOTICA"
         },
@@ -4272,16 +4232,6 @@
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
-            "nombre": "MG5050+ - PANELES DE ALARMAS INALÁMBRICOS, 5 ZONAS EN PLACA , NO SOPORTA ZTA, EXPANDIBLE A 32 ZONAS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MG5050-image-1.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
-            "nombre": "MG5050+ - PANELES DE ALARMAS INALÁMBRICOS, 5 ZONAS EN PLACA , NO SOPORTA ZTA, EXPANDIBLE A 32 ZONAS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/paradox.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
             "nombre": "ES-F1 24V - SIRENA CON LUZ STROBO, ALIMENTACION 24V DC, CONSUMO 95MA, 85DB/1, CANDELAS 1.2WS POR CICLOS DE 2 SEGUNDOS, DIMENSIONES 185X130X70MM - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ESF124V-image-1.webp",
             "categoria": "ALARMAS Y DOMOTICA"
@@ -4302,16 +4252,6 @@
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
-            "nombre": "VDMP3 - MARCADOR VOCAL EXTERNO*REPORTA  ALARMAS MEDIANTE MENSAJES PREGRABADOS*ORIENTACIÓN VOCAL PARA EL ARMADO/DESARMADO DEL SISTEMA*COMPATIBLE CON EVO/SP/MG. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/VDMP3-image-1.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
-            "nombre": "VDMP3 - MARCADOR VOCAL EXTERNO*REPORTA  ALARMAS MEDIANTE MENSAJES PREGRABADOS*ORIENTACIÓN VOCAL PARA EL ARMADO/DESARMADO DEL SISTEMA*COMPATIBLE CON EVO/SP/MG.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/paradox.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
             "nombre": "SL-22-12V-RD - LUZ ESTROBOSCOPICA, COLOR ROJA, FUNCIONA A 12V, SIN SONIDO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SL2212VRD-image-1.webp",
             "categoria": "ALARMAS Y DOMOTICA"
@@ -4319,16 +4259,6 @@
         {
             "nombre": "SL-22-12V-RD - LUZ ESTROBOSCOPICA, COLOR ROJA, FUNCIONA A 12V, SIN SONIDO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sentek.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
-            "nombre": "DMS- BH0312F-W - SOCKETS SMART, PARA AUTOMATIZAR lLUCES TIPO BOMBILLOS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DMSBH0312FW-image-1-13-40-1.webp",
-            "categoria": "ALARMAS Y DOMOTICA"
-        },
-        {
-            "nombre": "DMS- BH0312F-W - SOCKETS SMART, PARA AUTOMATIZAR lLUCES TIPO BOMBILLOS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
@@ -4392,44 +4322,74 @@
             "categoria": "ALARMAS Y DOMOTICA"
         },
         {
-            "nombre": "CHK-SL-04 - ETIQUETA RF REDONDA *COMPATIBLE CON CHK-521 *FRECUENCIA 8.2MHZ *DIMENSIÓN R30MM *DISTANCIA DE DETECCION DUAL 1,2M MONO 0,6MX2. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CHKSL04-image-1-9-27-16.webp",
-            "categoria": "SISTEMAS ANTIHURTO"
+            "nombre": "S107 - PUERTA DE ENLACE INTELIGENTE ZIGBEE 3.0, DC 5V.1A, FRECUENCIA 2.4GHz, APP SMART LIFE CONTROL DE VOZ ALEXA Y GOOGLE, COMPATIBLE CON DISPOSITIVOS ZIGBEE. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1713555191337.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
         },
         {
-            "nombre": "CHK-SL-04 - ETIQUETA RF REDONDA *COMPATIBLE CON CHK-521 *FRECUENCIA 8.2MHZ *DIMENSIÓN R30MM *DISTANCIA DE DETECCION DUAL 1,2M MONO 0,6MX2.",
+            "nombre": "S107 - PUERTA DE ENLACE INTELIGENTE ZIGBEE 3.0, DC 5V.1A, FRECUENCIA 2.4GHz, APP SMART LIFE CONTROL DE VOZ ALEXA Y GOOGLE, COMPATIBLE CON DISPOSITIVOS ZIGBEE.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "SISTEMAS ANTIHURTO"
+            "categoria": "ALARMAS Y DOMOTICA"
         },
         {
-            "nombre": "DB202-01DUAL - DESACTIVADOR ETIQUETAS RF *UNA BASE *INCLUYE FUENTE DE PODER - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DB20201718808121507.webp",
-            "categoria": "SISTEMAS ANTIHURTO"
+            "nombre": "W036 - BOTON DE EMERGENCIA* IDEAL PARA PULSADOR DE PANICO O PARA PULSADOR DE SALIDA EN CONTROLES DE ACCESO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/W036-image-1.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
         },
         {
-            "nombre": "DB202-01DUAL - DESACTIVADOR ETIQUETAS RF *UNA BASE *INCLUYE FUENTE DE PODER",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/century.webp",
-            "categoria": "SISTEMAS ANTIHURTO"
-        },
-        {
-            "nombre": "D903/C-B1-1010MM - DESTRABADOR SUPER LOCK PARA TAG AM Y TAG RF CON MAYOR FUERZA DE DESTRABAMIENTO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/D903CB11010MM-image-1.webp",
-            "categoria": "SISTEMAS ANTIHURTO"
-        },
-        {
-            "nombre": "D903/C-B1-1010MM - DESTRABADOR SUPER LOCK PARA TAG AM Y TAG RF CON MAYOR FUERZA DE DESTRABAMIENTO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/century.webp",
-            "categoria": "SISTEMAS ANTIHURTO"
-        },
-        {
-            "nombre": "CHK-E43BL - MINI TAG RF BLANCO *FRECUENCIA 8.2MHZ *DIMENSIÓN 46 X 42MM *DISTANCIA DE DETECCION DUAL 1,4M MONO 0,7MX2. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CHKE43BL-image-1-15-19-28.webp",
-            "categoria": "SISTEMAS ANTIHURTO"
-        },
-        {
-            "nombre": "CHK-E43BL - MINI TAG RF BLANCO *FRECUENCIA 8.2MHZ *DIMENSIÓN 46 X 42MM *DISTANCIA DE DETECCION DUAL 1,4M MONO 0,7MX2.",
+            "nombre": "W036 - BOTON DE EMERGENCIA* IDEAL PARA PULSADOR DE PANICO O PARA PULSADOR DE SALIDA EN CONTROLES DE ACCESO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "SISTEMAS ANTIHURTO"
+            "categoria": "ALARMAS Y DOMOTICA"
+        },
+        {
+            "nombre": "H350 - INTERRUPTOR WIFI, MODO DE SUMINISTRO NOMINAL: NEUTRO+CABLE VIVO, O CAPACITOR TENSIÓN NOMINAL: AC110V-240V (50/60HZ), CONTROL POR VOZ ALEXA Y GOOGLE, SMART LIFE. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1713987811024.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
+        },
+        {
+            "nombre": "H350 - INTERRUPTOR WIFI, MODO DE SUMINISTRO NOMINAL: NEUTRO+CABLE VIVO, O CAPACITOR TENSIÓN NOMINAL: AC110V-240V (50/60HZ), CONTROL POR VOZ ALEXA Y GOOGLE, SMART LIFE.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
+        },
+        {
+            "nombre": "CABO PROG.USB - CABLE DE PROGRAMACION P/CENTRALES *JFL *USB 2.0 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CABOPROGUSB-image-1.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
+        },
+        {
+            "nombre": "CABO PROG.USB - CABLE DE PROGRAMACION P/CENTRALES *JFL *USB 2.0",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
+        },
+        {
+            "nombre": "H366 - VERSIÓN ZIGBEE 3.0, HASTA 100 SUBDISPOSITIVOS ADMITIDOS, DISTANCIA DE 15 METROS\nENTRADA: 5V/1A,  CONTROL POR VOZ ALEXA Y GOOGLE, APP SMART LIFE, 250 KBPS. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/H366-image-1.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
+        },
+        {
+            "nombre": "H366 - VERSIÓN ZIGBEE 3.0, HASTA 100 SUBDISPOSITIVOS ADMITIDOS, DISTANCIA DE 15 METROS\nENTRADA: 5V/1A,  CONTROL POR VOZ ALEXA Y GOOGLE, APP SMART LIFE, 250 KBPS.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
+        },
+        {
+            "nombre": "W032 - LUZ ESTROBOSCÓPICA LED, COLOR ROJO PARA ALARMAS, VOLTAJE: DC12V / 24V, FRECUENCIA DE FLASH: 90 VECES/MINUTO, INSTALACIÓN CON TORNILLOS. CORRIENTE: 80mA - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/W032-image-1.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
+        },
+        {
+            "nombre": "W032 - LUZ ESTROBOSCÓPICA LED, COLOR ROJO PARA ALARMAS, VOLTAJE: DC12V / 24V, FRECUENCIA DE FLASH: 90 VECES/MINUTO, INSTALACIÓN CON TORNILLOS. CORRIENTE: 80mA",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
+        },
+        {
+            "nombre": "SHC FIT P - SENSOR DETECCION P/APERT VENTANA - PUERTA DE ACERO V3* FRECUENCIA FIJA 433 MHZ* ALCANCE A 100 MTS SIN OBSTACULOS*BAJO CONSUMO*BATERIA TIPO CR2032, - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SH1718825976202.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
+        },
+        {
+            "nombre": "SHC FIT P - SENSOR DETECCION P/APERT VENTANA - PUERTA DE ACERO V3* FRECUENCIA FIJA 433 MHZ* ALCANCE A 100 MTS SIN OBSTACULOS*BAJO CONSUMO*BATERIA TIPO CR2032,",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
+            "categoria": "ALARMAS Y DOMOTICA"
         },
         {
             "nombre": "1041 - CERCA ELECTRICA PARA GANADO, SUPER TURBO 100 KM,  FUNCIONA CON  BAT 12V, ALCANCE 16.000M, 8 JOULE, TENSION DE SALIDA 9.000V - Iniciar sesión",
@@ -4612,16 +4572,6 @@
             "categoria": "PROTECCION PERIMETRAL"
         },
         {
-            "nombre": "SS-090 - GRAPAS 0.9 MM. VIENE LA BOLSITA DE 100 UNIDADES. ES PARA LAS CERCAS ELECTRICAS. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SS090-image-1-14-40-4.webp",
-            "categoria": "PROTECCION PERIMETRAL"
-        },
-        {
-            "nombre": "SS-090 - GRAPAS 0.9 MM. VIENE LA BOLSITA DE 100 UNIDADES. ES PARA LAS CERCAS ELECTRICAS.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "PROTECCION PERIMETRAL"
-        },
-        {
             "nombre": "ISO-300A - AISLADOR FINAL DE LÍNEA TIPO PERA*COLOR AMARILLO* AISLADOR DE PLÁSTICO*ALTA DENSIDAD*AISLACIÓN MAYOR A 12.000 VOLTIOS (PAQ. 25 UNIDADES). - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ISO300A-image-1.webp",
             "categoria": "PROTECCION PERIMETRAL"
@@ -4632,14 +4582,24 @@
             "categoria": "PROTECCION PERIMETRAL"
         },
         {
-            "nombre": "ECR 18i - CERCA ELECTRICA INDUSTRIAL A CONTROL REMOTO Energía de pulso de salida: 4 Joules Tensión de salida en abierto de 18.000V Alambrado 0,6mm ? 5.000m lineales - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ECR18I-image-1.webp",
-            "categoria": "PROTECCION PERIMETRAL"
+            "nombre": "SD119-4H-12 - SENSOR DE HUMO DE TECNOLOGÍA FOTOTÉRMICA*HUMO/ CALOR*SE ACTIVA AL DETECTAR LA PRESENCIA DE HUMO O CUANDO  LA TEMPERATURA LLEGA A LOS 57°C* (BASE INCLUÍDA). - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SD111718660746043.webp",
+            "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "ECR 18i - CERCA ELECTRICA INDUSTRIAL A CONTROL REMOTO Energía de pulso de salida: 4 Joules Tensión de salida en abierto de 18.000V Alambrado 0,6mm ? 5.000m lineales",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
-            "categoria": "PROTECCION PERIMETRAL"
+            "nombre": "SD119-4H-12 - SENSOR DE HUMO DE TECNOLOGÍA FOTOTÉRMICA*HUMO/ CALOR*SE ACTIVA AL DETECTAR LA PRESENCIA DE HUMO O CUANDO  LA TEMPERATURA LLEGA A LOS 57°C* (BASE INCLUÍDA).",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sentek.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A50SH - Sensor de humo y temperatura direccionable, con sello UL, CE, EN-54 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SH-image-1.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A50SH - Sensor de humo y temperatura direccionable, con sello UL, CE, EN-54",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
         },
         {
             "nombre": "SIRAYL - SIRENA DIRECCIONABLE* SE INSTALA COMO UN ELEMENTO MAS DEL BUCLE*SU INTENSIDAD SONORA ES DE 95/105 dB*INCLUYE LUZ LED. - Iniciar sesión",
@@ -4922,16 +4882,6 @@
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "A30-XTA - SENSOR TÉRMICO DIRECCIONABLE**DISPARO CUANDO LA TEMPERATURA LLEGA A 55ºC*NO FUNCIONA CON HUMO SOLO CON TEMPERATURA*NO INCLUYE BASE. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A30XTA-image-1.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A30-XTA - SENSOR TÉRMICO DIRECCIONABLE**DISPARO CUANDO LA TEMPERATURA LLEGA A 55ºC*NO FUNCIONA CON HUMO SOLO CON TEMPERATURA*NO INCLUYE BASE.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
             "nombre": "D50ZAL - BASE PERFIL ALTO, PARA COFEM CONVENCIONAL O ANALOGICO - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/D50ZAL-image-1.webp",
             "categoria": "DETECCION DE INCENDIO"
@@ -4952,92 +4902,12 @@
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "A30-XZO - BASE PARA SENSORES DIRECCIONABLES O CONVENCIONALES DE INCENDIO COFEM. COMPATIBLES SOLO CON SISTEMAS DE INCENDIO DE DOS HILOS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A30XZO-image-1.webp",
+            "nombre": "ONIX02BROJ - CENTRAL DIRECCIONABLE DE 2 BUCLES & 226 PTOSxBUCLE*CERTIFICACION UL-CE-EN *PROGRAMACION DE 99 ZONAS*HISTORIAL HASTA 6601 EVENTOS*2 SALIDAS DE SIRENA PROG. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ONIX02BROJ_139000.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "A30-XZO - BASE PARA SENSORES DIRECCIONABLES O CONVENCIONALES DE INCENDIO COFEM. COMPATIBLES SOLO CON SISTEMAS DE INCENDIO DE DOS HILOS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "PIAL - LUZ  INDICADOR DE ACCIÓN REMOTO*SE CONECTA DIRECTAMENTE AL SENSOR DIRECCIONABLE O CONVENCIONAL  PARA ALERTAR EN CASO DE ALARMA. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PIAL-image-1.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "PIAL - LUZ  INDICADOR DE ACCIÓN REMOTO*SE CONECTA DIRECTAMENTE AL SENSOR DIRECCIONABLE O CONVENCIONAL  PARA ALERTAR EN CASO DE ALARMA.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MSTAY_703719.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A50SHID - DETECTOR DIRECCIONABLE,OPTICO TERMICO ANALOGICO CON AISLADOR A50 CON SONIDO. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SHID-image-0-1768832507203.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A50SHID - DETECTOR DIRECCIONABLE,OPTICO TERMICO ANALOGICO CON AISLADOR A50 CON SONIDO.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A30-XZR - BASE DE 4 HILOS PARA SENSORES COFEM * COMPATIBLE CON PANELES PARADOX  O CUALQUIER OTRO PANEL CON CONEXIÓN DE 4 HILOS. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A30XZR-image-1.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A30-XZR - BASE DE 4 HILOS PARA SENSORES COFEM * COMPATIBLE CON PANELES PARADOX  O CUALQUIER OTRO PANEL CON CONEXIÓN DE 4 HILOS.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "SVL4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SVL4-image-0-1747430678277.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "SVL4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SVS4-image-0-1747430597047.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE*COMPATIBLE CON PANELES CONVENCIONALES - DIRECCIONABLES*ALIMENTACION 24-35v*IP30*NORMATIVA EN 54-18*AISLADOR DE CORTOCIRCUITO. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MDA1Y_285163.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE*COMPATIBLE CON PANELES CONVENCIONALES - DIRECCIONABLES*ALIMENTACION 24-35v*IP30*NORMATIVA EN 54-18*AISLADOR DE CORTOCIRCUITO.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A50SHILD - DETECTOR DIRECCIONABLE, OPTICO TERMICO CON AISLADOR A50 SONIDO & FLASH. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SHILD-image-0-1768911826138.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "A50SHILD - DETECTOR DIRECCIONABLE, OPTICO TERMICO CON AISLADOR A50 SONIDO & FLASH.",
+            "nombre": "ONIX02BROJ - CENTRAL DIRECCIONABLE DE 2 BUCLES & 226 PTOSxBUCLE*CERTIFICACION UL-CE-EN *PROGRAMACION DE 99 ZONAS*HISTORIAL HASTA 6601 EVENTOS*2 SALIDAS DE SIRENA PROG.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
@@ -5052,12 +4922,52 @@
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "ONIX02BROJ - CENTRAL DIRECCIONABLE DE 2 BUCLES & 226 PTOSxBUCLE*CERTIFICACION UL-CE-EN *PROGRAMACION DE 99 ZONAS*HISTORIAL HASTA 6601 EVENTOS*2 SALIDAS DE SIRENA PROG. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ONIX02BROJ_139000.webp",
+            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE*COMPATIBLE CON PANELES CONVENCIONALES - DIRECCIONABLES*ALIMENTACION 24-35v*IP30*NORMATIVA EN 54-18*AISLADOR DE CORTOCIRCUITO. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MDA1Y_285163.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "ONIX02BROJ - CENTRAL DIRECCIONABLE DE 2 BUCLES & 226 PTOSxBUCLE*CERTIFICACION UL-CE-EN *PROGRAMACION DE 99 ZONAS*HISTORIAL HASTA 6601 EVENTOS*2 SALIDAS DE SIRENA PROG.",
+            "nombre": "MDA1Y - MODULO DE SALIDA DE 1 RELE*COMPATIBLE CON PANELES CONVENCIONALES - DIRECCIONABLES*ALIMENTACION 24-35v*IP30*NORMATIVA EN 54-18*AISLADOR DE CORTOCIRCUITO.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SVS4-image-0-1747430597047.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "SVS4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "SVL4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SVL4-image-0-1747430678277.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "SVL4 - TARJETA DE 4 RELES SUPERVISADOS PARA CENTRAL SILVER",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "LYONRM08ROJ - CENTRAL DIRECCIONABLE DE 8 BUCLES Y MODULO DE COMUNICACION REMOTE, SOPORTA 199 PUNTOS POR BUCLE - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/LYONRM08ROJ-image-1-16-39-33.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "LYONRM08ROJ - CENTRAL DIRECCIONABLE DE 8 BUCLES Y MODULO DE COMUNICACION REMOTE, SOPORTA 199 PUNTOS POR BUCLE",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "KMAY - MODULO ANALOGICO (DIRECCIONABLE)*PERMITE CONECTAR PUYLSADORES Y DETECTORES CONVENCIONALES EN UN SISTEMA DIRECCIONABLE. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/KMAY_485120.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "KMAY - MODULO ANALOGICO (DIRECCIONABLE)*PERMITE CONECTAR PUYLSADORES Y DETECTORES CONVENCIONALES EN UN SISTEMA DIRECCIONABLE.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
@@ -5072,6 +4982,36 @@
             "categoria": "DETECCION DE INCENDIO"
         },
         {
+            "nombre": "A50SHILD - DETECTOR DIRECCIONABLE, OPTICO TERMICO CON AISLADOR A50 SONIDO & FLASH. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SHILD-image-0-1768911826138.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A50SHILD - DETECTOR DIRECCIONABLE, OPTICO TERMICO CON AISLADOR A50 SONIDO & FLASH.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "DN15M - VALVULA P/CORTE DE FUGA DE GAS*FUNCIONAMIENTO 12 VDC*CONEXION A SALIDA PGM DE PANELES DE CONTROL DE ACCESO O ALARMAS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1718743272801.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "DN15M - VALVULA P/CORTE DE FUGA DE GAS*FUNCIONAMIENTO 12 VDC*CONEXION A SALIDA PGM DE PANELES DE CONTROL DE ACCESO O ALARMAS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sentek.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A50SHID - DETECTOR DIRECCIONABLE,OPTICO TERMICO ANALOGICO CON AISLADOR A50 CON SONIDO. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A50SHID-image-0-1768832507203.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
+            "nombre": "A50SHID - DETECTOR DIRECCIONABLE,OPTICO TERMICO ANALOGICO CON AISLADOR A50 CON SONIDO.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
+            "categoria": "DETECCION DE INCENDIO"
+        },
+        {
             "nombre": "MDCRM360 - MODULO DE COMUNICACIÓN REMOTE COFEM360*PARA ONIX, QUARTZ, RUBI Y SILVER*ACCESO MEDIANTE APP COFEM 360*CONSULTA EVENTOS DE CENTRAL*ACCESO DIRECTO A INTERFACE. - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MDCRM360_932153.webp",
             "categoria": "DETECCION DE INCENDIO"
@@ -5082,33 +5022,13 @@
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "DR-B4 - MONTAJE DE PUERTA TIPO VENTANA COLOR NEGRO *PESO 7,9 KG - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DRB4-image-1.webp",
+            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MSTAY_703719.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
-            "nombre": "DR-B4 - MONTAJE DE PUERTA TIPO VENTANA COLOR NEGRO *PESO 7,9 KG",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/notifier.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "KMAY - MODULO ANALOGICO (DIRECCIONABLE)*PERMITE CONECTAR PUYLSADORES Y DETECTORES CONVENCIONALES EN UN SISTEMA DIRECCIONABLE. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/KMAY_485120.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "KMAY - MODULO ANALOGICO (DIRECCIONABLE)*PERMITE CONECTAR PUYLSADORES Y DETECTORES CONVENCIONALES EN UN SISTEMA DIRECCIONABLE.",
+            "nombre": "MSTAY - Módulo de señales*Que detecta si un contacto seco, esta en estado abierto o cerrado * En caso de anomalía el informa acerca de la alarma o avería.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/cofem.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "SMB500 - CAJA PARA MONTAR MODULOS MONTAJE EN PARED - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SMB500-image-1.webp",
-            "categoria": "DETECCION DE INCENDIO"
-        },
-        {
-            "nombre": "SMB500 - CAJA PARA MONTAR MODULOS MONTAJE EN PARED",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/notifier.webp",
             "categoria": "DETECCION DE INCENDIO"
         },
         {
@@ -5179,16 +5099,6 @@
         {
             "nombre": "C994 - GPS VEHICULAR PARA VEHICULO - MOTOCICLETA Y OTROS *2G* SEGUIMIENTO TIEMPO REAL*ALARMA ENCENDIDO/APAGADO*ALARMA SOS*MICROFONO*ALMACENAMIENTO DE MEMORIA",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "GPS"
-        },
-        {
-            "nombre": "QL-DATA-CABLE - CABLE PROGRAMACION USB *PROLIFIC PL2303 *COMPATIBLE CON GL200, GT300, GV55, GV300, GMT100 Y GV500 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/QLDATACABLE-image-1.webp",
-            "categoria": "GPS"
-        },
-        {
-            "nombre": "QL-DATA-CABLE - CABLE PROGRAMACION USB *PROLIFIC PL2303 *COMPATIBLE CON GL200, GT300, GV55, GV300, GMT100 Y GV500",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/queclink.webp",
             "categoria": "GPS"
         },
         {
@@ -6612,16 +6522,6 @@
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "MP-56-TEAMS - TELEFONO IP MP56 TEAMS EDITION* PANTALLA  TACTIL 7\"* ANDROID 12* BT 4.2 WIFI 2.4/5G* USB TIPO A*2 PUERTO GIGAS*  ADMINTE MODULO DE EXPACION EXP50* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MP56TEAMS-image-1-10-56-58.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "MP-56-TEAMS - TELEFONO IP MP56 TEAMS EDITION* PANTALLA  TACTIL 7\"* ANDROID 12* BT 4.2 WIFI 2.4/5G* USB TIPO A*2 PUERTO GIGAS*  ADMINTE MODULO DE EXPACION EXP50*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yealink.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
             "nombre": "4610503 - SIRENA AUDIO VISUAL DIRECCIONABLE, Compatible con las centrales direccionables: CIE 1125/1250/2500. - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4610503-image-0-1744398503656.webp",
             "categoria": "TELEFONIA"
@@ -6639,16 +6539,6 @@
         {
             "nombre": "GXP2170 - TELEFONO IP *6 LINEAS SIP *BLUETOOTH *PANTALLA LCD COLOR *DOS PUERTOS ETH GIGABIT *SOPORTA POE802.3AF *SOPORTA 4 MODULOS GXP2200EXT *48 TECLAS BLF*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/grandstream.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "CP-960 - TELEFONO DE CONFERENCIA CP960*PANTALLA TACTIL 5\"*CAPTACION DE SONIDO 360°*ALCANCE 6M*VINCULACION PC O TEL. MOVIL*ALTAVOZ**BT*USB*ANDROID*WIFI* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1718135466768.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "CP-960 - TELEFONO DE CONFERENCIA CP960*PANTALLA TACTIL 5\"*CAPTACION DE SONIDO 360°*ALCANCE 6M*VINCULACION PC O TEL. MOVIL*ALTAVOZ**BT*USB*ANDROID*WIFI*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yealink.webp",
             "categoria": "TELEFONIA"
         },
         {
@@ -6679,16 +6569,6 @@
         {
             "nombre": "TG100 - GATEWAY GSM SERIE TG100*1 PUERTO GSM*GSM 850/900/1800/1900 MHZ*WCDMA 850/1900 MHZ*850/2100 MHZ*900/2100 MHZ*PROTOCOLO SIP/IAX2*1 PUERTO 10/100MBPS*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yeastar.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4114002 - INTERFACE CELULAR FIJA ICW 4002*3G WIFI 2,4 GHz*SOPORTA HASTA 32 DISPOSITIVOS CONECTADO*1 RANURA SIM*COMPATIBLE CON ANTENA EXTERNA*ANTENA DE 3 DBI* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4114002-image-1-8-35-49.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4114002 - INTERFACE CELULAR FIJA ICW 4002*3G WIFI 2,4 GHz*SOPORTA HASTA 32 DISPOSITIVOS CONECTADO*1 RANURA SIM*COMPATIBLE CON ANTENA EXTERNA*ANTENA DE 3 DBI*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
             "categoria": "TELEFONIA"
         },
         {
@@ -6842,16 +6722,6 @@
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "4750031 - ROUTER INALAMBRICO COORPORATIVO-HOT SPOT 300*SOPORTA HASTA 60 USUARIOS*CHECK-INS FACEBOOK* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4750031-image-1.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4750031 - ROUTER INALAMBRICO COORPORATIVO-HOT SPOT 300*SOPORTA HASTA 60 USUARIOS*CHECK-INS FACEBOOK*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
             "nombre": "4610049 - DETECTOR DE TEMPERATURA DIRECCIONABLE DTE 523*2 HILOS*USO INTERNO*TENSION DE FUNCIONAMIENTO 20 A 30 VDC*TERMICO/TERMOVELOCIMETRICO. - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4610049-image-0-1769525644905.webp",
             "categoria": "TELEFONIA"
@@ -6872,62 +6742,12 @@
             "categoria": "TELEFONIA"
         },
         {
-            "nombre": "4990003 - TARJETA 16 EXTENSIONES PARA LA IMPACTA 140 *COMPATIBLE CON LA CENTRAL IMPACTA 140 DE PARED - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4990003-image-1.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4990003 - TARJETA 16 EXTENSIONES PARA LA IMPACTA 140 *COMPATIBLE CON LA CENTRAL IMPACTA 140 DE PARED",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "GRP2602G - IP PHONE GS 2 LINE 4SIP GIGA POE PS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/GRP2602G-image-0-1730213722178.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "GRP2602G - IP PHONE GS 2 LINE 4SIP GIGA POE PS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/grandstream.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4990083 - TARJETA DE 4 INTERNOS ANALOGICOS *ADICIONA 4 EXTENSIONES *COMPATIBLE CON IMPACTA 16/68I - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4990083-image-1.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4990083 - TARJETA DE 4 INTERNOS ANALOGICOS *ADICIONA 4 EXTENSIONES *COMPATIBLE CON IMPACTA 16/68I",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
             "nombre": "GXP2200EXT - EXTENSION DE TECLADO PARA GXP2140-2170-GXV3240 *TECLAS BLF *TOUCH SCREEN *PANTALLA DE 128X384 *20 BOTONES PROGRAMABLES *HASTA 4 MODULOS *160 CONTACTOS* - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/GXP2200EXT-image-1.webp",
             "categoria": "TELEFONIA"
         },
         {
             "nombre": "GXP2200EXT - EXTENSION DE TECLADO PARA GXP2140-2170-GXV3240 *TECLAS BLF *TOUCH SCREEN *PANTALLA DE 128X384 *20 BOTONES PROGRAMABLES *HASTA 4 MODULOS *160 CONTACTOS*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/grandstream.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4543510 - MODULO DE LINHA TELEFONICA FXO 8000, Expansor RING TIP DTMF Hace llamadas Ideal para uso con comunicadores universales Compatible con AMT 2018 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4543510-image-0-1737397629081.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4543510 - MODULO DE LINHA TELEFONICA FXO 8000, Expansor RING TIP DTMF Hace llamadas Ideal para uso con comunicadores universales Compatible con AMT 2018",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "GXV3350 - TELEFONO IP ANDROID 7.0*16 LINEAS SIP *PANTALLA TACTIL 5\" *WIFI *BLUETOOTH *SOPORTA POE AT/AF *CAMARA CMOS, PUERTO*2 GIGABIT DUAL *SALIDA HDMI-USB* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/GXV3350-image-1.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "GXV3350 - TELEFONO IP ANDROID 7.0*16 LINEAS SIP *PANTALLA TACTIL 5\" *WIFI *BLUETOOTH *SOPORTA POE AT/AF *CAMARA CMOS, PUERTO*2 GIGABIT DUAL *SALIDA HDMI-USB*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/grandstream.webp",
             "categoria": "TELEFONIA"
         },
@@ -6949,56 +6769,6 @@
         {
             "nombre": "4090407 - TELEFONO TC20 ANALOGICO *TELEFONO ALAMBRICO BASICO UNIVERSAL *BLANCO *TECLADO ILUMINADO *SOPORTE PARA PARED O MESA *CABLE CONECTADO DIRECTAMENTE AL AURICULAR",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "T6-2C-120M - INTERRUPTOR TOUCH DE PARED INTELIGENTE WIFI DE 2 GANG*TX GEN2*VOLTAJE 110-240V*TOTAL MAX. 16A*CONECTIVIDAD WIFI IEE 802.11*MATERIAL PC+CRISTAL*APP EWELINK*BLANC - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T6-2C-120M_505742.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "T6-2C-120M - INTERRUPTOR TOUCH DE PARED INTELIGENTE WIFI DE 2 GANG*TX GEN2*VOLTAJE 110-240V*TOTAL MAX. 16A*CONECTIVIDAD WIFI IEE 802.11*MATERIAL PC+CRISTAL*APP EWELINK*BLANC",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "T6-3C-120MB - INTERRUPTOR TOUCHDE PARED INTELIGENTE WIFI DE 3 GANG*TX GEN2*VOLTAJE 110-240V*TOTAL MAX. 16A*CONECTIVIDAD WIFI IEE 802.11*MATERIAL PC+CRISTAL*APP EWELINK*NEGRO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T6-3C-120MB_871207.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "T6-3C-120MB - INTERRUPTOR TOUCHDE PARED INTELIGENTE WIFI DE 3 GANG*TX GEN2*VOLTAJE 110-240V*TOTAL MAX. 16A*CONECTIVIDAD WIFI IEE 802.11*MATERIAL PC+CRISTAL*APP EWELINK*NEGRO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "T6-2C-120MB - INTERRUPTOR TOUCH DE PARED INTELIGENTE WIFI DE 2 GANG*TX GEN2*VOLTAJE 110-240V*TOTAL MAX. 16A*CONECTIVIDAD WIFI IEE 802.11*MATERIAL PC+CRISTAL*APP EWELINK*NEGRO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/T6-2C-120MB_509354.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "T6-2C-120MB - INTERRUPTOR TOUCH DE PARED INTELIGENTE WIFI DE 2 GANG*TX GEN2*VOLTAJE 110-240V*TOTAL MAX. 16A*CONECTIVIDAD WIFI IEE 802.11*MATERIAL PC+CRISTAL*APP EWELINK*NEGRO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "CAM-PT2 - CAMARA DOMO PARA INTERIORES WIFI*RESOLUCION FULLHD 1080P*CARGA TIPO C*ROTACION HORIZONTAL340°/VERTICAL180°*MATERIAL ABS*COMPRESION VIDEO H.264*AUDIO BIDIRECCION - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CAM-PT2_741836.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "CAM-PT2 - CAMARA DOMO PARA INTERIORES WIFI*RESOLUCION FULLHD 1080P*CARGA TIPO C*ROTACION HORIZONTAL340°/VERTICAL180°*MATERIAL ABS*COMPRESION VIDEO H.264*AUDIO BIDIRECCION",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "SIP-T57W - TELEFONO IP POE T57W*16 LINEAS SIP*2 PUERTOS GIGABIT*DC5V*DISPLAY COLOR 7\"TOUCH*CONFERENCIA 3 VIAS*NO INCLUYE FUENTE*AUDIO HD*USB*BT 4.2*WIFI*BASADO LINUX* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SIPT57W-image-1.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "SIP-T57W - TELEFONO IP POE T57W*16 LINEAS SIP*2 PUERTOS GIGABIT*DC5V*DISPLAY COLOR 7\"TOUCH*CONFERENCIA 3 VIAS*NO INCLUYE FUENTE*AUDIO HD*USB*BT 4.2*WIFI*BASADO LINUX*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yealink.webp",
             "categoria": "TELEFONIA"
         },
         {
@@ -7029,6 +6799,146 @@
         {
             "nombre": "4616660 - MODULO DE ZONA MDZ 521 EXP, permite la conexión de hasta veinte detectores de humo y temperatura convencionales en el sistema de alarma direccionable.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "4920463 - TARJETA 32 EXTENSIONES CP 192-352 BALANCEADA * AGREGA 2 LINEAS TRONCALES A LA CENTRAL CP 192 O 352 *LINEA TELEFONIA UNIVERSAL - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4920463-image-1.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "4920463 - TARJETA 32 EXTENSIONES CP 192-352 BALANCEADA * AGREGA 2 LINEAS TRONCALES A LA CENTRAL CP 192 O 352 *LINEA TELEFONIA UNIVERSAL",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "DP710 - TELEFONO IP INALAMBRICO *SIMPLE+CARGADOR *TECNOLOGIA DECT *REQUIERE 1 DP715 COMO TELEFONO CON BASE MAESTRA *INCLUYE BATERIAS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DP710-image-1.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "DP710 - TELEFONO IP INALAMBRICO *SIMPLE+CARGADOR *TECNOLOGIA DECT *REQUIERE 1 DP715 COMO TELEFONO CON BASE MAESTRA *INCLUYE BATERIAS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/grandstream.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "4CHPROR3 - Interruptor WiFi Sonoff 4 Canales PRO R3, pro R3 es un switch de 4 vías que permite operar mediante una red inalámbrica una multitud de aparatos eléctricos. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4CHPROR3-image-0-1769438010017.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "4CHPROR3 - Interruptor WiFi Sonoff 4 Canales PRO R3, pro R3 es un switch de 4 vías que permite operar mediante una red inalámbrica una multitud de aparatos eléctricos.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "BASICR4 - Interruptor inteligente Wi-Fi SONOFF BASICR4*100-240 VCA 50/60 Hz*Carga Máxima: 10A 2400W@240V*Wifi: IEEE 802.11 b/g/n 2,4 GHz*Tamaño: 88x39x24mm - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BASICR4-image-0-1769452901735.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "BASICR4 - Interruptor inteligente Wi-Fi SONOFF BASICR4*100-240 VCA 50/60 Hz*Carga Máxima: 10A 2400W@240V*Wifi: IEEE 802.11 b/g/n 2,4 GHz*Tamaño: 88x39x24mm",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "4503201 - CONDOMINIAL CP 352  *DE 8 A 352 EXTENSIONES *MODULAR*PERMITE LLAMADAS DISCRETAS*LLAMADAS ENTRE DEPARTAMENTO SIN COSTOS*FUNCION SIGUEME*TIMBRES DIFERENCIADOS* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4503201-image-1.jpg",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "4503201 - CONDOMINIAL CP 352  *DE 8 A 352 EXTENSIONES *MODULAR*PERMITE LLAMADAS DISCRETAS*LLAMADAS ENTRE DEPARTAMENTO SIN COSTOS*FUNCION SIGUEME*TIMBRES DIFERENCIADOS*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "ZBM5-2C-120W - INTERRUPTOR 2 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZBM52C120W-image-0-1770235037082.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "ZBM5-2C-120W - INTERRUPTOR 2 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "O2 MODULE - MODULO O2*2 PUERTOS FXO*2 RJ11*CONECTA 2 PUERTOS ANALOGICOS PSTN*PARA CENTRALES  S20/S50/S100/S300* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/O2MODULE-image-1.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "O2 MODULE - MODULO O2*2 PUERTOS FXO*2 RJ11*CONECTA 2 PUERTOS ANALOGICOS PSTN*PARA CENTRALES  S20/S50/S100/S300*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yeastar.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "S2 MODULE - MODULO S2*2 PUERTOS FXS*PARA CENTRALES  S20/S50/S100/S300* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/S2MODULE-image-1.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "S2 MODULE - MODULO S2*2 PUERTOS FXS*PARA CENTRALES  S20/S50/S100/S300*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yeastar.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "WCDMA - MODULO WCDMA*1 CANAL WCDMA*1 CANAL PARA LLAMADA DE VOZ WCDMA 900/2100 MHz, 850/2100 MHz, 850/1900 MHz*PARA CENTRALES  S20/50/S100/S300* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/WCDMA-image-1.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "WCDMA - MODULO WCDMA*1 CANAL WCDMA*1 CANAL PARA LLAMADA DE VOZ WCDMA 900/2100 MHz, 850/2100 MHz, 850/1900 MHz*PARA CENTRALES  S20/50/S100/S300*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yeastar.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "TG400 - GATEWAY GSM SERIE TG400*4 PUERTO GSM*GSM 850/900/1800/1900 MHZ*WCDMA 850/1900 MHZ*850/2100 MHZ*900/2100 MHZ*PROTOCOLO SIP/IAX2*1 PUERTO 10/100MBPS* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/1718118321858.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "TG400 - GATEWAY GSM SERIE TG400*4 PUERTO GSM*GSM 850/900/1800/1900 MHZ*WCDMA 850/1900 MHZ*850/2100 MHZ*900/2100 MHZ*PROTOCOLO SIP/IAX2*1 PUERTO 10/100MBPS*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yeastar.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "ZBM5-3C-120W - INTERRUPTOR 3 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZBM53C120W-image-0-1770236147910.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "ZBM5-3C-120W - INTERRUPTOR 3 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "M5-1C-120 - INTERRUPTOR INTELIGENTE DE 1 GANG*COLOR GRIS*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/M51C120-image-0-1769459183098.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "M5-1C-120 - INTERRUPTOR INTELIGENTE DE 1 GANG*COLOR GRIS*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "GXW4216V2 - GATEWAY IP *16 PUERTOS FXS *16 CUENTAS SIP *2 ETH 10/100MBPS *PROTOCOLO T.38 *CANCELACION DE ECO G.168 *DETECCION DE VOZ ACTIVA *SOPORTA TELEFONOS ANALOGICOS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/GXW4216V2-image-1-11-11-29.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "GXW4216V2 - GATEWAY IP *16 PUERTOS FXS *16 CUENTAS SIP *2 ETH 10/100MBPS *PROTOCOLO T.38 *CANCELACION DE ECO G.168 *DETECCION DE VOZ ACTIVA *SOPORTA TELEFONOS ANALOGICOS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/grandstream.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "M5-2C-120W - INTERRUPTOR INTELIGENTE DE 2 GANG*COLOR BLANCO*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/M52C120W-image-0-1769806557827.webp",
+            "categoria": "TELEFONIA"
+        },
+        {
+            "nombre": "M5-2C-120W - INTERRUPTOR INTELIGENTE DE 2 GANG*COLOR BLANCO*WIFI*Wifi IEEE 802.11 b/g/n 2,4 GHz*Temperatura de trabajo -10°C a 40°C.*Voltaje 100-240 V CA 50/60 Hz",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
             "categoria": "TELEFONIA"
         },
         {
