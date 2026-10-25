@@ -1,6 +1,26 @@
 {
-    "version": "10212026.22.48",
+    "version": "10242026.22.39",
     "productos": [
+        {
+            "nombre": "Y032 - GUARDACABO DEDALADOR DE CABLE DE ADEREZAMIENTO / FTTH - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y032_742645.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y032 - GUARDACABO DEDALADOR DE CABLE DE ADEREZAMIENTO / FTTH",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y031 - LÁPIZ LIMPIADOR FTTH DE UN SOLO CLICK SC/FC/ST - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y031_648659.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "Y031 - LÁPIZ LIMPIADOR FTTH DE UN SOLO CLICK SC/FC/ST",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "Y030 - ANILLO GUÍA PARA CABLE DE BAJADA - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/Y030_225807.webp",
@@ -888,26 +908,6 @@
         },
         {
             "nombre": "AR180 Plus - ROUTER EMPRESARIAL | WI-FI 7 | HASTA 2 GBPS | VPN IPSEC | GESTIONA HASTA 8 AP | SOPORTA HASTA 100 USUARIOS | 4 GE + 1 PUERTO 2.5GE",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AP772E - AP OUTDOOR | WI-FI 7 | VELOCIDAD DE 6.45 GBPS | DOBLE RADIO | 130 USUARIOS RECOMENDADOS | MÁX. 1024 USUARIOS | POTENCIA DE TRANSMISIÓN DE 30 DBM | 250 METROS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AP772E-image-3-1778367173380.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AP772E - AP OUTDOOR | WI-FI 7 | VELOCIDAD DE 6.45 GBPS | DOBLE RADIO | 130 USUARIOS RECOMENDADOS | MÁX. 1024 USUARIOS | POTENCIA DE TRANSMISIÓN DE 30 DBM | 250 METROS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AP771 - ACCESS POINT OUTDOOR | Wi-Fi 7 | Velocidad de hasta 3.57 Gbps | Doble radio | Recomendado para hasta 130 usuarios simultáneos | Soporta hasta 256 usu - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AP771-image-0-1774227494947.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "AP771 - ACCESS POINT OUTDOOR | Wi-Fi 7 | Velocidad de hasta 3.57 Gbps | Doble radio | Recomendado para hasta 130 usuarios simultáneos | Soporta hasta 256 usu",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/huawei_ekit.webp",
             "categoria": "NOVEDADES"
         },
