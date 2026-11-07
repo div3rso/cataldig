@@ -1,6 +1,216 @@
 {
-    "version": "11042026.00.16",
+    "version": "11072026.00.02",
     "productos": [
+        {
+            "nombre": "SenseFace 7A/Wifi - CONTROL DE ACCESO *PANTALLA TOUCH 7” *CAP.: FACIAL: 10 000 *RFID: 50 000 *HUELLAS: 10 000 *EVENTOS: 300000 *COM.: TCP/IP, USB HOST, WI-FI *ALIMENTACIÓN: 12 VDC - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SenseFace7AWifi_292518.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SenseFace 7A/Wifi - CONTROL DE ACCESO *PANTALLA TOUCH 7” *CAP.: FACIAL: 10 000 *RFID: 50 000 *HUELLAS: 10 000 *EVENTOS: 300000 *COM.: TCP/IP, USB HOST, WI-FI *ALIMENTACIÓN: 12 VDC",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DT1700 - ALCOHOLÍMETRO PARA CONTROL DE ACCESO G4 PRO/FP *RANGO DE MEDICIÓN: CONCENTRACIÓN DE ALCOHOL DE 0,0 MG/100 ML A 400 MG/100 ML. *PANTALLA: 1,77\" - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DT1700_766688.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DT1700 - ALCOHOLÍMETRO PARA CONTROL DE ACCESO G4 PRO/FP *RANGO DE MEDICIÓN: CONCENTRACIÓN DE ALCOHOL DE 0,0 MG/100 ML A 400 MG/100 ML. *PANTALLA: 1,77\"",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "G4 Pro/FP - CONTROL ACCESO Y ASISTENCIA DE RECONOCIMIENTO FACIAL + ALCOHOLIMETRO DT1700 *COM: TCP/IP, WIFI CAP.: 10000 HUELLAS, 10000 MIFARE ,10000 ROSTROS, 1000000 EVENTOS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/G4PROFP-image-0-1754322892349.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "G4 Pro/FP - CONTROL ACCESO Y ASISTENCIA DE RECONOCIMIENTO FACIAL + ALCOHOLIMETRO DT1700 *COM: TCP/IP, WIFI CAP.: 10000 HUELLAS, 10000 MIFARE ,10000 ROSTROS, 1000000 EVENTOS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "BL-852Q38A-LP - CÁMARA LPR IP BULLET PARA RECONOCIMIENTO DE PLACAS *SOFTWARE LPR INTEGRADO *LENTE MOTORIZADO *RESOLUCIÓN 2MP OPCIONES:POE/IP67/AUDIO/ALARMA/RANURA P/TARJETA SD - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/BL852Q38ALP-image-1-15-45-30.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "BL-852Q38A-LP - CÁMARA LPR IP BULLET PARA RECONOCIMIENTO DE PLACAS *SOFTWARE LPR INTEGRADO *LENTE MOTORIZADO *RESOLUCIÓN 2MP OPCIONES:POE/IP67/AUDIO/ALARMA/RANURA P/TARJETA SD",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UT251C - PINZA PARA MEDIR CORRIENTES DE FUGA, RANGO DE MEDICION: 0.001 ma -60A, 60A - 199A, 200A - 300A, 300A - 600A, VOLTAJE: 600 Vac, 50 Hz, Res. 1 mA, CAT III 600V - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UT251C_711115.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "UT251C - PINZA PARA MEDIR CORRIENTES DE FUGA, RANGO DE MEDICION: 0.001 ma -60A, 60A - 199A, 200A - 300A, 300A - 600A, VOLTAJE: 600 Vac, 50 Hz, Res. 1 mA, CAT III 600V",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/uni-t.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4630010 - LUZ DE EMERGENCIA 3000 LUMENES*RENDIMIENTO HASTA 600 M2*ANGULO DE HAZ DE HASTA 120° - CUENTA CON 2 FAROS LED AJUSTABLES*DURACION DE BATERIA HASTA 2 HRS - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4630010_153535.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4630010 - LUZ DE EMERGENCIA 3000 LUMENES*RENDIMIENTO HASTA 600 M2*ANGULO DE HAZ DE HASTA 120° - CUENTA CON 2 FAROS LED AJUSTABLES*DURACION DE BATERIA HASTA 2 HRS",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4550021 - CERCA INDUSTRIAL ELC6012*CHOQUE 5 JOULES*TENSION DE 12.000-18.000 VOLT.*1 ZONA CABLEADA* 7 ZONAS INALAMBRICAS*COBERTURA HASTA 10.000 MTS*INCLUYE MODULO WIFI. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4550021_270765.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4550021 - CERCA INDUSTRIAL ELC6012*CHOQUE 5 JOULES*TENSION DE 12.000-18.000 VOLT.*1 ZONA CABLEADA* 7 ZONAS INALAMBRICAS*COBERTURA HASTA 10.000 MTS*INCLUYE MODULO WIFI.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4541033 - TRANSMISOR UNIVERSAL TX 8000 INALAMBRICO*CONVIERTE SENSORES CABLEADOS EN INALAMBRICOS*COMPATIBLE CON AMT8000*1000 MTS SIN BARRERA*FRECUENCIA 915 A 928 MHZ - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4541033_506024.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4541033 - TRANSMISOR UNIVERSAL TX 8000 INALAMBRICO*CONVIERTE SENSORES CABLEADOS EN INALAMBRICOS*COMPATIBLE CON AMT8000*1000 MTS SIN BARRERA*FRECUENCIA 915 A 928 MHZ",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4541032 - SENSOR MAGNETICO INALAMBRICO XAS 8000*DISTANCIA DE APERTURA 20MM*ALCANCE COMUNICACION 1000 MTS*ALIMENTACION 3 VDC*BATERIA CR2450*COMPATIBLE SOLO PANEL AMT8000 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4541032_422949.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4541032 - SENSOR MAGNETICO INALAMBRICO XAS 8000*DISTANCIA DE APERTURA 20MM*ALCANCE COMUNICACION 1000 MTS*ALIMENTACION 3 VDC*BATERIA CR2450*COMPATIBLE SOLO PANEL AMT8000",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4540056 - SENSOR INALAMBRICO IVP 8000 PET G2 - C/BATERIA*COMPATIBLE SOLO CON LA LINEA 8000*FRECUENCIA 915-928 MHZ*BATERIA CR123A*ANGULO DE DETECCION 90°-12 MTS*PET 20 KG - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4540056_176326.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4540056 - SENSOR INALAMBRICO IVP 8000 PET G2 - C/BATERIA*COMPATIBLE SOLO CON LA LINEA 8000*FRECUENCIA 915-928 MHZ*BATERIA CR123A*ANGULO DE DETECCION 90°-12 MTS*PET 20 KG",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4543513 - CONTROL REMOTO XAC 8000 PT - C/BATERIA*COMPATIBLE SOLO CON PANEL AMT8000*BATERIA  CR2032*TRANSMISION 400 MTS*SEÑAL RF DE 915 A 928 MHZ - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4543513_261562.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4543513 - CONTROL REMOTO XAC 8000 PT - C/BATERIA*COMPATIBLE SOLO CON PANEL AMT8000*BATERIA  CR2032*TRANSMISION 400 MTS*SEÑAL RF DE 915 A 928 MHZ",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4543567 - TECLADO INALAMBRICO XAT 8000 EXP CON BATERIA*FRECUENCIA 912 A 928 MHZ*COMPATIBLE SOLO CON PANEL AMT8000*DISTANCIA HASTA 1000 MTS*BATERIA CR2450 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4543567_678641.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4543567 - TECLADO INALAMBRICO XAT 8000 EXP CON BATERIA*FRECUENCIA 912 A 928 MHZ*COMPATIBLE SOLO CON PANEL AMT8000*DISTANCIA HASTA 1000 MTS*BATERIA CR2450",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4543537 - AMPLIFICADOR RF DE ALCANCE REP 8000*DISEÑADO PARA AUMENTAR EL ALCANCE DEL SISTEMA INALAMBRICO  AMT800*COBERTURA HASTA 1000 MTS SIN OBSTACULOS*FREC 915-928 MHZ - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4543537_530024.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4543537 - AMPLIFICADOR RF DE ALCANCE REP 8000*DISEÑADO PARA AUMENTAR EL ALCANCE DEL SISTEMA INALAMBRICO  AMT800*COBERTURA HASTA 1000 MTS SIN OBSTACULOS*FREC 915-928 MHZ",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4543514 - SIRENA INALAMBRICA XSS 8000 - C/BATERIA*COMPATIBLE SOLO PANELES AMT8000*POTENCIA 100 dB A 1 MTS*INCLUYE BATERIA*FACIL INSTALACION*SEÑAL RF 915 A 928 MHZ - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4543514_467143.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4543514 - SIRENA INALAMBRICA XSS 8000 - C/BATERIA*COMPATIBLE SOLO PANELES AMT8000*POTENCIA 100 dB A 1 MTS*INCLUYE BATERIA*FACIL INSTALACION*SEÑAL RF 915 A 928 MHZ",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4540100 - PANEL DE ALARMA AMT8000 PRO* INALAMBRICO ETH + WIFI* SIRENA INTEGRADA*HASTA 64 ZONAS INALAMBRICAS* FRECUENCIA 915-928 MHZ*INCLUYE BATERIA RECARGABLE 3.7V - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4540100_951984.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4540100 - PANEL DE ALARMA AMT8000 PRO* INALAMBRICO ETH + WIFI* SIRENA INTEGRADA*HASTA 64 ZONAS INALAMBRICAS* FRECUENCIA 915-928 MHZ*INCLUYE BATERIA RECARGABLE 3.7V",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4600164 - MEMORIA MICRO SD128GB*DISEÑADA PARA TRABAJAR EN CAMARAS DE SEGURIDAD-VEHICULOS*GRABACION CONTINUA 24/7*DURABILIDAD 5VECES MAYOR*COLABORACION CON WESTERN DIGITAL - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4600164_314689.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4600164 - MEMORIA MICRO SD128GB*DISEÑADA PARA TRABAJAR EN CAMARAS DE SEGURIDAD-VEHICULOS*GRABACION CONTINUA 24/7*DURABILIDAD 5VECES MAYOR*COLABORACION CON WESTERN DIGITAL",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4610050 - DETECTOR DE HUMO DIRECCIONABLE DF523*VOLTAJE DE FUNCIONAMIENTO 20 - 30 VDC*INSTALACIÓN 2 HILOS*CLASE INSTALACION A o B* MATERIAL PC CON PROTECCION UV. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4610050_950768.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4610050 - DETECTOR DE HUMO DIRECCIONABLE DF523*VOLTAJE DE FUNCIONAMIENTO 20 - 30 VDC*INSTALACIÓN 2 HILOS*CLASE INSTALACION A o B* MATERIAL PC CON PROTECCION UV.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4630400 - LUZ DE EMERGENCIA TIPO LAMPARA DOBLE BLA 400, Tensión de alimentación 100 a 240 V 60Hz Consumo 2,2 W (cargando) Autonomía >3 horas Flujo luminoso 400 lm. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4630400-image-0-1756996098045.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4630400 - LUZ DE EMERGENCIA TIPO LAMPARA DOBLE BLA 400, Tensión de alimentación 100 a 240 V 60Hz Consumo 2,2 W (cargando) Autonomía >3 horas Flujo luminoso 400 lm.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4541024 - TRANSMISOR UNIVERSAL TX 4020 SMART* CONVIERTE TUS SENSORES CABLEADOS EN INALAMBRICOS*INCLUYE BATERIA DE LITIO CR2032*FRECUENCIA 433,92 MHZ* MODULACION FSK-OOK - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4541024_834545.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4541024 - TRANSMISOR UNIVERSAL TX 4020 SMART* CONVIERTE TUS SENSORES CABLEADOS EN INALAMBRICOS*INCLUYE BATERIA DE LITIO CR2032*FRECUENCIA 433,92 MHZ* MODULACION FSK-OOK",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4600163 - MEMORIA MICRO SD 64GB*DISEÑADA PARA TRABAJAR EN CAMARAS DE SEGURIDAD-VEHICULOS*GRABACION CONTINUA 24/7*DURABILIDAD 5VECES MAYOR*COLABORACION CON WESTERN DIGITAL - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4600163_997203.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4600163 - MEMORIA MICRO SD 64GB*DISEÑADA PARA TRABAJAR EN CAMARAS DE SEGURIDAD-VEHICULOS*GRABACION CONTINUA 24/7*DURABILIDAD 5VECES MAYOR*COLABORACION CON WESTERN DIGITAL",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4600162 - MEMORIA MICRO SD 32GB*DISEÑADA PARA TRABAJAR EN CAMARAS DE SEGURIDAD-VEHICULOS*GRABACION CONTINUA 24/7*DURABILIDAD 5VECES MAYOR*COLABORACION CON WESTERN DIGITAL - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4600162_702070.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "4600162 - MEMORIA MICRO SD 32GB*DISEÑADA PARA TRABAJAR EN CAMARAS DE SEGURIDAD-VEHICULOS*GRABACION CONTINUA 24/7*DURABILIDAD 5VECES MAYOR*COLABORACION CON WESTERN DIGITAL",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "IPC-HFW1230S1-A-28-S6-QH - CAMARA IP BALA 2MP CON AUDIO *METAL/PLASTICA *SENSOR 1/2.9\" CMOS *LENTE 2.8MM *IR MAX 30M * DWDR, 3D NR, HLC, BLC *12 VDC/PoE *IP67 *SMD PLUS - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-HFW1230S1-A-28-S6-QH_224194.webp",
@@ -709,216 +919,6 @@
         {
             "nombre": "N132 - CERRADURA ELÉCTRICA DE ACERO INOXIDABLE",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "N131 - CERRADURA ELÉCTRICA DE SOBREPONER - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/N131_600365.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "N131 - CERRADURA ELÉCTRICA DE SOBREPONER",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZKB203S - LECTOR 2D (QR) INALAMBRICO *BATERIA 2000mAh *CON BASE *DPI: 640x480 PIXELES *CAMPO LECTURA: HORIZONTAL 41°; VERTICAL 31°COMUNICACIÓN: 2,4GHz INALAMBRICO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKB203S-image-0-1716502366170.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZKB203S - LECTOR 2D (QR) INALAMBRICO *BATERIA 2000mAh *CON BASE *DPI: 640x480 PIXELES *CAMPO LECTURA: HORIZONTAL 41°; VERTICAL 31°COMUNICACIÓN: 2,4GHz INALAMBRICO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZKP8013 - IMPRESORA ETIQUETA TERMICA *COLOR: BLANCA *RESOLUCION DE IMPRESIÓN: 203DPI *SALIDA: DC 24V/2,5A *INTERFAZ: USB *ANCHO MÁX DE IMPRESIÓN: 108MM *LARGO MÁX IMPRES - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKP8013-image-0-1716845136129.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZKP8013 - IMPRESORA ETIQUETA TERMICA *COLOR: BLANCA *RESOLUCION DE IMPRESIÓN: 203DPI *SALIDA: DC 24V/2,5A *INTERFAZ: USB *ANCHO MÁX DE IMPRESIÓN: 108MM *LARGO MÁX IMPRES",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZKP8016 - IMPRESORA TÉRMICA DE ESCRITORIO 80 MM *CORTADOR AUTOMÁTICO *VELOCIDAD DE IMPRESIÓN: 200 MM/S *TPH: 100KM *SALIDA: DC 24V/2.5A *INTERFAZ: USB+LAN - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKP8016_553069.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZKP8016 - IMPRESORA TÉRMICA DE ESCRITORIO 80 MM *CORTADOR AUTOMÁTICO *VELOCIDAD DE IMPRESIÓN: 200 MM/S *TPH: 100KM *SALIDA: DC 24V/2.5A *INTERFAZ: USB+LAN",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZKP8005 - IMPRESORA TÉRMICA DE ESCRITORIO 80 MM *CORTADOR AUTOMÁTICO *VELOCIDAD DE IMPRESIÓN: 230 MM/S *TPH: 100KM *SALIDA: DC 24V/2.5A *INTERFAZ: USB+LAN - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKP8005-image-1-16-30-5.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZKP8005 - IMPRESORA TÉRMICA DE ESCRITORIO 80 MM *CORTADOR AUTOMÁTICO *VELOCIDAD DE IMPRESIÓN: 230 MM/S *TPH: 100KM *SALIDA: DC 24V/2.5A *INTERFAZ: USB+LAN",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZKSOKiosk2000 - KIOSCO ATENCIÓN *Intel Core i5-6300U  *4GB DDR4 RAM 128GB SSD *PANTALLA 32\" LCD *COMUNICACIÓN: WIFI/TSP-IP/BLUETOOTH *INCLUYE IMPRESORA TERMICA 80mm/ESCANER 2D - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKSOKiosk2000_453483.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZKSOKiosk2000 - KIOSCO ATENCIÓN *Intel Core i5-6300U  *4GB DDR4 RAM 128GB SSD *PANTALLA 32\" LCD *COMUNICACIÓN: WIFI/TSP-IP/BLUETOOTH *INCLUYE IMPRESORA TERMICA 80mm/ESCANER 2D",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SC01-TD-W0603 - PUNTO DE VENTA  15,6\" *PANTALLA TOUCH CAPACITIVA *4GB DDR3 RAM128GB *USB Port: 1 * USB3.0, 5 * USB2.0 *ALIMENTACIÓN: DC 12V 5A *CPU:Intel Core i3-4030U @1.90GHz - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SC01-TD-W0603_466334.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SC01-TD-W0603 - PUNTO DE VENTA  15,6\" *PANTALLA TOUCH CAPACITIVA *4GB DDR3 RAM128GB *USB Port: 1 * USB3.0, 5 * USB2.0 *ALIMENTACIÓN: DC 12V 5A *CPU:Intel Core i3-4030U @1.90GHz",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZKC0408E - CAJON DE DINERO *4 ESPACIOS PARA BILLETES, 8 PARA MONEDAS, 1 PARA CHEQUES. *CERRADURA DE 3 POSICIONES. *SUJETA-BILLETES METÁLICO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKC0408E_360838.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZKC0408E - CAJON DE DINERO *4 ESPACIOS PARA BILLETES, 8 PARA MONEDAS, 1 PARA CHEQUES. *CERRADURA DE 3 POSICIONES. *SUJETA-BILLETES METÁLICO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "IPC-K7FN-3V0W-imou - CÁMARA IP WIFI CRUISER SC 3MP *TIPO PT *FULL COLOR *RASTERO INTELIGENTE *AUDIO BIDIRECCIONAL *1 PUERTO RJ45 *MICRO SD HASTA 512GB *PARA EXTERIORES *DISUASIVA - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-K7FN-3V0W-imou_793364.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "IPC-K7FN-3V0W-imou - CÁMARA IP WIFI CRUISER SC 3MP *TIPO PT *FULL COLOR *RASTERO INTELIGENTE *AUDIO BIDIRECCIONAL *1 PUERTO RJ45 *MICRO SD HASTA 512GB *PARA EXTERIORES *DISUASIVA",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/imou.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "IPC-K3DN-5V0W-0280B-imou - CAMARA IP WIFI BALA 5MP BULLET 2E FULL COLOR *PLASTICA *LENTE 2.8MM *DETEC. HUMANOS *MIC INTEGRADO *MICRO SD HASTA 512GB *IP67 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-K3DN-5V0W-0280B-imou_921998.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "IPC-K3DN-5V0W-0280B-imou - CAMARA IP WIFI BALA 5MP BULLET 2E FULL COLOR *PLASTICA *LENTE 2.8MM *DETEC. HUMANOS *MIC INTEGRADO *MICRO SD HASTA 512GB *IP67",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/imou.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TW991-BK - AUDIFONOS INALAMBRICOS ANTI VIENTO*DRIVERS AFINADOS DE 12MM*4MIC CON ENC REDUCCION DE RUIDO*CONEXION DUAL INTELIGENTE PARA 2 DISPOSITIVOS A LA VEZ*7HR BATERIA* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TW991-BK_547742.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TW991-BK - AUDIFONOS INALAMBRICOS ANTI VIENTO*DRIVERS AFINADOS DE 12MM*4MIC CON ENC REDUCCION DE RUIDO*CONEXION DUAL INTELIGENTE PARA 2 DISPOSITIVOS A LA VEZ*7HR BATERIA*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "KB251WB-BKG - COMBO TECLADO+MOUSE INALAMBRICO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/KB251WB-BKG_129436.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "KB251WB-BKG - COMBO TECLADO+MOUSE INALAMBRICO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "KB866L-BKR - TECLADO GAMER RGB - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/KB866L-BKR_122749.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "KB866L-BKR - TECLADO GAMER RGB",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SK763-BK - PARLANTE DE PC 3Wx2*USB+3,5mm AUX - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SK763-BK_339390.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SK763-BK - PARLANTE DE PC 3Wx2*USB+3,5mm AUX",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SK823BT-BG - PARLANTE PORTATIL RETRO RGB 2MIC*16W DE POTENCIA*DRIVERS 66mm*2MIC INALAMBRICOS*BT 5.3/TF MICRO SD/AUX*RADIO FM*TECNOLOGIA TWS*6HR BATERIA* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SK823BT-BG_240594.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SK823BT-BG - PARLANTE PORTATIL RETRO RGB 2MIC*16W DE POTENCIA*DRIVERS 66mm*2MIC INALAMBRICOS*BT 5.3/TF MICRO SD/AUX*RADIO FM*TECNOLOGIA TWS*6HR BATERIA*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SK818BT-BG - PARLANTE CON MICROFONO 5W - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SK818BT-BG_519759.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "SK818BT-BG - PARLANTE CON MICROFONO 5W",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "PB5267-BK - POWERBANK HAVIT 10,000mAh - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PB5267-BK_188168.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "PB5267-BK - POWERBANK HAVIT 10,000mAh",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "PB5266-BK - POWER BANK 10,000mAh ULTRA COMPACTO*CARGA RAPIDA 22,5W*CABLE USB-C/LIGHTNING INTEGRADOS*PANTALLA DIGITAL LED*ENTRADA RAPIDA 18W* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PB5266-BK_282309.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "PB5266-BK - POWER BANK 10,000mAh ULTRA COMPACTO*CARGA RAPIDA 22,5W*CABLE USB-C/LIGHTNING INTEGRADOS*PANTALLA DIGITAL LED*ENTRADA RAPIDA 18W*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HS-31DLC20D - MODULO SFP SINGLE MODE DUPLEX *1/2,5GIGABIT *LONGITUD DE ONDA 1310NM *DISTANCIA 20KM * INCLUYE DDM* MONITOREO POTENCIA OPTICA/VOLTAJE/TEMPERATURA* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HS-31DLC20D_922728.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HS-31DLC20D - MODULO SFP SINGLE MODE DUPLEX *1/2,5GIGABIT *LONGITUD DE ONDA 1310NM *DISTANCIA 20KM * INCLUYE DDM* MONITOREO POTENCIA OPTICA/VOLTAJE/TEMPERATURA*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/mikrotik.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HS-85DLC05D - MODULO SFP MULTI MODE DUPLEX* 1/2,5GIGABIT* LONGITUD DE ONDA 850NM* DISTANCIA 550M * INCLUYE DDM* MONITOREO POTENCIA OPTICA/VOLTAJE/TEMPERATURA* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HS-85DLC05D_318799.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HS-85DLC05D - MODULO SFP MULTI MODE DUPLEX* 1/2,5GIGABIT* LONGITUD DE ONDA 850NM* DISTANCIA 550M * INCLUYE DDM* MONITOREO POTENCIA OPTICA/VOLTAJE/TEMPERATURA*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/mikrotik.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "GPOE-USB - GPOE-USB* ALIMENTO EQUIPOS USB-C/5V CC DESDE EL POE* 2 PUERTOS 2,5G* 802,3AF/AT* 12-57V* OUT 3,0A/15W* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/GPOE-USB_807881.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "GPOE-USB - GPOE-USB* ALIMENTO EQUIPOS USB-C/5V CC DESDE EL POE* 2 PUERTOS 2,5G* 802,3AF/AT* 12-57V* OUT 3,0A/15W*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/mikrotik.webp",
             "categoria": "NOVEDADES"
         },
         {
@@ -4602,16 +4602,6 @@
             "categoria": "PROTECCION PERIMETRAL"
         },
         {
-            "nombre": "4550021 - CERCA INDUSTRIAL ELC6012*CHOQUE 5 JOULES*TENSION DE 12.000-18.000 VOLT.*1 ZONA CABLEADA* 7 ZONAS INALAMBRICAS*COBERTURA HASTA 10.000 MTS*INCLUYE MODULO WIFI. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4550021_270765.webp",
-            "categoria": "PROTECCION PERIMETRAL"
-        },
-        {
-            "nombre": "4550021 - CERCA INDUSTRIAL ELC6012*CHOQUE 5 JOULES*TENSION DE 12.000-18.000 VOLT.*1 ZONA CABLEADA* 7 ZONAS INALAMBRICAS*COBERTURA HASTA 10.000 MTS*INCLUYE MODULO WIFI.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
-            "categoria": "PROTECCION PERIMETRAL"
-        },
-        {
             "nombre": "4550014 - CERCA ELECTRICA ELC 6012 NET*WIFI*8 ZONAS*7 INALAMBRICAS-1 ZONA CABLEADA*PARA 7000 MTS LINEALES DE CERCA CABLEADA. - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4550014_795773.webp",
             "categoria": "PROTECCION PERIMETRAL"
@@ -5852,12 +5842,12 @@
             "categoria": "REDES"
         },
         {
-            "nombre": "UB500 - ADAPTADOR NANO USB BLUETOOTH 5.0*SOPORTA WINDONWS 10/8.1/8/7/XP*PlUG AND PLAY PARA WIN 8-WIN 8.1*PARA WIN11* - Iniciar sesión",
+            "nombre": "UB500 - ADAPTADOR NANO USB BLUETOOTH 5.4* SOPORTA WINDONWS 11/10/8.1/8/7/ * PLUG AND PLAY* TAMAÑO NANO 14.8X6.8X18.9 MM* - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/UB500-image-0-1724949153741.webp",
             "categoria": "REDES"
         },
         {
-            "nombre": "UB500 - ADAPTADOR NANO USB BLUETOOTH 5.0*SOPORTA WINDONWS 10/8.1/8/7/XP*PlUG AND PLAY PARA WIN 8-WIN 8.1*PARA WIN11*",
+            "nombre": "UB500 - ADAPTADOR NANO USB BLUETOOTH 5.4* SOPORTA WINDONWS 11/10/8.1/8/7/ * PLUG AND PLAY* TAMAÑO NANO 14.8X6.8X18.9 MM*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/tp-link.webp",
             "categoria": "REDES"
         },
@@ -6899,46 +6889,6 @@
         {
             "nombre": "ZBM5-2C-120W - INTERRUPTOR 2 GANG ZIGBEE*COLOR BLANCO*COMPATIBLE CON Y SIN NEUTRO*Zigbee 3.0*DIMENSION 120x74x39,4mm*MATERIAL PC+CRS*REQUIERE HUB ZIGBEE",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/sonoff.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4543567 - TECLADO INALAMBRICO XAT 8000 EXP CON BATERIA*FRECUENCIA 912 A 928 MHZ*COMPATIBLE SOLO CON PANEL AMT8000*DISTANCIA HASTA 1000 MTS*BATERIA CR2450 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4543567_678641.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4543567 - TECLADO INALAMBRICO XAT 8000 EXP CON BATERIA*FRECUENCIA 912 A 928 MHZ*COMPATIBLE SOLO CON PANEL AMT8000*DISTANCIA HASTA 1000 MTS*BATERIA CR2450",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4630400 - LUZ DE EMERGENCIA TIPO LAMPARA DOBLE BLA 400, Tensión de alimentación 100 a 240 V 60Hz Consumo 2,2 W (cargando) Autonomía >3 horas Flujo luminoso 400 lm. - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4630400-image-0-1756996098045.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4630400 - LUZ DE EMERGENCIA TIPO LAMPARA DOBLE BLA 400, Tensión de alimentación 100 a 240 V 60Hz Consumo 2,2 W (cargando) Autonomía >3 horas Flujo luminoso 400 lm.",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4540056 - SENSOR INALAMBRICO IVP 8000 PET G2 - C/BATERIA*COMPATIBLE SOLO CON LA LINEA 8000*FRECUENCIA 915-928 MHZ*BATERIA CR123A*ANGULO DE DETECCION 90°-12 MTS*PET 20 KG - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4540056_176326.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4540056 - SENSOR INALAMBRICO IVP 8000 PET G2 - C/BATERIA*COMPATIBLE SOLO CON LA LINEA 8000*FRECUENCIA 915-928 MHZ*BATERIA CR123A*ANGULO DE DETECCION 90°-12 MTS*PET 20 KG",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4600162 - MEMORIA MICRO SD 32GB*DISEÑADA PARA TRABAJAR EN CAMARAS DE SEGURIDAD-VEHICULOS*GRABACION CONTINUA 24/7*DURABILIDAD 5VECES MAYOR*COLABORACION CON WESTERN DIGITAL - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/4600162_702070.webp",
-            "categoria": "TELEFONIA"
-        },
-        {
-            "nombre": "4600162 - MEMORIA MICRO SD 32GB*DISEÑADA PARA TRABAJAR EN CAMARAS DE SEGURIDAD-VEHICULOS*GRABACION CONTINUA 24/7*DURABILIDAD 5VECES MAYOR*COLABORACION CON WESTERN DIGITAL",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/intelbras.webp",
             "categoria": "TELEFONIA"
         },
         {
