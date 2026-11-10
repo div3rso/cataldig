@@ -1,6 +1,86 @@
 {
-    "version": "11072026.00.02",
+    "version": "11102026.01.33",
     "productos": [
+        {
+            "nombre": "MS1044WB - MOUSE GAMER RGB PANAL TRI-MODO*CONEXION 3EN1: 2,4GHz/BT 5.2/USB-C*SENSOR OPTICO 800 / 1200 / 1600 / 2400 / 4200 / 8000 DPI*BATERIA RECARGABLE DE LARGA AUTONOMIA - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MS1044WB_775918.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "MS1044WB - MOUSE GAMER RGB PANAL TRI-MODO*CONEXION 3EN1: 2,4GHz/BT 5.2/USB-C*SENSOR OPTICO 800 / 1200 / 1600 / 2400 / 4200 / 8000 DPI*BATERIA RECARGABLE DE LARGA AUTONOMIA",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HOUYI-M1 PRO-WH - MOUSE GAMER PRO BLANCO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HOUYI-M1PRO-WH_753962.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HOUYI-M1 PRO-WH - MOUSE GAMER PRO BLANCO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HOUYI-M1 PRO-BK - MOUSE GAMER PRO - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HOUYI-M1PRO-BK_692957.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "HOUYI-M1 PRO-BK - MOUSE GAMER PRO",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "MS44GT-BL - MOUSE INALAMBRICO AZUL - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MS44GT-BL_153971.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "MS44GT-BL - MOUSE INALAMBRICO AZUL",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "AIRBUDS K1-BLUE - AUDIFONOS INALAMBRICOS TIPO CLIP AZUL*CARCASA GIRATORIA CON DIFERENTES EXPRESIONES*CORREA INCLUIDA*BT V6.0*ALCANCE 15mt*IPX4 RESISTENTE AL AGUA*CONTROL TOUCH - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AIRBUDSK1-BLUE_359479.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "AIRBUDS K1-BLUE - AUDIFONOS INALAMBRICOS TIPO CLIP AZUL*CARCASA GIRATORIA CON DIFERENTES EXPRESIONES*CORREA INCLUIDA*BT V6.0*ALCANCE 15mt*IPX4 RESISTENTE AL AGUA*CONTROL TOUCH",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "AIRBUDS K1-PINK - AUDIFONOS INALAMBRICOS TIPO CLIP ROSA*CARCASA GIRATORIA CON DIFERENTES EXPRESIONES*CORREA INCLUIDA*BT V6.0*ALCANCE 15mt*IPX4 RESISTENTE AL AGUA*CONTROL TOUCH - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AIRBUDSK1-PINK_874477.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "AIRBUDS K1-PINK - AUDIFONOS INALAMBRICOS TIPO CLIP ROSA*CARCASA GIRATORIA CON DIFERENTES EXPRESIONES*CORREA INCLUIDA*BT V6.0*ALCANCE 15mt*IPX4 RESISTENTE AL AGUA*CONTROL TOUCH",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PLAYPOP 8 - CAJA DE JUEGOS CON DETECCION CORPORAL*OCTA CORE 2,2GHz*RAM 8GB+ROM128GB*WIFI 6*BLUETOOTH V5.0*ANDROID 14 ACTUALIZABLE*ALTAVOZ 2W*RGB - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PLAYPOP8_524243.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PLAYPOP 8 - CAJA DE JUEGOS CON DETECCION CORPORAL*OCTA CORE 2,2GHz*RAM 8GB+ROM128GB*WIFI 6*BLUETOOTH V5.0*ANDROID 14 ACTUALIZABLE*ALTAVOZ 2W*RGB",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "VT07-B01-W - MONITOR IP COMPATIBLE ÚNICAMENTE CON SERIE SENSEFACE *PANTALLA TACTIL DE 7 PULGADAS *COMUNICACION TCP/IP *CONEXION SIP CON EQUIPOS SENSEFACE PARA FUNCION DE VID - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/VT07B01W-image-0-1749569216445.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "VT07-B01-W - MONITOR IP COMPATIBLE ÚNICAMENTE CON SERIE SENSEFACE *PANTALLA TACTIL DE 7 PULGADAS *COMUNICACION TCP/IP *CONEXION SIP CON EQUIPOS SENSEFACE PARA FUNCION DE VID",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "SenseFace 7A/Wifi - CONTROL DE ACCESO *PANTALLA TOUCH 7” *CAP.: FACIAL: 10 000 *RFID: 50 000 *HUELLAS: 10 000 *EVENTOS: 300000 *COM.: TCP/IP, USB HOST, WI-FI *ALIMENTACIÓN: 12 VDC - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SenseFace7AWifi_292518.webp",
@@ -839,86 +919,6 @@
         {
             "nombre": "HAC-HDW1249SM-IL-A-PR-DIP - CAMARA HDCVI 2MP WIZCOLOR CON AUDIO *METALICA *DIST. ILUM. 30M *MIC INTEGRADO *LENTE 2.8MM *IP67",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "F363 - CAJA DE SOBREPONER INTERIOR 8,5X8,5X5 CM - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F363_397440.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "F363 - CAJA DE SOBREPONER INTERIOR 8,5X8,5X5 CM",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "C984 - CORTADOR DE TUBO BUFFER (3,2 A 5,6MM) ESTA HERRAMIENTA DE DESPRENDIMIENTO DE FIBRA ÓPTICA Y COAXIAL PROPORCIONA UN AGARRE CÓMODO Y SEGURO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/C984-image-0-1761338061278.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "C984 - CORTADOR DE TUBO BUFFER (3,2 A 5,6MM) ESTA HERRAMIENTA DE DESPRENDIMIENTO DE FIBRA ÓPTICA Y COAXIAL PROPORCIONA UN AGARRE CÓMODO Y SEGURO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TF-K21-BL - CARGADOR TRANSFORMERS AUTOBOT 35W GaN AZUL*PUERTO DUAL DE CARGA USB-A,USB-C*ENCHUFE PLEGABLE*AMPLIA COMPATIBILIDAD - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TF-K21-BL_956367.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TF-K21-BL - CARGADOR TRANSFORMERS AUTOBOT 35W GaN AZUL*PUERTO DUAL DE CARGA USB-A,USB-C*ENCHUFE PLEGABLE*AMPLIA COMPATIBILIDAD",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/transformers.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TF-K21-SILVER - CARGADOR TRANSFORMERS MAXIMALS 35W GaN PLATEADO*PUERTO DUAL DE CARGA USB-A,USB-C*ENCHUFE PLEGABLE*AMPLIA COMPATIBILIDAD - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/TF-K21-SILVER_725170.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "TF-K21-SILVER - CARGADOR TRANSFORMERS MAXIMALS 35W GaN PLATEADO*PUERTO DUAL DE CARGA USB-A,USB-C*ENCHUFE PLEGABLE*AMPLIA COMPATIBILIDAD",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/transformers.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "M011 - FUENTE DE ALIMENTACIÓN 24V-5A*IDEAL PARA EQUIPOS CONTRA INCENDIOS-ACCESOS *VOLTAJE DE ENTRADA 110-240*AUTONOMIA 24HRS STAND BY/5MIN EN ALARMA*NO INCLUYE BATERIA - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/M011_470870.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "M011 - FUENTE DE ALIMENTACIÓN 24V-5A*IDEAL PARA EQUIPOS CONTRA INCENDIOS-ACCESOS *VOLTAJE DE ENTRADA 110-240*AUTONOMIA 24HRS STAND BY/5MIN EN ALARMA*NO INCLUYE BATERIA",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "N134 - CERRADURA BIDIRECCIONAL *LECTOR RFID 13,56MHz *ALIMENTACIÓN: DC 6V, 4 PILAS AA *INCLUYE: 3 LLAVES, 2 LLAVEROS *CUERPO DE ACERO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/N134_467054.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "N134 - CERRADURA BIDIRECCIONAL *LECTOR RFID 13,56MHz *ALIMENTACIÓN: DC 6V, 4 PILAS AA *INCLUYE: 3 LLAVES, 2 LLAVEROS *CUERPO DE ACERO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "N133 - CERRADURA ELÉCTRICA CON BOTON - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/N133_841418.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "N133 - CERRADURA ELÉCTRICA CON BOTON",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "N132 - CERRADURA ELÉCTRICA DE ACERO INOXIDABLE - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/N132_320835.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "N132 - CERRADURA ELÉCTRICA DE ACERO INOXIDABLE",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dimax.webp",
             "categoria": "NOVEDADES"
         },
         {
