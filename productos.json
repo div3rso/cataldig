@@ -1,6 +1,126 @@
 {
-    "version": "11102026.01.33",
+    "version": "11132026.00.29",
     "productos": [
+        {
+            "nombre": "DE7400-I5-8-256-A/RFB - DELL LATITUDE 7400 NOTEBOOK 14\" FHD*WEB CAM*CORE I5-8365U*8GB RAM/256GB SSD*WIN 11 PRO*REFURBISHED GRADO A - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DE7400-I5-8-256-ARFB_962836.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "DE7400-I5-8-256-A/RFB - DELL LATITUDE 7400 NOTEBOOK 14\" FHD*WEB CAM*CORE I5-8365U*8GB RAM/256GB SSD*WIN 11 PRO*REFURBISHED GRADO A",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dell.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "F12094-GCT - MOTOR DESLIZANTE FIT TURBO 1/3HP *ALIMETNACIÓN 127VAC *CENTRAL FIT TURBO CONNECT *INCLUYE 2 CONTROLES - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/F12094-GCT_972179.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "F12094-GCT - MOTOR DESLIZANTE FIT TURBO 1/3HP *ALIMETNACIÓN 127VAC *CENTRAL FIT TURBO CONNECT *INCLUYE 2 CONTROLES",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "A02060 - KIT DE CENTRAL CON WIFI PARA PUERTA ARROLLABLE *COMPATIBLE CON: GA-500, GA-600, GA-800 Y GA-1000 *RECEPTOR PARA CONTROL REMOTO 433MHz - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/A02060_206892.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "A02060 - KIT DE CENTRAL CON WIFI PARA PUERTA ARROLLABLE *COMPATIBLE CON: GA-500, GA-600, GA-800 Y GA-1000 *RECEPTOR PARA CONTROL REMOTO 433MHz",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/garen.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZKBioCV-TA-P10 - LICENCIA DE CONTROL ASISTENCIA PARA ZKBIO CVSECURITY *PARA 10 PUNTOS DE ASISTENCIA *HASTA 30000 USUARIOS *LICENCIA PERPETUA - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKBIOCVTAP10-image-1-15-58-37.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "ZKBioCV-TA-P10 - LICENCIA DE CONTROL ASISTENCIA PARA ZKBIO CVSECURITY *PARA 10 PUNTOS DE ASISTENCIA *HASTA 30000 USUARIOS *LICENCIA PERPETUA",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SI-31e - SENSOR DE PRESENCIA - ILUMINACION EXTERIOR*ANGULO DE 360° DETECCION*ALCANCE 10 MTS*ALTURA DE INSTALACION DE 1.8 A 4 MTS*CORRIENTE MAXIMA 10AMP - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SI-31e_763626.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SI-31e - SENSOR DE PRESENCIA - ILUMINACION EXTERIOR*ANGULO DE 360° DETECCION*ALCANCE 10 MTS*ALTURA DE INSTALACION DE 1.8 A 4 MTS*CORRIENTE MAXIMA 10AMP",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SI-31i - SENSOR DE PRESENCIA PARA ILUMINACION DE SUPERFICIE*ANGULO DE DETECCION 360° - ALTURA DE DETECCION DE 1.8-4 MTS*INSTALACION EN PARED O TECHO*CORRIENTE MAXIMA 10A - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SI-31i_877427.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SI-31i - SENSOR DE PRESENCIA PARA ILUMINACION DE SUPERFICIE*ANGULO DE DETECCION 360° - ALTURA DE DETECCION DE 1.8-4 MTS*INSTALACION EN PARED O TECHO*CORRIENTE MAXIMA 10A",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SI-51 - SENSOR DE ILUMINACION PARA TECHO*ANGULO DE DETECCION DE 360° - ALCANCE DE HASTA 7 MTS*ALTURA DE INSTALACION DE 2 A 4 MTS*CORRIENTE MAXIMA DE 10 AMP. - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/SI-51_242633.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "SI-51 - SENSOR DE ILUMINACION PARA TECHO*ANGULO DE DETECCION DE 360° - ALCANCE DE HASTA 7 MTS*ALTURA DE INSTALACION DE 2 A 4 MTS*CORRIENTE MAXIMA DE 10 AMP.",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "JFL-SVP1 - VIDEO PORTERO SMART WI-FI*RESOLUCION 2 MP*LENTE 2.4 MM ANGULO 145° - AUDIO FULL DUPLEX*DETECCION DE MOVIMIENTO*VISIBILIDAD NOCTURNA DE 10 MTS*APERTURA DE CHAPA - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/JFL-SVP1_358053.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "JFL-SVP1 - VIDEO PORTERO SMART WI-FI*RESOLUCION 2 MP*LENTE 2.4 MM ANGULO 145° - AUDIO FULL DUPLEX*DETECCION DE MOVIMIENTO*VISIBILIDAD NOCTURNA DE 10 MTS*APERTURA DE CHAPA",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jfl.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PJ610 PLUS-EU-BK - PROYECTOR LASER CON RGB 900 ANSI*RESOLUCION NATIVA 1080P*4K DECODE*PANTALLA DE 60\"-100\"*60Hz REFRESCO*WIFI DOBLE BANDA*ALTAVOZ 20Wx2*GOOGLE TV 11.0*ANDROID 13 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PJ610PLUS-EU-BK_423501.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PJ610 PLUS-EU-BK - PROYECTOR LASER CON RGB 900 ANSI*RESOLUCION NATIVA 1080P*4K DECODE*PANTALLA DE 60\"-100\"*60Hz REFRESCO*WIFI DOBLE BANDA*ALTAVOZ 20Wx2*GOOGLE TV 11.0*ANDROID 13",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "MS46WB-BK - MOUSE INALAMBRICO DUAL NEGRO*CONEXION 2,4GHz+BT 5.0*ALCANCE 10M*CLICS SILENCIOSOS*1200DPI*BATERIA RECARGABLE CON PUERTO USB -C*PESO 69g - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MS46WB-BK_279174.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "MS46WB-BK - MOUSE INALAMBRICO DUAL NEGRO*CONEXION 2,4GHz+BT 5.0*ALCANCE 10M*CLICS SILENCIOSOS*1200DPI*BATERIA RECARGABLE CON PUERTO USB -C*PESO 69g",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "OWS915-WH - AURICULARES TWS DE OIDO ABIERTO BLANCO*RESISTENCIA IPX5 AL AGUA Y SUDOR*64HRS DE BATERIA CON ESTUCHE DE CARGA*8,5HR DE BATERIA INTERNA*ENC REDUCCION DE RUIDO AM - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/OWS915-WH_870476.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "OWS915-WH - AURICULARES TWS DE OIDO ABIERTO BLANCO*RESISTENCIA IPX5 AL AGUA Y SUDOR*64HRS DE BATERIA CON ESTUCHE DE CARGA*8,5HR DE BATERIA INTERNA*ENC REDUCCION DE RUIDO AM",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PS100E-EU - PANTALLA DE PROYECCION DE 100\" ELECTRICA*SISTEMA DE DESPLIEGUE Y GUARDADO ELECTRONICO*RELACION DE ASPECTO 16:9*EMPOTRABLE*220 VAC*INCLUTE CONTROL REMOTO* - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/PS100EEU-image-0-1747927638000.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "PS100E-EU - PANTALLA DE PROYECCION DE 100\" ELECTRICA*SISTEMA DE DESPLIEGUE Y GUARDADO ELECTRONICO*RELACION DE ASPECTO 16:9*EMPOTRABLE*220 VAC*INCLUTE CONTROL REMOTO*",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/havit.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "MS1044WB - MOUSE GAMER RGB PANAL TRI-MODO*CONEXION 3EN1: 2,4GHz/BT 5.2/USB-C*SENSOR OPTICO 800 / 1200 / 1600 / 2400 / 4200 / 8000 DPI*BATERIA RECARGABLE DE LARGA AUTONOMIA - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MS1044WB_775918.webp",
@@ -799,126 +919,6 @@
         {
             "nombre": "JBLT520BTBLUAM - AUDIFONO JBL TUNE 520BT AZUL*JBL PURE BASS*BT V5.3*57HRS DE BATERIA*COMPATIBLE CON APP JBL*MANOS LIBRES*PLEGABLES*",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jbl.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "JBLBAR500M2BLKAM - BARRA DE SONIDO JBL 500MK2 CON SUBWOOFER*SONIDO 5.1*POTENCIA DEMOLEDORA 750W*CONECTIVIDAD WI-FI 6 DOBLE BANDA*AUDIO 3D DOLBY ATMOS Y DTS VIRTUAL X*HDMI ARC - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/JBLBAR500M2BLKAM_644658.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "JBLBAR500M2BLKAM - BARRA DE SONIDO JBL 500MK2 CON SUBWOOFER*SONIDO 5.1*POTENCIA DEMOLEDORA 750W*CONECTIVIDAD WI-FI 6 DOBLE BANDA*AUDIO 3D DOLBY ATMOS Y DTS VIRTUAL X*HDMI ARC",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jbl.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HKLUNAGRYAM - ALTAVOZ HARMAN KARDON LUNA GRIS*DISEÑO ELEGANTE Y PREMIUM*RESITENCIA AL AGUA IP67*AUTONOMIA 12HR* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HKLUNAGRYAM_169327.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HKLUNAGRYAM - ALTAVOZ HARMAN KARDON LUNA GRIS*DISEÑO ELEGANTE Y PREMIUM*RESITENCIA AL AGUA IP67*AUTONOMIA 12HR*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/harman.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "JBLSB180BLKBR2 - JBL CINEMA SB180 CON SUBWOOFER*POTENCIA 220W RMS*SUBWOOFER INALAMBRICO 2.5\"*CONEXION BLUETOOTH 5.2*ENTRADA OPTICA Y USB*DISEÑO ESTILIZADO Y MONTAJE EN PARED - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/JBLSB180BLKBR2_465914.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "JBLSB180BLKBR2 - JBL CINEMA SB180 CON SUBWOOFER*POTENCIA 220W RMS*SUBWOOFER INALAMBRICO 2.5\"*CONEXION BLUETOOTH 5.2*ENTRADA OPTICA Y USB*DISEÑO ESTILIZADO Y MONTAJE EN PARED",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/jbl.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HKLUNABLKAM - ALTAVOZ HARMAN KARDON LUNA BLACK*DISEÑO ELEGANTE Y PREMIUM*RESITENCIA AL AGUA IP67*AUTONOMIA 12HR* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HKLUNABLKAM_953107.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HKLUNABLKAM - ALTAVOZ HARMAN KARDON LUNA BLACK*DISEÑO ELEGANTE Y PREMIUM*RESITENCIA AL AGUA IP67*AUTONOMIA 12HR*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/harman.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DHI-LCH65-MC410-B-S2 - PANTALLA INTERACTIVA 4K *ANDROID 14 *RAM 8GB *CAMARA 48MP / VIDEO 4MP *2 PARLANTES INCORPORADOS X 15W *ARREGLO DE 8 MICROFONOS - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHI-LCH65-MC410-B-S2_625998.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DHI-LCH65-MC410-B-S2 - PANTALLA INTERACTIVA 4K *ANDROID 14 *RAM 8GB *CAMARA 48MP / VIDEO 4MP *2 PARLANTES INCORPORADOS X 15W *ARREGLO DE 8 MICROFONOS",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "CCK02220 - PROYECTOR YABER K3 1600 ANSI LUM*RESOLUCION NATIVA 1080P CON SOPORTE 4K*PROYECCION 40\"-200\"ALTAVOCES JBL 15W DOLBY AUDIO*GOOGLE TV INTEGRADO*NOVAGLOW*USA - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CCK02220_361401.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "CCK02220 - PROYECTOR YABER K3 1600 ANSI LUM*RESOLUCION NATIVA 1080P CON SOPORTE 4K*PROYECCION 40\"-200\"ALTAVOCES JBL 15W DOLBY AUDIO*GOOGLE TV INTEGRADO*NOVAGLOW*USA",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yaber.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "CCK02175 - PROYECTOR YABER K2S 800ANSI LUM*RESOLUCION NATIVA FHD 1080P CON SOPORTE A 4K*PROYECCION DE 40\"-200\"*SONIDO JBL 10W INTEGRADO DOLBY AUDIO*ANDROID TV 12*WIFI6*USA - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CCK02175_527393.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "CCK02175 - PROYECTOR YABER K2S 800ANSI LUM*RESOLUCION NATIVA FHD 1080P CON SOPORTE A 4K*PROYECCION DE 40\"-200\"*SONIDO JBL 10W INTEGRADO DOLBY AUDIO*ANDROID TV 12*WIFI6*USA",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yaber.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HAC-HFW1219SLN-IL-A-PRO - CAMARA HDCVI BALA 2MP WIZCOLOR C/ MIC INTEGRADO *pPLASTICA *MAX 30 fps@1080p *DIST. ILUM. 30M *LENTE 2.8MM *CVI/CVBS/AHD/TVI * IP67 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HAC-HFW1219SLN-IL-A-PRO_881955.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HAC-HFW1219SLN-IL-A-PRO - CAMARA HDCVI BALA 2MP WIZCOLOR C/ MIC INTEGRADO *pPLASTICA *MAX 30 fps@1080p *DIST. ILUM. 30M *LENTE 2.8MM *CVI/CVBS/AHD/TVI * IP67",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "CBK01332 - YABER L1 PRO 500 ANSI LUMENES 1080P*SOPORTE INTEGRADO CON ROTACION 330°*OS SMART TV CON NETFLIX, YOUTUBE, ETC*PARLANTE CON POTENCIA DE 8W*PROYECTA 40\"-100\"* - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/CBK01332_945517.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "CBK01332 - YABER L1 PRO 500 ANSI LUMENES 1080P*SOPORTE INTEGRADO CON ROTACION 330°*OS SMART TV CON NETFLIX, YOUTUBE, ETC*PARLANTE CON POTENCIA DE 8W*PROYECTA 40\"-100\"*",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/yaber.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DHI-LM32-F200N-B4-V1 - MONITOR LED FULL-HD *32 PULGADAS *PANTALLA IPS *TRABAJA 24/7 *VESA *AUDIO 1I/1O *PARLANTE 2 × 8 W *TIEMPO DE RESPUESTA 8 ms - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/DHI-LM32-F200N-B4-V1_494556.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "DHI-LM32-F200N-B4-V1 - MONITOR LED FULL-HD *32 PULGADAS *PANTALLA IPS *TRABAJA 24/7 *VESA *AUDIO 1I/1O *PARLANTE 2 × 8 W *TIEMPO DE RESPUESTA 8 ms",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "IPC-HDW1230T1-A-028-S6-QH - CAMARA IP DOMO 2MP CON AUDIO *METAL/PLASTICA *SENSOR 1/2.9\" CMOS *DIST. ILUMINACIÓN 30M *DWDR, 3D NR, HLC, BLC *MIC INTEGRADO *12 VDC/PoE *IP67 *1 RJ45 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/IPC-HDW1230T1-A-028-S6-QH_164998.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "IPC-HDW1230T1-A-028-S6-QH - CAMARA IP DOMO 2MP CON AUDIO *METAL/PLASTICA *SENSOR 1/2.9\" CMOS *DIST. ILUMINACIÓN 30M *DWDR, 3D NR, HLC, BLC *MIC INTEGRADO *12 VDC/PoE *IP67 *1 RJ45",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HAC-HDW1249SM-IL-A-PR-DIP - CAMARA HDCVI 2MP WIZCOLOR CON AUDIO *METALICA *DIST. ILUM. 30M *MIC INTEGRADO *LENTE 2.8MM *IP67 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/HAC-HDW1249SM-IL-A-PR-DIP_331040.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "HAC-HDW1249SM-IL-A-PR-DIP - CAMARA HDCVI 2MP WIZCOLOR CON AUDIO *METALICA *DIST. ILUM. 30M *MIC INTEGRADO *LENTE 2.8MM *IP67",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/dahua.webp",
             "categoria": "NOVEDADES"
         },
         {
