@@ -1,6 +1,66 @@
 {
-    "version": "11222026.00.27",
+    "version": "11252026.02.25",
     "productos": [
+        {
+            "nombre": "AW191NXT06 - Patch panel para rack Cat.6 Pre-con gurado, sin blindaje, tipo 110 • Pares: 4P • Blindaje: U/UTP • Configuración: Pre configurado • Puertos: 24 - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AW191NXT06_851074.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "AW191NXT06 - Patch panel para rack Cat.6 Pre-con gurado, sin blindaje, tipo 110 • Pares: 4P • Blindaje: U/UTP • Configuración: Pre configurado • Puertos: 24",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/nexxt.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "AW160NXT50 - Tapa Ciega - Blanca Presentación: (Bolsa de 100 unidades) • Tamaño: 1 puerto - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AW160NXT50_603499.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "AW160NXT50 - Tapa Ciega - Blanca Presentación: (Bolsa de 100 unidades) • Tamaño: 1 puerto",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/nexxt.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "NEB-UTP6OUTBK - 100% cobre • Pares: 4P • Calibre: 24AWG • Blindaje: U/UTP • Clasificacion de resistencia al fuego: CMX • Longitud: 305m • Certificación UL - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/NEB-UTP6OUTBK_783617.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "NEB-UTP6OUTBK - 100% cobre • Pares: 4P • Calibre: 24AWG • Blindaje: U/UTP • Clasificacion de resistencia al fuego: CMX • Longitud: 305m • Certificación UL",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/nexxt.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "AB356NXT31 - 100% Cobre • Pares: 4P • Calibre: 24AWG • Blindaje: U/UTP • Clasificacion de resistencia al fuego: CM • Longitud: 305m • Color: Gris • Certifocación UL - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AB356NXT31_142229.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "AB356NXT31 - 100% Cobre • Pares: 4P • Calibre: 24AWG • Blindaje: U/UTP • Clasificacion de resistencia al fuego: CM • Longitud: 305m • Color: Gris • Certifocación UL",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/nexxt.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "AB356NXT01 - 100% Cobre • Pares: 4P • Calibre: 23AWG • Blindaje: U/UTP • Clasificación de resistencia al fuego: CM • Longitud: 305m • Color: Gris • Certificación UL - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/AB356NXT01_653526.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "AB356NXT01 - 100% Cobre • Pares: 4P • Calibre: 23AWG • Blindaje: U/UTP • Clasificación de resistencia al fuego: CM • Longitud: 305m • Color: Gris • Certificación UL",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/nexxt.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "FPP-TP3002-I - Capacidad de salida: 3000W total (Sobretensión 5000W) • Tipo de batería: 3071,25Wh (48,75V 63Ah) LiMnFePO4 • Método de carga: Toma de pared de CA | MPPT Solar - Iniciar sesión",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/FPP-TP3002-I_649707.webp",
+            "categoria": "NOVEDADES"
+        },
+        {
+            "nombre": "FPP-TP3002-I - Capacidad de salida: 3000W total (Sobretensión 5000W) • Tipo de batería: 3071,25Wh (48,75V 63Ah) LiMnFePO4 • Método de carga: Toma de pared de CA | MPPT Solar",
+            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/forza.webp",
+            "categoria": "NOVEDADES"
+        },
         {
             "nombre": "FPP-TP2402-I - Capacidad de salida: 2400W total (Sobretensión 4000W) • Tipo de batería: 2047,5Wh (48,75V 42Ah) LiMnFePO4 • Método de carga: Toma de pared de CA | MPPT Solar - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/FPP-TP2402-I_923251.webp",
@@ -859,66 +919,6 @@
         {
             "nombre": "E78T24-GRAPHITE - AMAZON ECHO SHOW 11 GRAFITO",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/amazon.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZE8TAH-BLT - AMAZON ECHO FRAMES BLUE TORTOISE*GAFAS INTELIGENTES - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZE8TAH-BLT_155837.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "ZE8TAH-BLT - AMAZON ECHO FRAMES BLUE TORTOISE*GAFAS INTELIGENTES",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/amazon.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MA49CA-GWH - AMAZON ECHO DOT MAX BLANCO GLACIAR - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MA49CA-GWH_992500.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MA49CA-GWH - AMAZON ECHO DOT MAX BLANCO GLACIAR",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/amazon.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MA49CA-GRAPHITE - AMAZON ECHO DOT MAX GRAFITO - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MA49CA-GRAPHITE_515978.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MA49CA-GRAPHITE - AMAZON ECHO DOT MAX GRAFITO",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/amazon.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MA49CA-AMETHYST - AMAZON ECHO DOT MAX AMATISTA - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/MA49CA-AMETHYST_359911.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "MA49CA-AMETHYST - AMAZON ECHO DOT MAX AMATISTA",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/amazon.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "830G8-I7-32-256-TS-A/RFB - HP ELITEBOOK 830 G8 13,3\"*CORE I7-1185G7*32GB RAM/256GB SSD*TOUCH SCREEN*WIN 11 PRO*WEB CAM*REFURBISHED GRADO A - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/830G8-I7-32-256-TS-ARFB_317508.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "830G8-I7-32-256-TS-A/RFB - HP ELITEBOOK 830 G8 13,3\"*CORE I7-1185G7*32GB RAM/256GB SSD*TOUCH SCREEN*WIN 11 PRO*WEB CAM*REFURBISHED GRADO A",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/hp.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "NEST 10 - MARCO DE FOTOGRAFIAS DIGITAL*PROCESADOR QUAD CORE A35 1,5GHz*10,1\" 800*1280 HD+ IPS*RAM 2GB+ROM32GB AMPLIABLE A 512GB*WIFI 6*ANDROID 11 - Iniciar sesión",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/NEST10_754563.webp",
-            "categoria": "NOVEDADES"
-        },
-        {
-            "nombre": "NEST 10 - MARCO DE FOTOGRAFIAS DIGITAL*PROCESADOR QUAD CORE A35 1,5GHz*10,1\" 800*1280 HD+ IPS*RAM 2GB+ROM32GB AMPLIABLE A 512GB*WIFI 6*ANDROID 11",
-            "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/blackview.webp",
             "categoria": "NOVEDADES"
         },
         {
@@ -3417,12 +3417,12 @@
             "categoria": "CONTROL DE ACCESO"
         },
         {
-            "nombre": "ZKP5808 - IMPRESORA TERMICA 58mm *IMPRESIÓN DE ALTA VELOCIDAD * FACIL CAMBIO DE PAPEL *ANCHO DE PAPEL 57.5 ± 0.5mm *DIÁMETRO DE IMPRESIÓN 58 * F75mm *ALIMENTACIÓN: DC 12V - Iniciar sesión",
+            "nombre": "ZKP5808 - IMPRESORA TERMICA 58mm *IMPRESIÓN DE ALTA VELOCIDAD * FACIL CAMBIO DE PAPEL *ANCHO DE PAPEL 57.5 ± 0.5mm *DIÁMETRO DE IMPRESIÓN 58 * F75mm *ALIMENTACIÓN: DC. - Iniciar sesión",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/img/small/ZKP5808-image-1.webp",
             "categoria": "CONTROL DE ACCESO"
         },
         {
-            "nombre": "ZKP5808 - IMPRESORA TERMICA 58mm *IMPRESIÓN DE ALTA VELOCIDAD * FACIL CAMBIO DE PAPEL *ANCHO DE PAPEL 57.5 ± 0.5mm *DIÁMETRO DE IMPRESIÓN 58 * F75mm *ALIMENTACIÓN: DC 12V",
+            "nombre": "ZKP5808 - IMPRESORA TERMICA 58mm *IMPRESIÓN DE ALTA VELOCIDAD * FACIL CAMBIO DE PAPEL *ANCHO DE PAPEL 57.5 ± 0.5mm *DIÁMETRO DE IMPRESIÓN 58 * F75mm *ALIMENTACIÓN: DC.",
             "imagen": "https://images-digicorp.nyc3.cdn.digitaloceanspaces.com/filesDigicorp/BO/brands/zkteco.webp",
             "categoria": "CONTROL DE ACCESO"
         },
